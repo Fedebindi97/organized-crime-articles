@@ -1,0 +1,2463 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-08-07">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="width" type="long" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="size" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Héctor Rusthenford Guerrero Flores" label="Héctor Rusthenford Guerrero Flores">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Pedro Oliverio Guerrero" label="Pedro Oliverio Guerrero">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Hermágoras González Polanco" label="Hermágoras González Polanco">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Samark López Bello" label="Samark López Bello">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Tareck El Aissami" label="Tareck El Aissami">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Walid Makled" label="Walid Makled">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Henry de Jesús López" label="Henry de Jesús López">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Daniel Barrera Barrera" label="Daniel Barrera Barrera">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Yeico Masacre" label="Yeico Masacre">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Álex Saab" label="Álex Saab">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Horst Walther Overdick" label="Horst Walther Overdick">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Genaro García Luna" label="Genaro García Luna">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Dámaso López Núñez" label="Dámaso López Núñez">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Joaquín Guzmán Loera" label="Joaquín Guzmán Loera">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Ismael Zambada García" label="Ismael Zambada García">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Hector Beltran Leyva" label="Hector Beltran Leyva">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Heriberto Lazcano" label="Heriberto Lazcano">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Gilberto Rodríguez Orejuela" label="Gilberto Rodríguez Orejuela">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Pablo Escobar" label="Pablo Escobar">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="José Bayron Piedrahita Ceballos" label="José Bayron Piedrahita Ceballos">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Mario Ramirez Treviño" label="Mario Ramirez Treviño">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Reynerio Flores Lazo" label="Reynerio Flores Lazo">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="José Natividad Luna Pereira" label="José Natividad Luna Pereira">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Dairo Antonio Úsuga" label="Dairo Antonio Úsuga">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Vicente Carrillo Fuentes" label="Vicente Carrillo Fuentes">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Jorge Eduardo Costilla Sánchez" label="Jorge Eduardo Costilla Sánchez">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Jobanis de Jesús Ávila Villadiego" label="Jobanis de Jesús Ávila Villadiego">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Roberto Vargas Gutiérrez" label="Roberto Vargas Gutiérrez">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Ariel Máximo Cantero" label="Ariel Máximo Cantero">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Diego Perez Henao" label="Diego Perez Henao">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="César Emilio Peralta" label="César Emilio Peralta">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="José Adán Salazar Umaña" label="José Adán Salazar Umaña">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Luis Agustin Caicedo Velandia" label="Luis Agustin Caicedo Velandia">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Jarvis Chimenes Pavão" label="Jarvis Chimenes Pavão">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Seuxis Pausías Hernández" label="Seuxis Pausías Hernández">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Hernán Darío Velásquez Saldarriaga" label="Hernán Darío Velásquez Saldarriaga">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Géner García Molina" label="Géner García Molina">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Óscar Mauricio Pachón" label="Óscar Mauricio Pachón">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Nemesio Oseguera Cervantes" label="Nemesio Oseguera Cervantes">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Martin Farfan Diaz Gonzalez" label="Martin Farfan Diaz Gonzalez">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Marcos de Jesus Figueroa Garcia" label="Marcos de Jesus Figueroa Garcia">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Victor Navarro" label="Victor Navarro">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Diego Fernando Murillo Bejarano" label="Diego Fernando Murillo Bejarano">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Juan Alberto Ortiz Lopez" label="Juan Alberto Ortiz Lopez">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Rafael Alvarez Piñeda" label="Rafael Alvarez Piñeda">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Juan de Dios Úsuga" label="Juan de Dios Úsuga">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Nazario Moreno Gonzalez" label="Nazario Moreno Gonzalez">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Vicente Carrillo Leyva" label="Vicente Carrillo Leyva">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Maximiliano Bonilla Orozco" label="Maximiliano Bonilla Orozco">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Luciano Marín Arango" label="Luciano Marín Arango">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Erickson Vargas Cardenas" label="Erickson Vargas Cardenas">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Antonio Cardenas Guillen" label="Antonio Cardenas Guillen">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Luis E. Calle Serna" label="Luis E. Calle Serna">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Javier Antonio Calle Serna" label="Javier Antonio Calle Serna">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Guillermo Leon Saenz Vargas" label="Guillermo Leon Saenz Vargas">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Eliecer Erlinto Chamorro" label="Eliecer Erlinto Chamorro">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Nicolás Rodríguez Bautista" label="Nicolás Rodríguez Bautista">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Chapitos" label="Chapitos">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="José Antonio Yépez Ortiz" label="José Antonio Yépez Ortiz">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Gilberto Aparecido Dos Santos" label="Gilberto Aparecido Dos Santos">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Marcos Willians Herbas Camacho" label="Marcos Willians Herbas Camacho">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="José Manuel Sierra Sabogal" label="José Manuel Sierra Sabogal">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="José Vicente Lesmes" label="José Vicente Lesmes">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Henry Castellanos Garzón" label="Henry Castellanos Garzón">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Walter Patricio Arizala" label="Walter Patricio Arizala">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Miguel Botache Santillana" label="Miguel Botache Santillana">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Gustavo Aníbal Giraldo" label="Gustavo Aníbal Giraldo">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Néstor Gregorio Vera Fernández" label="Néstor Gregorio Vera Fernández">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Rodrigo Londoño Echeverri" label="Rodrigo Londoño Echeverri">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Leider Johani Noscue" label="Leider Johani Noscue">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Victor Julio Suarez Rojas" label="Victor Julio Suarez Rojas">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Fausto Isidro Meza Flores" label="Fausto Isidro Meza Flores">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Jose Eberto Lopez Montero" label="Jose Eberto Lopez Montero">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Alejandro 'Omar' Treviño Morales" label="Alejandro 'Omar' Treviño Morales">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Miguel Angel Treviño Morales" label="Miguel Angel Treviño Morales">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Angel de Jesus Pacheco Chanci" label="Angel de Jesus Pacheco Chanci">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Francisco Zeledon" label="Francisco Zeledon">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Amauri Carmona Morelos" label="Amauri Carmona Morelos">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Servando Gomez Martinez" label="Servando Gomez Martinez">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="José Jesús Méndez Vargas" label="José Jesús Méndez Vargas">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Cesar Augusto Torres Lujan" label="Cesar Augusto Torres Lujan">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Fernando Sanchez Arellano" label="Fernando Sanchez Arellano">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Héctor Rusthenford Guerrero Flores" target="Pedro Oliverio Guerrero" id="0">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Yeico Masacre" id="1">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Genaro García Luna" id="2">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Pablo Escobar" id="3">
+        <attvalues>
+          <attvalue for="1" value="28" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="César Emilio Peralta" id="4">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="José Adán Salazar Umaña" id="5">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Chapitos" id="6">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Luis Agustin Caicedo Velandia" id="7">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="José Antonio Yépez Ortiz" id="8">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Álex Saab" id="9">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Géner García Molina" id="10">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Dámaso López Núñez" id="11">
+        <attvalues>
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Óscar Mauricio Pachón" id="12">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Nemesio Oseguera Cervantes" id="13">
+        <attvalues>
+          <attvalue for="1" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Martin Farfan Diaz Gonzalez" id="14">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Fausto Isidro Meza Flores" id="15">
+        <attvalues>
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Victor Navarro" id="16">
+        <attvalues>
+          <attvalue for="1" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Mario Ramirez Treviño" id="17">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Alejandro 'Omar' Treviño Morales" id="18">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Walid Makled" id="19">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Henry de Jesús López" id="20">
+        <attvalues>
+          <attvalue for="1" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Jose Eberto Lopez Montero" id="21">
+        <attvalues>
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Servando Gomez Martinez" id="22">
+        <attvalues>
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Dairo Antonio Úsuga" id="23">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Victor Julio Suarez Rojas" id="24">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Nazario Moreno Gonzalez" id="25">
+        <attvalues>
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Vicente Carrillo Leyva" id="26">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Vicente Carrillo Fuentes" id="27">
+        <attvalues>
+          <attvalue for="1" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Maximiliano Bonilla Orozco" id="28">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Joaquín Guzmán Loera" id="29">
+        <attvalues>
+          <attvalue for="1" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Ismael Zambada García" id="30">
+        <attvalues>
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Hector Beltran Leyva" id="31">
+        <attvalues>
+          <attvalue for="1" value="119" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Fernando Sanchez Arellano" id="32">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Erickson Vargas Cardenas" id="33">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Antonio Cardenas Guillen" id="34">
+        <attvalues>
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Heriberto Lazcano" id="35">
+        <attvalues>
+          <attvalue for="1" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Daniel Barrera Barrera" id="36">
+        <attvalues>
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Miguel Angel Treviño Morales" id="37">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Diego Perez Henao" id="38">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Luis E. Calle Serna" id="39">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Pedro Oliverio Guerrero" target="Javier Antonio Calle Serna" id="40">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hermágoras González Polanco" target="Samark López Bello" id="41">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Hermágoras González Polanco" target="Tareck El Aissami" id="42">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Hermágoras González Polanco" target="Walid Makled" id="43">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Hermágoras González Polanco" target="Henry de Jesús López" id="44">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Hermágoras González Polanco" target="Daniel Barrera Barrera" id="45">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Samark López Bello" target="Tareck El Aissami" id="46">
+        <attvalues>
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Samark López Bello" target="Walid Makled" id="47">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Samark López Bello" target="Henry de Jesús López" id="48">
+        <attvalues>
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Samark López Bello" target="Daniel Barrera Barrera" id="49">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Tareck El Aissami" target="Pablo Escobar" id="50">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Tareck El Aissami" target="Álex Saab" id="51">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Tareck El Aissami" target="Walid Makled" id="52">
+        <attvalues>
+          <attvalue for="1" value="31" />
+        </attvalues>
+      </edge>
+      <edge source="Tareck El Aissami" target="Henry de Jesús López" id="53">
+        <attvalues>
+          <attvalue for="1" value="26" />
+        </attvalues>
+      </edge>
+      <edge source="Tareck El Aissami" target="Juan Alberto Ortiz Lopez" id="54">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Tareck El Aissami" target="Maximiliano Bonilla Orozco" id="55">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Tareck El Aissami" target="Erickson Vargas Cardenas" id="56">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Tareck El Aissami" target="Daniel Barrera Barrera" id="57">
+        <attvalues>
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Tareck El Aissami" target="Diego Perez Henao" id="58">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Tareck El Aissami" target="Luis E. Calle Serna" id="59">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Tareck El Aissami" target="Javier Antonio Calle Serna" id="60">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Walid Makled" target="Pablo Escobar" id="61">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Walid Makled" target="Victor Navarro" id="62">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Walid Makled" target="Henry de Jesús López" id="63">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Walid Makled" target="Maximiliano Bonilla Orozco" id="64">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Walid Makled" target="Hector Beltran Leyva" id="65">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Walid Makled" target="Daniel Barrera Barrera" id="66">
+        <attvalues>
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Walid Makled" target="Diego Perez Henao" id="67">
+        <attvalues>
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Walid Makled" target="Luis E. Calle Serna" id="68">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Walid Makled" target="Javier Antonio Calle Serna" id="69">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Yeico Masacre" id="70">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Genaro García Luna" id="71">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Jobanis de Jesús Ávila Villadiego" id="72">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Pablo Escobar" id="73">
+        <attvalues>
+          <attvalue for="1" value="39" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="César Emilio Peralta" id="74">
+        <attvalues>
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="José Adán Salazar Umaña" id="75">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Chapitos" id="76">
+        <attvalues>
+          <attvalue for="1" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Luis Agustin Caicedo Velandia" id="77">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="José Antonio Yépez Ortiz" id="78">
+        <attvalues>
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Leider Johani Noscue" id="79">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Álex Saab" id="80">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Hernán Darío Velásquez Saldarriaga" id="81">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Walter Patricio Arizala" id="82">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Miguel Botache Santillana" id="83">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Géner García Molina" id="84">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Néstor Gregorio Vera Fernández" id="85">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Dámaso López Núñez" id="86">
+        <attvalues>
+          <attvalue for="1" value="49" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Óscar Mauricio Pachón" id="87">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Nemesio Oseguera Cervantes" id="88">
+        <attvalues>
+          <attvalue for="1" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Fausto Isidro Meza Flores" id="89">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Victor Navarro" id="90">
+        <attvalues>
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Mario Ramirez Treviño" id="91">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Alejandro 'Omar' Treviño Morales" id="92">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Roberto Vargas Gutiérrez" id="93">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Diego Fernando Murillo Bejarano" id="94">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Rodrigo Londoño Echeverri" id="95">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Horst Walther Overdick" id="96">
+        <attvalues>
+          <attvalue for="1" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Reynerio Flores Lazo" id="97">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="José Natividad Luna Pereira" id="98">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Juan de Dios Úsuga" id="99">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Vicente Carrillo Fuentes" id="100">
+        <attvalues>
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Maximiliano Bonilla Orozco" id="101">
+        <attvalues>
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Luciano Marín Arango" id="102">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Joaquín Guzmán Loera" id="103">
+        <attvalues>
+          <attvalue for="1" value="62" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Ismael Zambada García" id="104">
+        <attvalues>
+          <attvalue for="1" value="32" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Hector Beltran Leyva" id="105">
+        <attvalues>
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Erickson Vargas Cardenas" id="106">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Antonio Cardenas Guillen" id="107">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Heriberto Lazcano" id="108">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Daniel Barrera Barrera" id="109">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Miguel Angel Treviño Morales" id="110">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Henry de Jesús López" target="Diego Perez Henao" id="111">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Barrera Barrera" target="Pablo Escobar" id="112">
+        <attvalues>
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Barrera Barrera" target="Luis Agustin Caicedo Velandia" id="113">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Barrera Barrera" target="Géner García Molina" id="114">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Barrera Barrera" target="Óscar Mauricio Pachón" id="115">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Barrera Barrera" target="Victor Navarro" id="116">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Barrera Barrera" target="Jose Eberto Lopez Montero" id="117">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Barrera Barrera" target="Maximiliano Bonilla Orozco" id="118">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Barrera Barrera" target="Heriberto Lazcano" id="119">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Barrera Barrera" target="Diego Perez Henao" id="120">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Barrera Barrera" target="Luis E. Calle Serna" id="121">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Barrera Barrera" target="Javier Antonio Calle Serna" id="122">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Yeico Masacre" target="Álex Saab" id="123">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Yeico Masacre" target="Horst Walther Overdick" id="124">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Horst Walther Overdick" target="Gilberto Rodríguez Orejuela" id="125">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Horst Walther Overdick" target="Pablo Escobar" id="126">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Horst Walther Overdick" target="Alejandro 'Omar' Treviño Morales" id="127">
+        <attvalues>
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Horst Walther Overdick" target="Reynerio Flores Lazo" id="128">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Horst Walther Overdick" target="Juan Alberto Ortiz Lopez" id="129">
+        <attvalues>
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Horst Walther Overdick" target="Ismael Zambada García" id="130">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Horst Walther Overdick" target="Antonio Cardenas Guillen" id="131">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Horst Walther Overdick" target="Heriberto Lazcano" id="132">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Horst Walther Overdick" target="Miguel Angel Treviño Morales" id="133">
+        <attvalues>
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Genaro García Luna" target="Dámaso López Núñez" id="134">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Genaro García Luna" target="Joaquín Guzmán Loera" id="135">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Genaro García Luna" target="Ismael Zambada García" id="136">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Genaro García Luna" target="Hector Beltran Leyva" id="137">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Genaro García Luna" target="Heriberto Lazcano" id="138">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dámaso López Núñez" target="Pablo Escobar" id="139">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Dámaso López Núñez" target="Chapitos" id="140">
+        <attvalues>
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Dámaso López Núñez" target="Nemesio Oseguera Cervantes" id="141">
+        <attvalues>
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Dámaso López Núñez" target="Fausto Isidro Meza Flores" id="142">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Dámaso López Núñez" target="Vicente Carrillo Fuentes" id="143">
+        <attvalues>
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Dámaso López Núñez" target="Joaquín Guzmán Loera" id="144">
+        <attvalues>
+          <attvalue for="1" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Dámaso López Núñez" target="Ismael Zambada García" id="145">
+        <attvalues>
+          <attvalue for="1" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Dámaso López Núñez" target="Hector Beltran Leyva" id="146">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Joaquín Guzmán Loera" target="Pablo Escobar" id="147">
+        <attvalues>
+          <attvalue for="1" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Joaquín Guzmán Loera" target="José Adán Salazar Umaña" id="148">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Joaquín Guzmán Loera" target="Chapitos" id="149">
+        <attvalues>
+          <attvalue for="1" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Joaquín Guzmán Loera" target="José Bayron Piedrahita Ceballos" id="150">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Joaquín Guzmán Loera" target="Gustavo Aníbal Giraldo" id="151">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Joaquín Guzmán Loera" target="Nemesio Oseguera Cervantes" id="152">
+        <attvalues>
+          <attvalue for="1" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Joaquín Guzmán Loera" target="Fausto Isidro Meza Flores" id="153">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Joaquín Guzmán Loera" target="Victor Navarro" id="154">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Joaquín Guzmán Loera" target="Alejandro 'Omar' Treviño Morales" id="155">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Joaquín Guzmán Loera" target="Diego Fernando Murillo Bejarano" id="156">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Joaquín Guzmán Loera" target="Reynerio Flores Lazo" id="157">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Joaquín Guzmán Loera" target="Dairo Antonio Úsuga" id="158">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Joaquín Guzmán Loera" target="Vicente Carrillo Leyva" id="159">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Joaquín Guzmán Loera" target="Vicente Carrillo Fuentes" id="160">
+        <attvalues>
+          <attvalue for="1" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Joaquín Guzmán Loera" target="Ismael Zambada García" id="161">
+        <attvalues>
+          <attvalue for="1" value="44" />
+        </attvalues>
+      </edge>
+      <edge source="Joaquín Guzmán Loera" target="Hector Beltran Leyva" id="162">
+        <attvalues>
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Joaquín Guzmán Loera" target="Heriberto Lazcano" id="163">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Joaquín Guzmán Loera" target="Miguel Angel Treviño Morales" id="164">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ismael Zambada García" target="Gilberto Rodríguez Orejuela" id="165">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Ismael Zambada García" target="Pablo Escobar" id="166">
+        <attvalues>
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Ismael Zambada García" target="Chapitos" id="167">
+        <attvalues>
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Ismael Zambada García" target="Gustavo Aníbal Giraldo" id="168">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Ismael Zambada García" target="Nemesio Oseguera Cervantes" id="169">
+        <attvalues>
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Ismael Zambada García" target="Fausto Isidro Meza Flores" id="170">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Ismael Zambada García" target="Victor Navarro" id="171">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ismael Zambada García" target="Dairo Antonio Úsuga" id="172">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Ismael Zambada García" target="Vicente Carrillo Fuentes" id="173">
+        <attvalues>
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Ismael Zambada García" target="Jorge Eduardo Costilla Sánchez" id="174">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ismael Zambada García" target="Hector Beltran Leyva" id="175">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ismael Zambada García" target="Heriberto Lazcano" id="176">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="Pablo Escobar" id="177">
+        <attvalues>
+          <attvalue for="1" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="Chapitos" id="178">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="José Antonio Yépez Ortiz" id="179">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="Gustavo Aníbal Giraldo" id="180">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="Nemesio Oseguera Cervantes" id="181">
+        <attvalues>
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="Fausto Isidro Meza Flores" id="182">
+        <attvalues>
+          <attvalue for="1" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="Victor Navarro" id="183">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="Mario Ramirez Treviño" id="184">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="Alejandro 'Omar' Treviño Morales" id="185">
+        <attvalues>
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="Juan Alberto Ortiz Lopez" id="186">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="Servando Gomez Martinez" id="187">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="Nazario Moreno Gonzalez" id="188">
+        <attvalues>
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="Vicente Carrillo Leyva" id="189">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="Vicente Carrillo Fuentes" id="190">
+        <attvalues>
+          <attvalue for="1" value="43" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="Nicolás Rodríguez Bautista" id="191">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="Fernando Sanchez Arellano" id="192">
+        <attvalues>
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="Antonio Cardenas Guillen" id="193">
+        <attvalues>
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="Heriberto Lazcano" id="194">
+        <attvalues>
+          <attvalue for="1" value="41" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="Miguel Angel Treviño Morales" id="195">
+        <attvalues>
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="Diego Perez Henao" id="196">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="Luis E. Calle Serna" id="197">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Hector Beltran Leyva" target="Javier Antonio Calle Serna" id="198">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Heriberto Lazcano" target="Gilberto Rodríguez Orejuela" id="199">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Heriberto Lazcano" target="Pablo Escobar" id="200">
+        <attvalues>
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Heriberto Lazcano" target="Fausto Isidro Meza Flores" id="201">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Heriberto Lazcano" target="Mario Ramirez Treviño" id="202">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Heriberto Lazcano" target="Alejandro 'Omar' Treviño Morales" id="203">
+        <attvalues>
+          <attvalue for="1" value="31" />
+        </attvalues>
+      </edge>
+      <edge source="Heriberto Lazcano" target="Nazario Moreno Gonzalez" id="204">
+        <attvalues>
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Heriberto Lazcano" target="Vicente Carrillo Fuentes" id="205">
+        <attvalues>
+          <attvalue for="1" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Heriberto Lazcano" target="Jorge Eduardo Costilla Sánchez" id="206">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Heriberto Lazcano" target="Antonio Cardenas Guillen" id="207">
+        <attvalues>
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Heriberto Lazcano" target="Miguel Angel Treviño Morales" id="208">
+        <attvalues>
+          <attvalue for="1" value="31" />
+        </attvalues>
+      </edge>
+      <edge source="Gilberto Rodríguez Orejuela" target="Pablo Escobar" id="209">
+        <attvalues>
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Gilberto Rodríguez Orejuela" target="José Bayron Piedrahita Ceballos" id="210">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Gilberto Rodríguez Orejuela" target="Mario Ramirez Treviño" id="211">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gilberto Rodríguez Orejuela" target="Reynerio Flores Lazo" id="212">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gilberto Rodríguez Orejuela" target="José Natividad Luna Pereira" id="213">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gilberto Rodríguez Orejuela" target="Dairo Antonio Úsuga" id="214">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Gilberto Rodríguez Orejuela" target="Vicente Carrillo Fuentes" id="215">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Gilberto Rodríguez Orejuela" target="Jorge Eduardo Costilla Sánchez" id="216">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Ariel Máximo Cantero" id="217">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="César Emilio Peralta" id="218">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="José Adán Salazar Umaña" id="219">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Luis Agustin Caicedo Velandia" id="220">
+        <attvalues>
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Jarvis Chimenes Pavão" id="221">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Seuxis Pausías Hernández" id="222">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Hernán Darío Velásquez Saldarriaga" id="223">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="José Bayron Piedrahita Ceballos" id="224">
+        <attvalues>
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Géner García Molina" id="225">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Óscar Mauricio Pachón" id="226">
+        <attvalues>
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Nemesio Oseguera Cervantes" id="227">
+        <attvalues>
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Martin Farfan Diaz Gonzalez" id="228">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Marcos de Jesus Figueroa Garcia" id="229">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Victor Navarro" id="230">
+        <attvalues>
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Roberto Vargas Gutiérrez" id="231">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Diego Fernando Murillo Bejarano" id="232">
+        <attvalues>
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Reynerio Flores Lazo" id="233">
+        <attvalues>
+          <attvalue for="1" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="José Natividad Luna Pereira" id="234">
+        <attvalues>
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Juan Alberto Ortiz Lopez" id="235">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Rafael Alvarez Piñeda" id="236">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Dairo Antonio Úsuga" id="237">
+        <attvalues>
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Juan de Dios Úsuga" id="238">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Nazario Moreno Gonzalez" id="239">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Vicente Carrillo Leyva" id="240">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Vicente Carrillo Fuentes" id="241">
+        <attvalues>
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Maximiliano Bonilla Orozco" id="242">
+        <attvalues>
+          <attvalue for="1" value="26" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Luciano Marín Arango" id="243">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Erickson Vargas Cardenas" id="244">
+        <attvalues>
+          <attvalue for="1" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Antonio Cardenas Guillen" id="245">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Diego Perez Henao" id="246">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Luis E. Calle Serna" id="247">
+        <attvalues>
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Javier Antonio Calle Serna" id="248">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Escobar" target="Guillermo Leon Saenz Vargas" id="249">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="José Bayron Piedrahita Ceballos" target="Diego Fernando Murillo Bejarano" id="250">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Mario Ramirez Treviño" target="Alejandro 'Omar' Treviño Morales" id="251">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Mario Ramirez Treviño" target="Vicente Carrillo Fuentes" id="252">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Mario Ramirez Treviño" target="Jorge Eduardo Costilla Sánchez" id="253">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Mario Ramirez Treviño" target="Antonio Cardenas Guillen" id="254">
+        <attvalues>
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Mario Ramirez Treviño" target="Miguel Angel Treviño Morales" id="255">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Reynerio Flores Lazo" target="José Adán Salazar Umaña" id="256">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Reynerio Flores Lazo" target="José Natividad Luna Pereira" id="257">
+        <attvalues>
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="José Natividad Luna Pereira" target="Antonio Cardenas Guillen" id="258">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Dairo Antonio Úsuga" target="Jobanis de Jesús Ávila Villadiego" id="259">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Dairo Antonio Úsuga" target="Miguel Botache Santillana" id="260">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Dairo Antonio Úsuga" target="Gustavo Aníbal Giraldo" id="261">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Dairo Antonio Úsuga" target="Géner García Molina" id="262">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Dairo Antonio Úsuga" target="Óscar Mauricio Pachón" id="263">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Dairo Antonio Úsuga" target="Victor Navarro" id="264">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Dairo Antonio Úsuga" target="Roberto Vargas Gutiérrez" id="265">
+        <attvalues>
+          <attvalue for="1" value="28" />
+        </attvalues>
+      </edge>
+      <edge source="Dairo Antonio Úsuga" target="Rodrigo Londoño Echeverri" id="266">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Dairo Antonio Úsuga" target="Rafael Alvarez Piñeda" id="267">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Dairo Antonio Úsuga" target="Juan de Dios Úsuga" id="268">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Vicente Carrillo Fuentes" target="Chapitos" id="269">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Vicente Carrillo Fuentes" target="Nemesio Oseguera Cervantes" id="270">
+        <attvalues>
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Vicente Carrillo Fuentes" target="Fausto Isidro Meza Flores" id="271">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Vicente Carrillo Fuentes" target="Alejandro 'Omar' Treviño Morales" id="272">
+        <attvalues>
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Vicente Carrillo Fuentes" target="Nazario Moreno Gonzalez" id="273">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Vicente Carrillo Fuentes" target="Vicente Carrillo Leyva" id="274">
+        <attvalues>
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Vicente Carrillo Fuentes" target="Jorge Eduardo Costilla Sánchez" id="275">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Vicente Carrillo Fuentes" target="Antonio Cardenas Guillen" id="276">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Vicente Carrillo Fuentes" target="Miguel Angel Treviño Morales" id="277">
+        <attvalues>
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Jorge Eduardo Costilla Sánchez" target="Fausto Isidro Meza Flores" id="278">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Jobanis de Jesús Ávila Villadiego" target="Roberto Vargas Gutiérrez" id="279">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Roberto Vargas Gutiérrez" target="Angel de Jesus Pacheco Chanci" id="280">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Roberto Vargas Gutiérrez" target="Rafael Alvarez Piñeda" id="281">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Roberto Vargas Gutiérrez" target="Juan de Dios Úsuga" id="282">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Roberto Vargas Gutiérrez" target="Maximiliano Bonilla Orozco" id="283">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Ariel Máximo Cantero" target="Diego Perez Henao" id="284">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Diego Perez Henao" target="Luis Agustin Caicedo Velandia" id="285">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Diego Perez Henao" target="Rafael Alvarez Piñeda" id="286">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Diego Perez Henao" target="Cesar Augusto Torres Lujan" id="287">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Diego Perez Henao" target="Maximiliano Bonilla Orozco" id="288">
+        <attvalues>
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Diego Perez Henao" target="Erickson Vargas Cardenas" id="289">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Diego Perez Henao" target="Luis E. Calle Serna" id="290">
+        <attvalues>
+          <attvalue for="1" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Diego Perez Henao" target="Javier Antonio Calle Serna" id="291">
+        <attvalues>
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="José Adán Salazar Umaña" target="Victor Navarro" id="292">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Luis Agustin Caicedo Velandia" target="Géner García Molina" id="293">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Luis Agustin Caicedo Velandia" target="Maximiliano Bonilla Orozco" id="294">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Luis Agustin Caicedo Velandia" target="Erickson Vargas Cardenas" id="295">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Luis Agustin Caicedo Velandia" target="Luis E. Calle Serna" id="296">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Jarvis Chimenes Pavão" target="Nazario Moreno Gonzalez" id="297">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Seuxis Pausías Hernández" target="José Manuel Sierra Sabogal" id="298">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Seuxis Pausías Hernández" target="José Vicente Lesmes" id="299">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Seuxis Pausías Hernández" target="Henry Castellanos Garzón" id="300">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Seuxis Pausías Hernández" target="Hernán Darío Velásquez Saldarriaga" id="301">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Seuxis Pausías Hernández" target="Walter Patricio Arizala" id="302">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Seuxis Pausías Hernández" target="Miguel Botache Santillana" id="303">
+        <attvalues>
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Seuxis Pausías Hernández" target="Gustavo Aníbal Giraldo" id="304">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Seuxis Pausías Hernández" target="Géner García Molina" id="305">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Seuxis Pausías Hernández" target="Néstor Gregorio Vera Fernández" id="306">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Seuxis Pausías Hernández" target="Victor Navarro" id="307">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Seuxis Pausías Hernández" target="Rodrigo Londoño Echeverri" id="308">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Seuxis Pausías Hernández" target="Luciano Marín Arango" id="309">
+        <attvalues>
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Hernán Darío Velásquez Saldarriaga" target="Géner García Molina" id="310">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Hernán Darío Velásquez Saldarriaga" target="Rodrigo Londoño Echeverri" id="311">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Hernán Darío Velásquez Saldarriaga" target="Luciano Marín Arango" id="312">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Géner García Molina" target="José Manuel Sierra Sabogal" id="313">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Géner García Molina" target="Walter Patricio Arizala" id="314">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Géner García Molina" target="Miguel Botache Santillana" id="315">
+        <attvalues>
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Géner García Molina" target="Gustavo Aníbal Giraldo" id="316">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Géner García Molina" target="Néstor Gregorio Vera Fernández" id="317">
+        <attvalues>
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Géner García Molina" target="Victor Navarro" id="318">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Géner García Molina" target="Rodrigo Londoño Echeverri" id="319">
+        <attvalues>
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Géner García Molina" target="Luciano Marín Arango" id="320">
+        <attvalues>
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Géner García Molina" target="Luis E. Calle Serna" id="321">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Óscar Mauricio Pachón" target="Victor Navarro" id="322">
+        <attvalues>
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Nemesio Oseguera Cervantes" target="Chapitos" id="323">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Nemesio Oseguera Cervantes" target="José Antonio Yépez Ortiz" id="324">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Nemesio Oseguera Cervantes" target="Gustavo Aníbal Giraldo" id="325">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Nemesio Oseguera Cervantes" target="Fausto Isidro Meza Flores" id="326">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Nemesio Oseguera Cervantes" target="Nicolás Rodríguez Bautista" id="327">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Martin Farfan Diaz Gonzalez" target="Victor Navarro" id="328">
+        <attvalues>
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Martin Farfan Diaz Gonzalez" target="Jose Eberto Lopez Montero" id="329">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Marcos de Jesus Figueroa Garcia" target="Rafael Alvarez Piñeda" id="330">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Marcos de Jesus Figueroa Garcia" target="Maximiliano Bonilla Orozco" id="331">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Victor Navarro" target="Gustavo Aníbal Giraldo" id="332">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Victor Navarro" target="Jose Eberto Lopez Montero" id="333">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Victor Navarro" target="Rodrigo Londoño Echeverri" id="334">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Victor Navarro" target="Juan de Dios Úsuga" id="335">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Victor Navarro" target="Nazario Moreno Gonzalez" id="336">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Victor Navarro" target="Luciano Marín Arango" id="337">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Victor Navarro" target="Javier Antonio Calle Serna" id="338">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Diego Fernando Murillo Bejarano" target="Maximiliano Bonilla Orozco" id="339">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Diego Fernando Murillo Bejarano" target="Erickson Vargas Cardenas" id="340">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Juan Alberto Ortiz Lopez" target="Nazario Moreno Gonzalez" id="341">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rafael Alvarez Piñeda" target="Angel de Jesus Pacheco Chanci" id="342">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rafael Alvarez Piñeda" target="Cesar Augusto Torres Lujan" id="343">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Rafael Alvarez Piñeda" target="Maximiliano Bonilla Orozco" id="344">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Juan de Dios Úsuga" target="Maximiliano Bonilla Orozco" id="345">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Nazario Moreno Gonzalez" target="Fausto Isidro Meza Flores" id="346">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Nazario Moreno Gonzalez" target="Servando Gomez Martinez" id="347">
+        <attvalues>
+          <attvalue for="1" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Nazario Moreno Gonzalez" target="Vicente Carrillo Leyva" id="348">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Nazario Moreno Gonzalez" target="Antonio Cardenas Guillen" id="349">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Vicente Carrillo Leyva" target="Antonio Cardenas Guillen" id="350">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Maximiliano Bonilla Orozco" target="Erickson Vargas Cardenas" id="351">
+        <attvalues>
+          <attvalue for="1" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Maximiliano Bonilla Orozco" target="Luis E. Calle Serna" id="352">
+        <attvalues>
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Maximiliano Bonilla Orozco" target="Javier Antonio Calle Serna" id="353">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Luciano Marín Arango" target="José Manuel Sierra Sabogal" id="354">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Luciano Marín Arango" target="José Vicente Lesmes" id="355">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Luciano Marín Arango" target="Henry Castellanos Garzón" id="356">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Luciano Marín Arango" target="Walter Patricio Arizala" id="357">
+        <attvalues>
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Luciano Marín Arango" target="Miguel Botache Santillana" id="358">
+        <attvalues>
+          <attvalue for="1" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Luciano Marín Arango" target="Gustavo Aníbal Giraldo" id="359">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Luciano Marín Arango" target="Néstor Gregorio Vera Fernández" id="360">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Luciano Marín Arango" target="Rodrigo Londoño Echeverri" id="361">
+        <attvalues>
+          <attvalue for="1" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Luciano Marín Arango" target="Guillermo Leon Saenz Vargas" id="362">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Erickson Vargas Cardenas" target="Angel de Jesus Pacheco Chanci" id="363">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Erickson Vargas Cardenas" target="Luis E. Calle Serna" id="364">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Antonio Cardenas Guillen" target="Alejandro 'Omar' Treviño Morales" id="365">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Antonio Cardenas Guillen" target="Fernando Sanchez Arellano" id="366">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Antonio Cardenas Guillen" target="Miguel Angel Treviño Morales" id="367">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Luis E. Calle Serna" target="Javier Antonio Calle Serna" id="368">
+        <attvalues>
+          <attvalue for="1" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Guillermo Leon Saenz Vargas" target="Miguel Botache Santillana" id="369">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Guillermo Leon Saenz Vargas" target="Rodrigo Londoño Echeverri" id="370">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Guillermo Leon Saenz Vargas" target="Victor Julio Suarez Rojas" id="371">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Eliecer Erlinto Chamorro" target="Nicolás Rodríguez Bautista" id="372">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Nicolás Rodríguez Bautista" target="Gustavo Aníbal Giraldo" id="373">
+        <attvalues>
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Nicolás Rodríguez Bautista" target="Rodrigo Londoño Echeverri" id="374">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Gilberto Aparecido Dos Santos" target="Marcos Willians Herbas Camacho" id="375">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="José Manuel Sierra Sabogal" target="José Vicente Lesmes" id="376">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="José Manuel Sierra Sabogal" target="Henry Castellanos Garzón" id="377">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="José Manuel Sierra Sabogal" target="Walter Patricio Arizala" id="378">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="José Manuel Sierra Sabogal" target="Miguel Botache Santillana" id="379">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="José Manuel Sierra Sabogal" target="Gustavo Aníbal Giraldo" id="380">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="José Manuel Sierra Sabogal" target="Néstor Gregorio Vera Fernández" id="381">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="José Manuel Sierra Sabogal" target="Rodrigo Londoño Echeverri" id="382">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="José Vicente Lesmes" target="Henry Castellanos Garzón" id="383">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="José Vicente Lesmes" target="Miguel Botache Santillana" id="384">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="José Vicente Lesmes" target="Rodrigo Londoño Echeverri" id="385">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Henry Castellanos Garzón" target="Walter Patricio Arizala" id="386">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Henry Castellanos Garzón" target="Gustavo Aníbal Giraldo" id="387">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Henry Castellanos Garzón" target="Rodrigo Londoño Echeverri" id="388">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Walter Patricio Arizala" target="Leider Johani Noscue" id="389">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Walter Patricio Arizala" target="Miguel Botache Santillana" id="390">
+        <attvalues>
+          <attvalue for="1" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Walter Patricio Arizala" target="Gustavo Aníbal Giraldo" id="391">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Walter Patricio Arizala" target="Néstor Gregorio Vera Fernández" id="392">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Walter Patricio Arizala" target="Victor Julio Suarez Rojas" id="393">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Miguel Botache Santillana" target="Leider Johani Noscue" id="394">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Miguel Botache Santillana" target="Gustavo Aníbal Giraldo" id="395">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Miguel Botache Santillana" target="Néstor Gregorio Vera Fernández" id="396">
+        <attvalues>
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Miguel Botache Santillana" target="Rodrigo Londoño Echeverri" id="397">
+        <attvalues>
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Miguel Botache Santillana" target="Victor Julio Suarez Rojas" id="398">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gustavo Aníbal Giraldo" target="Néstor Gregorio Vera Fernández" id="399">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Néstor Gregorio Vera Fernández" target="Leider Johani Noscue" id="400">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Néstor Gregorio Vera Fernández" target="Rodrigo Londoño Echeverri" id="401">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rodrigo Londoño Echeverri" target="Victor Julio Suarez Rojas" id="402">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Alejandro 'Omar' Treviño Morales" target="Miguel Angel Treviño Morales" id="403">
+        <attvalues>
+          <attvalue for="1" value="71" />
+        </attvalues>
+      </edge>
+      <edge source="Angel de Jesus Pacheco Chanci" target="Cesar Augusto Torres Lujan" id="404">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Francisco Zeledon" target="Amauri Carmona Morelos" id="405">
+        <attvalues>
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Servando Gomez Martinez" target="José Jesús Méndez Vargas" id="406">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
