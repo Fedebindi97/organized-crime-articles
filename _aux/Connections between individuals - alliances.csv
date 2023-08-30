@@ -4,13 +4,13 @@
 2,Héctor Rusthenford Guerrero Flores,Genaro García Luna,0
 3,Héctor Rusthenford Guerrero Flores,Gilberto Rodríguez Orejuela,0
 4,Héctor Rusthenford Guerrero Flores,Jobanis de Jesús Ávila Villadiego,0
-5,Héctor Rusthenford Guerrero Flores,Ariel Máximo Cantero,0
+5,Héctor Rusthenford Guerrero Flores,Ariel Máximo Cantero,1
 6,Héctor Rusthenford Guerrero Flores,Pablo Escobar,0
 7,Héctor Rusthenford Guerrero Flores,César Emilio Peralta,0
 8,Héctor Rusthenford Guerrero Flores,Eliecer Erlinto Chamorro,0
 9,Héctor Rusthenford Guerrero Flores,José Adán Salazar Umaña,0
 10,Héctor Rusthenford Guerrero Flores,Carlos Luis Revete,0
-11,Héctor Rusthenford Guerrero Flores,Wilexis Alexander Acevedo Monasterios,0
+11,Héctor Rusthenford Guerrero Flores,Wilexis Alexander Acevedo Monasterios,1
 12,Héctor Rusthenford Guerrero Flores,Ricardo Abel Ayala Orrego,0
 13,Héctor Rusthenford Guerrero Flores,Juan Antonio 'Tony' Hernández Alvarado,0
 14,Héctor Rusthenford Guerrero Flores,Luis Agustin Caicedo Velandia,0
@@ -21,10 +21,10 @@
 19,Héctor Rusthenford Guerrero Flores,José Vicente Lesmes,0
 20,Héctor Rusthenford Guerrero Flores,Henry Castellanos Garzón,0
 21,Héctor Rusthenford Guerrero Flores,Leider Johani Noscue,0
-22,Héctor Rusthenford Guerrero Flores,Álex Saab,0
+22,Héctor Rusthenford Guerrero Flores,Álex Saab,1
 23,Héctor Rusthenford Guerrero Flores,Samark López Bello,0
 24,Héctor Rusthenford Guerrero Flores,Jarvis Chimenes Pavão,0
-25,Héctor Rusthenford Guerrero Flores,Seuxis Pausías Hernández,0
+25,Héctor Rusthenford Guerrero Flores,Seuxis Pausías Hernández,1
 26,Héctor Rusthenford Guerrero Flores,Hernán Darío Velásquez Saldarriaga,0
 27,Héctor Rusthenford Guerrero Flores,Walter Patricio Arizala,0
 28,Héctor Rusthenford Guerrero Flores,Marcos Willians Herbas Camacho,0
@@ -35,7 +35,7 @@
 33,Héctor Rusthenford Guerrero Flores,Néstor Gregorio Vera Fernández,0
 34,Héctor Rusthenford Guerrero Flores,Dámaso López Núñez,0
 35,Héctor Rusthenford Guerrero Flores,Óscar Mauricio Pachón,0
-36,Héctor Rusthenford Guerrero Flores,Nemesio Oseguera Cervantes,0
+36,Héctor Rusthenford Guerrero Flores,Nemesio Rubén Oseguera Cervantes,0
 37,Héctor Rusthenford Guerrero Flores,Martin Farfan Diaz Gonzalez,0
 38,Héctor Rusthenford Guerrero Flores,Fausto Isidro Meza Flores,0
 39,Héctor Rusthenford Guerrero Flores,Marcos de Jesus Figueroa Garcia,0
@@ -70,7 +70,7 @@
 68,Héctor Rusthenford Guerrero Flores,Vicente Carrillo Leyva,0
 69,Héctor Rusthenford Guerrero Flores,Vicente Carrillo Fuentes,0
 70,Héctor Rusthenford Guerrero Flores,Maximiliano Bonilla Orozco,0
-71,Héctor Rusthenford Guerrero Flores,Luciano Marín Arango,0
+71,Héctor Rusthenford Guerrero Flores,Luciano Marín Arango,1
 72,Héctor Rusthenford Guerrero Flores,Jorge Eduardo Costilla Sánchez,0
 73,Héctor Rusthenford Guerrero Flores,Joaquín Guzmán Loera,0
 74,Héctor Rusthenford Guerrero Flores,Ismael Zambada García,0
@@ -122,7 +122,7 @@
 120,Hermágoras González Polanco,Néstor Gregorio Vera Fernández,0
 121,Hermágoras González Polanco,Dámaso López Núñez,0
 122,Hermágoras González Polanco,Óscar Mauricio Pachón,0
-123,Hermágoras González Polanco,Nemesio Oseguera Cervantes,0
+123,Hermágoras González Polanco,Nemesio Rubén Oseguera Cervantes,0
 124,Hermágoras González Polanco,Martin Farfan Diaz Gonzalez,0
 125,Hermágoras González Polanco,Fausto Isidro Meza Flores,0
 126,Hermágoras González Polanco,Marcos de Jesus Figueroa Garcia,0
@@ -183,7 +183,7 @@
 181,Yeico Masacre,Eliecer Erlinto Chamorro,0
 182,Yeico Masacre,José Adán Salazar Umaña,0
 183,Yeico Masacre,Carlos Luis Revete,0
-184,Yeico Masacre,Wilexis Alexander Acevedo Monasterios,0
+184,Yeico Masacre,Wilexis Alexander Acevedo Monasterios,1
 185,Yeico Masacre,Ricardo Abel Ayala Orrego,0
 186,Yeico Masacre,Juan Antonio 'Tony' Hernández Alvarado,0
 187,Yeico Masacre,Luis Agustin Caicedo Velandia,0
@@ -208,7 +208,7 @@
 206,Yeico Masacre,Néstor Gregorio Vera Fernández,0
 207,Yeico Masacre,Dámaso López Núñez,0
 208,Yeico Masacre,Óscar Mauricio Pachón,0
-209,Yeico Masacre,Nemesio Oseguera Cervantes,0
+209,Yeico Masacre,Nemesio Rubén Oseguera Cervantes,0
 210,Yeico Masacre,Martin Farfan Diaz Gonzalez,0
 211,Yeico Masacre,Fausto Isidro Meza Flores,0
 212,Yeico Masacre,Marcos de Jesus Figueroa Garcia,0
@@ -293,7 +293,7 @@
 291,Genaro García Luna,Néstor Gregorio Vera Fernández,0
 292,Genaro García Luna,Dámaso López Núñez,1
 293,Genaro García Luna,Óscar Mauricio Pachón,0
-294,Genaro García Luna,Nemesio Oseguera Cervantes,0
+294,Genaro García Luna,Nemesio Rubén Oseguera Cervantes,0
 295,Genaro García Luna,Martin Farfan Diaz Gonzalez,0
 296,Genaro García Luna,Fausto Isidro Meza Flores,0
 297,Genaro García Luna,Marcos de Jesus Figueroa Garcia,0
@@ -320,7 +320,7 @@
 318,Genaro García Luna,Cesar Augusto Torres Lujan,0
 319,Genaro García Luna,Dairo Antonio Úsuga,0
 320,Genaro García Luna,Juan de Dios Úsuga,0
-321,Genaro García Luna,Edgardo Leyva Escandon,0
+321,Genaro García Luna,Edgardo Leyva Escandon,1
 322,Genaro García Luna,Victor Julio Suarez Rojas,0
 323,Genaro García Luna,José Jesús Méndez Vargas,0
 324,Genaro García Luna,Nazario Moreno Gonzalez,0
@@ -330,9 +330,9 @@
 328,Genaro García Luna,Maximiliano Bonilla Orozco,0
 329,Genaro García Luna,Luciano Marín Arango,0
 330,Genaro García Luna,Jorge Eduardo Costilla Sánchez,0
-331,Genaro García Luna,Joaquín Guzmán Loera,3
-332,Genaro García Luna,Ismael Zambada García,0
-333,Genaro García Luna,Hector Manuel Beltran Leyva,0
+331,Genaro García Luna,Joaquín Guzmán Loera,4
+332,Genaro García Luna,Ismael Zambada García,2
+333,Genaro García Luna,Hector Manuel Beltran Leyva,1
 334,Genaro García Luna,Nicolás Rodríguez Bautista,0
 335,Genaro García Luna,Fernando Sanchez Arellano,0
 336,Genaro García Luna,Erickson Vargas Cardenas,0
@@ -377,7 +377,7 @@
 375,Gilberto Rodríguez Orejuela,Néstor Gregorio Vera Fernández,0
 376,Gilberto Rodríguez Orejuela,Dámaso López Núñez,0
 377,Gilberto Rodríguez Orejuela,Óscar Mauricio Pachón,0
-378,Gilberto Rodríguez Orejuela,Nemesio Oseguera Cervantes,0
+378,Gilberto Rodríguez Orejuela,Nemesio Rubén Oseguera Cervantes,0
 379,Gilberto Rodríguez Orejuela,Martin Farfan Diaz Gonzalez,0
 380,Gilberto Rodríguez Orejuela,Fausto Isidro Meza Flores,0
 381,Gilberto Rodríguez Orejuela,Marcos de Jesus Figueroa Garcia,0
@@ -430,7 +430,7 @@
 428,Gilberto Rodríguez Orejuela,Javier Antonio Calle Serna,0
 429,Gilberto Rodríguez Orejuela,Guillermo Leon Saenz Vargas,0
 430,Jobanis de Jesús Ávila Villadiego,Ariel Máximo Cantero,0
-431,Jobanis de Jesús Ávila Villadiego,Pablo Escobar,1
+431,Jobanis de Jesús Ávila Villadiego,Pablo Escobar,3
 432,Jobanis de Jesús Ávila Villadiego,César Emilio Peralta,0
 433,Jobanis de Jesús Ávila Villadiego,Eliecer Erlinto Chamorro,0
 434,Jobanis de Jesús Ávila Villadiego,José Adán Salazar Umaña,0
@@ -460,7 +460,7 @@
 458,Jobanis de Jesús Ávila Villadiego,Néstor Gregorio Vera Fernández,0
 459,Jobanis de Jesús Ávila Villadiego,Dámaso López Núñez,0
 460,Jobanis de Jesús Ávila Villadiego,Óscar Mauricio Pachón,0
-461,Jobanis de Jesús Ávila Villadiego,Nemesio Oseguera Cervantes,0
+461,Jobanis de Jesús Ávila Villadiego,Nemesio Rubén Oseguera Cervantes,0
 462,Jobanis de Jesús Ávila Villadiego,Martin Farfan Diaz Gonzalez,0
 463,Jobanis de Jesús Ávila Villadiego,Fausto Isidro Meza Flores,0
 464,Jobanis de Jesús Ávila Villadiego,Marcos de Jesus Figueroa Garcia,0
@@ -471,7 +471,7 @@
 469,Jobanis de Jesús Ávila Villadiego,Antônio Francisco Bonfim Lopes,0
 470,Jobanis de Jesús Ávila Villadiego,Roberto Vargas Gutiérrez,0
 471,Jobanis de Jesús Ávila Villadiego,Walid Makled,0
-472,Jobanis de Jesús Ávila Villadiego,Diego Fernando Murillo Bejarano,0
+472,Jobanis de Jesús Ávila Villadiego,Diego Fernando Murillo Bejarano,1
 473,Jobanis de Jesús Ávila Villadiego,Francisco Zeledon,0
 474,Jobanis de Jesús Ávila Villadiego,Amauri Carmona Morelos,0
 475,Jobanis de Jesús Ávila Villadiego,Henry de Jesús López Londoño,0
@@ -485,8 +485,8 @@
 483,Jobanis de Jesús Ávila Villadiego,Angel de Jesus Pacheco Chanci,0
 484,Jobanis de Jesús Ávila Villadiego,Rafael Alvarez Piñeda,0
 485,Jobanis de Jesús Ávila Villadiego,Cesar Augusto Torres Lujan,0
-486,Jobanis de Jesús Ávila Villadiego,Dairo Antonio Úsuga,1
-487,Jobanis de Jesús Ávila Villadiego,Juan de Dios Úsuga,0
+486,Jobanis de Jesús Ávila Villadiego,Dairo Antonio Úsuga,4
+487,Jobanis de Jesús Ávila Villadiego,Juan de Dios Úsuga,1
 488,Jobanis de Jesús Ávila Villadiego,Edgardo Leyva Escandon,0
 489,Jobanis de Jesús Ávila Villadiego,Victor Julio Suarez Rojas,0
 490,Jobanis de Jesús Ávila Villadiego,José Jesús Méndez Vargas,0
@@ -506,21 +506,21 @@
 504,Jobanis de Jesús Ávila Villadiego,Antonio Cardenas Guillen,0
 505,Jobanis de Jesús Ávila Villadiego,Alejandro Flores Cacho,0
 506,Jobanis de Jesús Ávila Villadiego,Heriberto Lazcano,0
-507,Jobanis de Jesús Ávila Villadiego,Daniel Barrera Barrera,0
+507,Jobanis de Jesús Ávila Villadiego,Daniel Barrera Barrera,1
 508,Jobanis de Jesús Ávila Villadiego,Miguel Angel Treviño Morales,0
 509,Jobanis de Jesús Ávila Villadiego,Diego Perez Henao,0
 510,Jobanis de Jesús Ávila Villadiego,Luis Enrique Calle Serna,0
 511,Jobanis de Jesús Ávila Villadiego,Javier Antonio Calle Serna,0
 512,Jobanis de Jesús Ávila Villadiego,Guillermo Leon Saenz Vargas,0
-513,Ariel Máximo Cantero,Pablo Escobar,0
+513,Ariel Máximo Cantero,Pablo Escobar,6
 514,Ariel Máximo Cantero,César Emilio Peralta,0
 515,Ariel Máximo Cantero,Eliecer Erlinto Chamorro,0
-516,Ariel Máximo Cantero,José Adán Salazar Umaña,0
+516,Ariel Máximo Cantero,José Adán Salazar Umaña,1
 517,Ariel Máximo Cantero,Carlos Luis Revete,0
 518,Ariel Máximo Cantero,Wilexis Alexander Acevedo Monasterios,0
 519,Ariel Máximo Cantero,Ricardo Abel Ayala Orrego,0
 520,Ariel Máximo Cantero,Juan Antonio 'Tony' Hernández Alvarado,0
-521,Ariel Máximo Cantero,Luis Agustin Caicedo Velandia,0
+521,Ariel Máximo Cantero,Luis Agustin Caicedo Velandia,1
 522,Ariel Máximo Cantero,José Antonio Yépez Ortiz,0
 523,Ariel Máximo Cantero,Marcelo Fernando Pinheiro Veiga,0
 524,Ariel Máximo Cantero,Gilberto Aparecido Dos Santos,0
@@ -528,78 +528,78 @@
 526,Ariel Máximo Cantero,José Vicente Lesmes,0
 527,Ariel Máximo Cantero,Henry Castellanos Garzón,0
 528,Ariel Máximo Cantero,Leider Johani Noscue,0
-529,Ariel Máximo Cantero,Álex Saab,0
+529,Ariel Máximo Cantero,Álex Saab,1
 530,Ariel Máximo Cantero,Samark López Bello,0
 531,Ariel Máximo Cantero,Jarvis Chimenes Pavão,0
 532,Ariel Máximo Cantero,Seuxis Pausías Hernández,0
 533,Ariel Máximo Cantero,Hernán Darío Velásquez Saldarriaga,0
-534,Ariel Máximo Cantero,Walter Patricio Arizala,0
+534,Ariel Máximo Cantero,Walter Patricio Arizala,1
 535,Ariel Máximo Cantero,Marcos Willians Herbas Camacho,0
 536,Ariel Máximo Cantero,José Bayron Piedrahita Ceballos,0
-537,Ariel Máximo Cantero,Miguel Botache Santillana,0
+537,Ariel Máximo Cantero,Miguel Botache Santillana,1
 538,Ariel Máximo Cantero,Gustavo Aníbal Giraldo,0
 539,Ariel Máximo Cantero,Géner García Molina,0
 540,Ariel Máximo Cantero,Néstor Gregorio Vera Fernández,0
 541,Ariel Máximo Cantero,Dámaso López Núñez,0
 542,Ariel Máximo Cantero,Óscar Mauricio Pachón,0
-543,Ariel Máximo Cantero,Nemesio Oseguera Cervantes,0
-544,Ariel Máximo Cantero,Martin Farfan Diaz Gonzalez,0
+543,Ariel Máximo Cantero,Nemesio Rubén Oseguera Cervantes,0
+544,Ariel Máximo Cantero,Martin Farfan Diaz Gonzalez,1
 545,Ariel Máximo Cantero,Fausto Isidro Meza Flores,0
 546,Ariel Máximo Cantero,Marcos de Jesus Figueroa Garcia,0
-547,Ariel Máximo Cantero,Victor Navarro,0
+547,Ariel Máximo Cantero,Victor Navarro,1
 548,Ariel Máximo Cantero,Mario Ramirez Treviño,0
-549,Ariel Máximo Cantero,Alejandro 'Omar' Treviño Morales,0
+549,Ariel Máximo Cantero,Alejandro 'Omar' Treviño Morales,1
 550,Ariel Máximo Cantero,Moris Alexander Bercián Manchón,0
 551,Ariel Máximo Cantero,Antônio Francisco Bonfim Lopes,0
 552,Ariel Máximo Cantero,Roberto Vargas Gutiérrez,0
-553,Ariel Máximo Cantero,Walid Makled,0
-554,Ariel Máximo Cantero,Diego Fernando Murillo Bejarano,0
+553,Ariel Máximo Cantero,Walid Makled,1
+554,Ariel Máximo Cantero,Diego Fernando Murillo Bejarano,1
 555,Ariel Máximo Cantero,Francisco Zeledon,0
 556,Ariel Máximo Cantero,Amauri Carmona Morelos,0
 557,Ariel Máximo Cantero,Henry de Jesús López Londoño,0
 558,Ariel Máximo Cantero,Jose Eberto Lopez Montero,0
-559,Ariel Máximo Cantero,Rodrigo Londoño Echeverri,0
+559,Ariel Máximo Cantero,Rodrigo Londoño Echeverri,2
 560,Ariel Máximo Cantero,Horst Walther Overdick,0
 561,Ariel Máximo Cantero,Reynerio Flores Lazo,0
 562,Ariel Máximo Cantero,José Natividad Luna Pereira,0
 563,Ariel Máximo Cantero,Juan Alberto Ortiz Lopez,0
 564,Ariel Máximo Cantero,Servando Gomez Martinez,0
-565,Ariel Máximo Cantero,Angel de Jesus Pacheco Chanci,0
-566,Ariel Máximo Cantero,Rafael Alvarez Piñeda,0
+565,Ariel Máximo Cantero,Angel de Jesus Pacheco Chanci,1
+566,Ariel Máximo Cantero,Rafael Alvarez Piñeda,2
 567,Ariel Máximo Cantero,Cesar Augusto Torres Lujan,0
 568,Ariel Máximo Cantero,Dairo Antonio Úsuga,0
-569,Ariel Máximo Cantero,Juan de Dios Úsuga,0
-570,Ariel Máximo Cantero,Edgardo Leyva Escandon,0
-571,Ariel Máximo Cantero,Victor Julio Suarez Rojas,0
+569,Ariel Máximo Cantero,Juan de Dios Úsuga,2
+570,Ariel Máximo Cantero,Edgardo Leyva Escandon,8
+571,Ariel Máximo Cantero,Victor Julio Suarez Rojas,4
 572,Ariel Máximo Cantero,José Jesús Méndez Vargas,0
 573,Ariel Máximo Cantero,Nazario Moreno Gonzalez,0
-574,Ariel Máximo Cantero,Pedro Oliverio Guerrero Castillo,0
+574,Ariel Máximo Cantero,Pedro Oliverio Guerrero Castillo,2
 575,Ariel Máximo Cantero,Vicente Carrillo Leyva,0
 576,Ariel Máximo Cantero,Vicente Carrillo Fuentes,0
 577,Ariel Máximo Cantero,Maximiliano Bonilla Orozco,0
 578,Ariel Máximo Cantero,Luciano Marín Arango,0
-579,Ariel Máximo Cantero,Jorge Eduardo Costilla Sánchez,0
-580,Ariel Máximo Cantero,Joaquín Guzmán Loera,0
-581,Ariel Máximo Cantero,Ismael Zambada García,0
-582,Ariel Máximo Cantero,Hector Manuel Beltran Leyva,0
+579,Ariel Máximo Cantero,Jorge Eduardo Costilla Sánchez,1
+580,Ariel Máximo Cantero,Joaquín Guzmán Loera,14
+581,Ariel Máximo Cantero,Ismael Zambada García,2
+582,Ariel Máximo Cantero,Hector Manuel Beltran Leyva,4
 583,Ariel Máximo Cantero,Nicolás Rodríguez Bautista,0
 584,Ariel Máximo Cantero,Fernando Sanchez Arellano,0
 585,Ariel Máximo Cantero,Erickson Vargas Cardenas,0
-586,Ariel Máximo Cantero,Antonio Cardenas Guillen,0
+586,Ariel Máximo Cantero,Antonio Cardenas Guillen,2
 587,Ariel Máximo Cantero,Alejandro Flores Cacho,0
 588,Ariel Máximo Cantero,Heriberto Lazcano,0
-589,Ariel Máximo Cantero,Daniel Barrera Barrera,0
-590,Ariel Máximo Cantero,Miguel Angel Treviño Morales,0
+589,Ariel Máximo Cantero,Daniel Barrera Barrera,3
+590,Ariel Máximo Cantero,Miguel Angel Treviño Morales,1
 591,Ariel Máximo Cantero,Diego Perez Henao,1
-592,Ariel Máximo Cantero,Luis Enrique Calle Serna,0
-593,Ariel Máximo Cantero,Javier Antonio Calle Serna,0
-594,Ariel Máximo Cantero,Guillermo Leon Saenz Vargas,0
+592,Ariel Máximo Cantero,Luis Enrique Calle Serna,1
+593,Ariel Máximo Cantero,Javier Antonio Calle Serna,3
+594,Ariel Máximo Cantero,Guillermo Leon Saenz Vargas,4
 595,Pablo Escobar,César Emilio Peralta,0
 596,Pablo Escobar,Eliecer Erlinto Chamorro,0
 597,Pablo Escobar,José Adán Salazar Umaña,0
 598,Pablo Escobar,Carlos Luis Revete,0
 599,Pablo Escobar,Wilexis Alexander Acevedo Monasterios,0
-600,Pablo Escobar,Ricardo Abel Ayala Orrego,0
+600,Pablo Escobar,Ricardo Abel Ayala Orrego,1
 601,Pablo Escobar,Juan Antonio 'Tony' Hernández Alvarado,0
 602,Pablo Escobar,Luis Agustin Caicedo Velandia,0
 603,Pablo Escobar,José Antonio Yépez Ortiz,0
@@ -622,9 +622,9 @@
 620,Pablo Escobar,Géner García Molina,0
 621,Pablo Escobar,Néstor Gregorio Vera Fernández,0
 622,Pablo Escobar,Dámaso López Núñez,1
-623,Pablo Escobar,Óscar Mauricio Pachón,1
-624,Pablo Escobar,Nemesio Oseguera Cervantes,3
-625,Pablo Escobar,Martin Farfan Diaz Gonzalez,1
+623,Pablo Escobar,Óscar Mauricio Pachón,3
+624,Pablo Escobar,Nemesio Rubén Oseguera Cervantes,3
+625,Pablo Escobar,Martin Farfan Diaz Gonzalez,3
 626,Pablo Escobar,Fausto Isidro Meza Flores,0
 627,Pablo Escobar,Marcos de Jesus Figueroa Garcia,0
 628,Pablo Escobar,Victor Navarro,1
@@ -632,48 +632,48 @@
 630,Pablo Escobar,Alejandro 'Omar' Treviño Morales,0
 631,Pablo Escobar,Moris Alexander Bercián Manchón,0
 632,Pablo Escobar,Antônio Francisco Bonfim Lopes,0
-633,Pablo Escobar,Roberto Vargas Gutiérrez,0
+633,Pablo Escobar,Roberto Vargas Gutiérrez,1
 634,Pablo Escobar,Walid Makled,1
-635,Pablo Escobar,Diego Fernando Murillo Bejarano,2
+635,Pablo Escobar,Diego Fernando Murillo Bejarano,15
 636,Pablo Escobar,Francisco Zeledon,0
 637,Pablo Escobar,Amauri Carmona Morelos,0
-638,Pablo Escobar,Henry de Jesús López Londoño,0
+638,Pablo Escobar,Henry de Jesús López Londoño,3
 639,Pablo Escobar,Jose Eberto Lopez Montero,0
 640,Pablo Escobar,Rodrigo Londoño Echeverri,0
 641,Pablo Escobar,Horst Walther Overdick,0
 642,Pablo Escobar,Reynerio Flores Lazo,1
-643,Pablo Escobar,José Natividad Luna Pereira,0
-644,Pablo Escobar,Juan Alberto Ortiz Lopez,0
+643,Pablo Escobar,José Natividad Luna Pereira,1
+644,Pablo Escobar,Juan Alberto Ortiz Lopez,1
 645,Pablo Escobar,Servando Gomez Martinez,0
-646,Pablo Escobar,Angel de Jesus Pacheco Chanci,0
-647,Pablo Escobar,Rafael Alvarez Piñeda,0
+646,Pablo Escobar,Angel de Jesus Pacheco Chanci,8
+647,Pablo Escobar,Rafael Alvarez Piñeda,2
 648,Pablo Escobar,Cesar Augusto Torres Lujan,0
-649,Pablo Escobar,Dairo Antonio Úsuga,3
-650,Pablo Escobar,Juan de Dios Úsuga,1
-651,Pablo Escobar,Edgardo Leyva Escandon,0
-652,Pablo Escobar,Victor Julio Suarez Rojas,0
+649,Pablo Escobar,Dairo Antonio Úsuga,12
+650,Pablo Escobar,Juan de Dios Úsuga,3
+651,Pablo Escobar,Edgardo Leyva Escandon,6
+652,Pablo Escobar,Victor Julio Suarez Rojas,1
 653,Pablo Escobar,José Jesús Méndez Vargas,0
 654,Pablo Escobar,Nazario Moreno Gonzalez,0
-655,Pablo Escobar,Pedro Oliverio Guerrero Castillo,1
+655,Pablo Escobar,Pedro Oliverio Guerrero Castillo,2
 656,Pablo Escobar,Vicente Carrillo Leyva,0
 657,Pablo Escobar,Vicente Carrillo Fuentes,0
-658,Pablo Escobar,Maximiliano Bonilla Orozco,5
+658,Pablo Escobar,Maximiliano Bonilla Orozco,6
 659,Pablo Escobar,Luciano Marín Arango,1
 660,Pablo Escobar,Jorge Eduardo Costilla Sánchez,0
-661,Pablo Escobar,Joaquín Guzmán Loera,3
-662,Pablo Escobar,Ismael Zambada García,1
-663,Pablo Escobar,Hector Manuel Beltran Leyva,0
+661,Pablo Escobar,Joaquín Guzmán Loera,11
+662,Pablo Escobar,Ismael Zambada García,5
+663,Pablo Escobar,Hector Manuel Beltran Leyva,5
 664,Pablo Escobar,Nicolás Rodríguez Bautista,0
 665,Pablo Escobar,Fernando Sanchez Arellano,0
 666,Pablo Escobar,Erickson Vargas Cardenas,0
 667,Pablo Escobar,Antonio Cardenas Guillen,1
 668,Pablo Escobar,Alejandro Flores Cacho,0
 669,Pablo Escobar,Heriberto Lazcano,0
-670,Pablo Escobar,Daniel Barrera Barrera,1
+670,Pablo Escobar,Daniel Barrera Barrera,9
 671,Pablo Escobar,Miguel Angel Treviño Morales,0
 672,Pablo Escobar,Diego Perez Henao,1
-673,Pablo Escobar,Luis Enrique Calle Serna,1
-674,Pablo Escobar,Javier Antonio Calle Serna,0
+673,Pablo Escobar,Luis Enrique Calle Serna,3
+674,Pablo Escobar,Javier Antonio Calle Serna,3
 675,Pablo Escobar,Guillermo Leon Saenz Vargas,0
 676,César Emilio Peralta,Eliecer Erlinto Chamorro,0
 677,César Emilio Peralta,José Adán Salazar Umaña,0
@@ -703,7 +703,7 @@
 701,César Emilio Peralta,Néstor Gregorio Vera Fernández,0
 702,César Emilio Peralta,Dámaso López Núñez,0
 703,César Emilio Peralta,Óscar Mauricio Pachón,0
-704,César Emilio Peralta,Nemesio Oseguera Cervantes,0
+704,César Emilio Peralta,Nemesio Rubén Oseguera Cervantes,0
 705,César Emilio Peralta,Martin Farfan Diaz Gonzalez,0
 706,César Emilio Peralta,Fausto Isidro Meza Flores,0
 707,César Emilio Peralta,Marcos de Jesus Figueroa Garcia,0
@@ -782,7 +782,7 @@
 780,Eliecer Erlinto Chamorro,Néstor Gregorio Vera Fernández,0
 781,Eliecer Erlinto Chamorro,Dámaso López Núñez,0
 782,Eliecer Erlinto Chamorro,Óscar Mauricio Pachón,0
-783,Eliecer Erlinto Chamorro,Nemesio Oseguera Cervantes,0
+783,Eliecer Erlinto Chamorro,Nemesio Rubén Oseguera Cervantes,0
 784,Eliecer Erlinto Chamorro,Martin Farfan Diaz Gonzalez,0
 785,Eliecer Erlinto Chamorro,Fausto Isidro Meza Flores,0
 786,Eliecer Erlinto Chamorro,Marcos de Jesus Figueroa Garcia,0
@@ -822,7 +822,7 @@
 820,Eliecer Erlinto Chamorro,Joaquín Guzmán Loera,0
 821,Eliecer Erlinto Chamorro,Ismael Zambada García,0
 822,Eliecer Erlinto Chamorro,Hector Manuel Beltran Leyva,0
-823,Eliecer Erlinto Chamorro,Nicolás Rodríguez Bautista,0
+823,Eliecer Erlinto Chamorro,Nicolás Rodríguez Bautista,1
 824,Eliecer Erlinto Chamorro,Fernando Sanchez Arellano,0
 825,Eliecer Erlinto Chamorro,Erickson Vargas Cardenas,0
 826,Eliecer Erlinto Chamorro,Antonio Cardenas Guillen,0
@@ -860,7 +860,7 @@
 858,José Adán Salazar Umaña,Néstor Gregorio Vera Fernández,0
 859,José Adán Salazar Umaña,Dámaso López Núñez,0
 860,José Adán Salazar Umaña,Óscar Mauricio Pachón,0
-861,José Adán Salazar Umaña,Nemesio Oseguera Cervantes,0
+861,José Adán Salazar Umaña,Nemesio Rubén Oseguera Cervantes,0
 862,José Adán Salazar Umaña,Martin Farfan Diaz Gonzalez,0
 863,José Adán Salazar Umaña,Fausto Isidro Meza Flores,0
 864,José Adán Salazar Umaña,Marcos de Jesus Figueroa Garcia,0
@@ -883,11 +883,11 @@
 881,José Adán Salazar Umaña,Juan Alberto Ortiz Lopez,0
 882,José Adán Salazar Umaña,Servando Gomez Martinez,0
 883,José Adán Salazar Umaña,Angel de Jesus Pacheco Chanci,0
-884,José Adán Salazar Umaña,Rafael Alvarez Piñeda,0
+884,José Adán Salazar Umaña,Rafael Alvarez Piñeda,17
 885,José Adán Salazar Umaña,Cesar Augusto Torres Lujan,0
 886,José Adán Salazar Umaña,Dairo Antonio Úsuga,0
 887,José Adán Salazar Umaña,Juan de Dios Úsuga,0
-888,José Adán Salazar Umaña,Edgardo Leyva Escandon,0
+888,José Adán Salazar Umaña,Edgardo Leyva Escandon,3
 889,José Adán Salazar Umaña,Victor Julio Suarez Rojas,0
 890,José Adán Salazar Umaña,José Jesús Méndez Vargas,0
 891,José Adán Salazar Umaña,Nazario Moreno Gonzalez,0
@@ -897,7 +897,7 @@
 895,José Adán Salazar Umaña,Maximiliano Bonilla Orozco,0
 896,José Adán Salazar Umaña,Luciano Marín Arango,0
 897,José Adán Salazar Umaña,Jorge Eduardo Costilla Sánchez,0
-898,José Adán Salazar Umaña,Joaquín Guzmán Loera,1
+898,José Adán Salazar Umaña,Joaquín Guzmán Loera,2
 899,José Adán Salazar Umaña,Ismael Zambada García,0
 900,José Adán Salazar Umaña,Hector Manuel Beltran Leyva,0
 901,José Adán Salazar Umaña,Nicolás Rodríguez Bautista,0
@@ -910,9 +910,9 @@
 908,José Adán Salazar Umaña,Miguel Angel Treviño Morales,0
 909,José Adán Salazar Umaña,Diego Perez Henao,0
 910,José Adán Salazar Umaña,Luis Enrique Calle Serna,0
-911,José Adán Salazar Umaña,Javier Antonio Calle Serna,0
+911,José Adán Salazar Umaña,Javier Antonio Calle Serna,1
 912,José Adán Salazar Umaña,Guillermo Leon Saenz Vargas,0
-913,Carlos Luis Revete,Wilexis Alexander Acevedo Monasterios,0
+913,Carlos Luis Revete,Wilexis Alexander Acevedo Monasterios,1
 914,Carlos Luis Revete,Ricardo Abel Ayala Orrego,0
 915,Carlos Luis Revete,Juan Antonio 'Tony' Hernández Alvarado,0
 916,Carlos Luis Revete,Luis Agustin Caicedo Velandia,0
@@ -937,7 +937,7 @@
 935,Carlos Luis Revete,Néstor Gregorio Vera Fernández,0
 936,Carlos Luis Revete,Dámaso López Núñez,0
 937,Carlos Luis Revete,Óscar Mauricio Pachón,0
-938,Carlos Luis Revete,Nemesio Oseguera Cervantes,0
+938,Carlos Luis Revete,Nemesio Rubén Oseguera Cervantes,0
 939,Carlos Luis Revete,Martin Farfan Diaz Gonzalez,0
 940,Carlos Luis Revete,Fausto Isidro Meza Flores,0
 941,Carlos Luis Revete,Marcos de Jesus Figueroa Garcia,0
@@ -964,7 +964,7 @@
 962,Carlos Luis Revete,Cesar Augusto Torres Lujan,0
 963,Carlos Luis Revete,Dairo Antonio Úsuga,0
 964,Carlos Luis Revete,Juan de Dios Úsuga,0
-965,Carlos Luis Revete,Edgardo Leyva Escandon,0
+965,Carlos Luis Revete,Edgardo Leyva Escandon,1
 966,Carlos Luis Revete,Victor Julio Suarez Rojas,0
 967,Carlos Luis Revete,José Jesús Méndez Vargas,0
 968,Carlos Luis Revete,Nazario Moreno Gonzalez,0
@@ -1013,7 +1013,7 @@
 1011,Wilexis Alexander Acevedo Monasterios,Néstor Gregorio Vera Fernández,0
 1012,Wilexis Alexander Acevedo Monasterios,Dámaso López Núñez,0
 1013,Wilexis Alexander Acevedo Monasterios,Óscar Mauricio Pachón,0
-1014,Wilexis Alexander Acevedo Monasterios,Nemesio Oseguera Cervantes,0
+1014,Wilexis Alexander Acevedo Monasterios,Nemesio Rubén Oseguera Cervantes,0
 1015,Wilexis Alexander Acevedo Monasterios,Martin Farfan Diaz Gonzalez,0
 1016,Wilexis Alexander Acevedo Monasterios,Fausto Isidro Meza Flores,0
 1017,Wilexis Alexander Acevedo Monasterios,Marcos de Jesus Figueroa Garcia,0
@@ -1073,12 +1073,12 @@
 1071,Ricardo Abel Ayala Orrego,José Manuel Sierra Sabogal,0
 1072,Ricardo Abel Ayala Orrego,José Vicente Lesmes,0
 1073,Ricardo Abel Ayala Orrego,Henry Castellanos Garzón,1
-1074,Ricardo Abel Ayala Orrego,Leider Johani Noscue,0
+1074,Ricardo Abel Ayala Orrego,Leider Johani Noscue,1
 1075,Ricardo Abel Ayala Orrego,Álex Saab,0
 1076,Ricardo Abel Ayala Orrego,Samark López Bello,0
 1077,Ricardo Abel Ayala Orrego,Jarvis Chimenes Pavão,0
-1078,Ricardo Abel Ayala Orrego,Seuxis Pausías Hernández,1
-1079,Ricardo Abel Ayala Orrego,Hernán Darío Velásquez Saldarriaga,1
+1078,Ricardo Abel Ayala Orrego,Seuxis Pausías Hernández,2
+1079,Ricardo Abel Ayala Orrego,Hernán Darío Velásquez Saldarriaga,2
 1080,Ricardo Abel Ayala Orrego,Walter Patricio Arizala,0
 1081,Ricardo Abel Ayala Orrego,Marcos Willians Herbas Camacho,0
 1082,Ricardo Abel Ayala Orrego,José Bayron Piedrahita Ceballos,0
@@ -1088,7 +1088,7 @@
 1086,Ricardo Abel Ayala Orrego,Néstor Gregorio Vera Fernández,1
 1087,Ricardo Abel Ayala Orrego,Dámaso López Núñez,0
 1088,Ricardo Abel Ayala Orrego,Óscar Mauricio Pachón,0
-1089,Ricardo Abel Ayala Orrego,Nemesio Oseguera Cervantes,0
+1089,Ricardo Abel Ayala Orrego,Nemesio Rubén Oseguera Cervantes,0
 1090,Ricardo Abel Ayala Orrego,Martin Farfan Diaz Gonzalez,0
 1091,Ricardo Abel Ayala Orrego,Fausto Isidro Meza Flores,0
 1092,Ricardo Abel Ayala Orrego,Marcos de Jesus Figueroa Garcia,0
@@ -1115,15 +1115,15 @@
 1113,Ricardo Abel Ayala Orrego,Cesar Augusto Torres Lujan,0
 1114,Ricardo Abel Ayala Orrego,Dairo Antonio Úsuga,0
 1115,Ricardo Abel Ayala Orrego,Juan de Dios Úsuga,0
-1116,Ricardo Abel Ayala Orrego,Edgardo Leyva Escandon,0
-1117,Ricardo Abel Ayala Orrego,Victor Julio Suarez Rojas,0
+1116,Ricardo Abel Ayala Orrego,Edgardo Leyva Escandon,1
+1117,Ricardo Abel Ayala Orrego,Victor Julio Suarez Rojas,1
 1118,Ricardo Abel Ayala Orrego,José Jesús Méndez Vargas,0
 1119,Ricardo Abel Ayala Orrego,Nazario Moreno Gonzalez,0
 1120,Ricardo Abel Ayala Orrego,Pedro Oliverio Guerrero Castillo,0
 1121,Ricardo Abel Ayala Orrego,Vicente Carrillo Leyva,0
 1122,Ricardo Abel Ayala Orrego,Vicente Carrillo Fuentes,0
 1123,Ricardo Abel Ayala Orrego,Maximiliano Bonilla Orozco,0
-1124,Ricardo Abel Ayala Orrego,Luciano Marín Arango,1
+1124,Ricardo Abel Ayala Orrego,Luciano Marín Arango,3
 1125,Ricardo Abel Ayala Orrego,Jorge Eduardo Costilla Sánchez,0
 1126,Ricardo Abel Ayala Orrego,Joaquín Guzmán Loera,0
 1127,Ricardo Abel Ayala Orrego,Ismael Zambada García,0
@@ -1162,7 +1162,7 @@
 1160,Juan Antonio 'Tony' Hernández Alvarado,Néstor Gregorio Vera Fernández,0
 1161,Juan Antonio 'Tony' Hernández Alvarado,Dámaso López Núñez,0
 1162,Juan Antonio 'Tony' Hernández Alvarado,Óscar Mauricio Pachón,0
-1163,Juan Antonio 'Tony' Hernández Alvarado,Nemesio Oseguera Cervantes,0
+1163,Juan Antonio 'Tony' Hernández Alvarado,Nemesio Rubén Oseguera Cervantes,0
 1164,Juan Antonio 'Tony' Hernández Alvarado,Martin Farfan Diaz Gonzalez,0
 1165,Juan Antonio 'Tony' Hernández Alvarado,Fausto Isidro Meza Flores,0
 1166,Juan Antonio 'Tony' Hernández Alvarado,Marcos de Jesus Figueroa Garcia,0
@@ -1185,7 +1185,7 @@
 1183,Juan Antonio 'Tony' Hernández Alvarado,Juan Alberto Ortiz Lopez,0
 1184,Juan Antonio 'Tony' Hernández Alvarado,Servando Gomez Martinez,0
 1185,Juan Antonio 'Tony' Hernández Alvarado,Angel de Jesus Pacheco Chanci,0
-1186,Juan Antonio 'Tony' Hernández Alvarado,Rafael Alvarez Piñeda,0
+1186,Juan Antonio 'Tony' Hernández Alvarado,Rafael Alvarez Piñeda,1
 1187,Juan Antonio 'Tony' Hernández Alvarado,Cesar Augusto Torres Lujan,0
 1188,Juan Antonio 'Tony' Hernández Alvarado,Dairo Antonio Úsuga,0
 1189,Juan Antonio 'Tony' Hernández Alvarado,Juan de Dios Úsuga,0
@@ -1235,7 +1235,7 @@
 1233,Luis Agustin Caicedo Velandia,Néstor Gregorio Vera Fernández,0
 1234,Luis Agustin Caicedo Velandia,Dámaso López Núñez,0
 1235,Luis Agustin Caicedo Velandia,Óscar Mauricio Pachón,0
-1236,Luis Agustin Caicedo Velandia,Nemesio Oseguera Cervantes,0
+1236,Luis Agustin Caicedo Velandia,Nemesio Rubén Oseguera Cervantes,0
 1237,Luis Agustin Caicedo Velandia,Martin Farfan Diaz Gonzalez,0
 1238,Luis Agustin Caicedo Velandia,Fausto Isidro Meza Flores,0
 1239,Luis Agustin Caicedo Velandia,Marcos de Jesus Figueroa Garcia,0
@@ -1281,7 +1281,7 @@
 1279,Luis Agustin Caicedo Velandia,Antonio Cardenas Guillen,0
 1280,Luis Agustin Caicedo Velandia,Alejandro Flores Cacho,0
 1281,Luis Agustin Caicedo Velandia,Heriberto Lazcano,0
-1282,Luis Agustin Caicedo Velandia,Daniel Barrera Barrera,0
+1282,Luis Agustin Caicedo Velandia,Daniel Barrera Barrera,1
 1283,Luis Agustin Caicedo Velandia,Miguel Angel Treviño Morales,0
 1284,Luis Agustin Caicedo Velandia,Diego Perez Henao,0
 1285,Luis Agustin Caicedo Velandia,Luis Enrique Calle Serna,0
@@ -1307,7 +1307,7 @@
 1305,José Antonio Yépez Ortiz,Néstor Gregorio Vera Fernández,0
 1306,José Antonio Yépez Ortiz,Dámaso López Núñez,0
 1307,José Antonio Yépez Ortiz,Óscar Mauricio Pachón,0
-1308,José Antonio Yépez Ortiz,Nemesio Oseguera Cervantes,0
+1308,José Antonio Yépez Ortiz,Nemesio Rubén Oseguera Cervantes,0
 1309,José Antonio Yépez Ortiz,Martin Farfan Diaz Gonzalez,0
 1310,José Antonio Yépez Ortiz,Fausto Isidro Meza Flores,0
 1311,José Antonio Yépez Ortiz,Marcos de Jesus Figueroa Garcia,0
@@ -1378,7 +1378,7 @@
 1376,Marcelo Fernando Pinheiro Veiga,Néstor Gregorio Vera Fernández,0
 1377,Marcelo Fernando Pinheiro Veiga,Dámaso López Núñez,0
 1378,Marcelo Fernando Pinheiro Veiga,Óscar Mauricio Pachón,0
-1379,Marcelo Fernando Pinheiro Veiga,Nemesio Oseguera Cervantes,0
+1379,Marcelo Fernando Pinheiro Veiga,Nemesio Rubén Oseguera Cervantes,0
 1380,Marcelo Fernando Pinheiro Veiga,Martin Farfan Diaz Gonzalez,0
 1381,Marcelo Fernando Pinheiro Veiga,Fausto Isidro Meza Flores,0
 1382,Marcelo Fernando Pinheiro Veiga,Marcos de Jesus Figueroa Garcia,0
@@ -1448,7 +1448,7 @@
 1446,Gilberto Aparecido Dos Santos,Néstor Gregorio Vera Fernández,0
 1447,Gilberto Aparecido Dos Santos,Dámaso López Núñez,0
 1448,Gilberto Aparecido Dos Santos,Óscar Mauricio Pachón,0
-1449,Gilberto Aparecido Dos Santos,Nemesio Oseguera Cervantes,0
+1449,Gilberto Aparecido Dos Santos,Nemesio Rubén Oseguera Cervantes,0
 1450,Gilberto Aparecido Dos Santos,Martin Farfan Diaz Gonzalez,0
 1451,Gilberto Aparecido Dos Santos,Fausto Isidro Meza Flores,0
 1452,Gilberto Aparecido Dos Santos,Marcos de Jesus Figueroa Garcia,0
@@ -1500,24 +1500,24 @@
 1498,Gilberto Aparecido Dos Santos,Luis Enrique Calle Serna,0
 1499,Gilberto Aparecido Dos Santos,Javier Antonio Calle Serna,0
 1500,Gilberto Aparecido Dos Santos,Guillermo Leon Saenz Vargas,0
-1501,José Manuel Sierra Sabogal,José Vicente Lesmes,0
+1501,José Manuel Sierra Sabogal,José Vicente Lesmes,1
 1502,José Manuel Sierra Sabogal,Henry Castellanos Garzón,0
 1503,José Manuel Sierra Sabogal,Leider Johani Noscue,0
 1504,José Manuel Sierra Sabogal,Álex Saab,0
 1505,José Manuel Sierra Sabogal,Samark López Bello,0
 1506,José Manuel Sierra Sabogal,Jarvis Chimenes Pavão,0
-1507,José Manuel Sierra Sabogal,Seuxis Pausías Hernández,0
-1508,José Manuel Sierra Sabogal,Hernán Darío Velásquez Saldarriaga,0
+1507,José Manuel Sierra Sabogal,Seuxis Pausías Hernández,1
+1508,José Manuel Sierra Sabogal,Hernán Darío Velásquez Saldarriaga,1
 1509,José Manuel Sierra Sabogal,Walter Patricio Arizala,0
 1510,José Manuel Sierra Sabogal,Marcos Willians Herbas Camacho,0
 1511,José Manuel Sierra Sabogal,José Bayron Piedrahita Ceballos,0
-1512,José Manuel Sierra Sabogal,Miguel Botache Santillana,0
+1512,José Manuel Sierra Sabogal,Miguel Botache Santillana,1
 1513,José Manuel Sierra Sabogal,Gustavo Aníbal Giraldo,0
 1514,José Manuel Sierra Sabogal,Géner García Molina,0
 1515,José Manuel Sierra Sabogal,Néstor Gregorio Vera Fernández,0
 1516,José Manuel Sierra Sabogal,Dámaso López Núñez,0
 1517,José Manuel Sierra Sabogal,Óscar Mauricio Pachón,0
-1518,José Manuel Sierra Sabogal,Nemesio Oseguera Cervantes,0
+1518,José Manuel Sierra Sabogal,Nemesio Rubén Oseguera Cervantes,0
 1519,José Manuel Sierra Sabogal,Martin Farfan Diaz Gonzalez,0
 1520,José Manuel Sierra Sabogal,Fausto Isidro Meza Flores,0
 1521,José Manuel Sierra Sabogal,Marcos de Jesus Figueroa Garcia,0
@@ -1552,7 +1552,7 @@
 1550,José Manuel Sierra Sabogal,Vicente Carrillo Leyva,0
 1551,José Manuel Sierra Sabogal,Vicente Carrillo Fuentes,0
 1552,José Manuel Sierra Sabogal,Maximiliano Bonilla Orozco,0
-1553,José Manuel Sierra Sabogal,Luciano Marín Arango,0
+1553,José Manuel Sierra Sabogal,Luciano Marín Arango,1
 1554,José Manuel Sierra Sabogal,Jorge Eduardo Costilla Sánchez,0
 1555,José Manuel Sierra Sabogal,Joaquín Guzmán Loera,0
 1556,José Manuel Sierra Sabogal,Ismael Zambada García,0
@@ -1575,7 +1575,7 @@
 1573,José Vicente Lesmes,Samark López Bello,0
 1574,José Vicente Lesmes,Jarvis Chimenes Pavão,0
 1575,José Vicente Lesmes,Seuxis Pausías Hernández,1
-1576,José Vicente Lesmes,Hernán Darío Velásquez Saldarriaga,0
+1576,José Vicente Lesmes,Hernán Darío Velásquez Saldarriaga,1
 1577,José Vicente Lesmes,Walter Patricio Arizala,0
 1578,José Vicente Lesmes,Marcos Willians Herbas Camacho,0
 1579,José Vicente Lesmes,José Bayron Piedrahita Ceballos,0
@@ -1585,7 +1585,7 @@
 1583,José Vicente Lesmes,Néstor Gregorio Vera Fernández,0
 1584,José Vicente Lesmes,Dámaso López Núñez,0
 1585,José Vicente Lesmes,Óscar Mauricio Pachón,0
-1586,José Vicente Lesmes,Nemesio Oseguera Cervantes,0
+1586,José Vicente Lesmes,Nemesio Rubén Oseguera Cervantes,0
 1587,José Vicente Lesmes,Martin Farfan Diaz Gonzalez,0
 1588,José Vicente Lesmes,Fausto Isidro Meza Flores,0
 1589,José Vicente Lesmes,Marcos de Jesus Figueroa Garcia,0
@@ -1620,7 +1620,7 @@
 1618,José Vicente Lesmes,Vicente Carrillo Leyva,0
 1619,José Vicente Lesmes,Vicente Carrillo Fuentes,0
 1620,José Vicente Lesmes,Maximiliano Bonilla Orozco,0
-1621,José Vicente Lesmes,Luciano Marín Arango,0
+1621,José Vicente Lesmes,Luciano Marín Arango,1
 1622,José Vicente Lesmes,Jorge Eduardo Costilla Sánchez,0
 1623,José Vicente Lesmes,Joaquín Guzmán Loera,0
 1624,José Vicente Lesmes,Ismael Zambada García,0
@@ -1637,12 +1637,12 @@
 1635,José Vicente Lesmes,Luis Enrique Calle Serna,0
 1636,José Vicente Lesmes,Javier Antonio Calle Serna,0
 1637,José Vicente Lesmes,Guillermo Leon Saenz Vargas,0
-1638,Henry Castellanos Garzón,Leider Johani Noscue,0
+1638,Henry Castellanos Garzón,Leider Johani Noscue,1
 1639,Henry Castellanos Garzón,Álex Saab,0
 1640,Henry Castellanos Garzón,Samark López Bello,0
 1641,Henry Castellanos Garzón,Jarvis Chimenes Pavão,0
 1642,Henry Castellanos Garzón,Seuxis Pausías Hernández,1
-1643,Henry Castellanos Garzón,Hernán Darío Velásquez Saldarriaga,1
+1643,Henry Castellanos Garzón,Hernán Darío Velásquez Saldarriaga,2
 1644,Henry Castellanos Garzón,Walter Patricio Arizala,0
 1645,Henry Castellanos Garzón,Marcos Willians Herbas Camacho,0
 1646,Henry Castellanos Garzón,José Bayron Piedrahita Ceballos,0
@@ -1652,7 +1652,7 @@
 1650,Henry Castellanos Garzón,Néstor Gregorio Vera Fernández,1
 1651,Henry Castellanos Garzón,Dámaso López Núñez,0
 1652,Henry Castellanos Garzón,Óscar Mauricio Pachón,0
-1653,Henry Castellanos Garzón,Nemesio Oseguera Cervantes,0
+1653,Henry Castellanos Garzón,Nemesio Rubén Oseguera Cervantes,0
 1654,Henry Castellanos Garzón,Martin Farfan Diaz Gonzalez,0
 1655,Henry Castellanos Garzón,Fausto Isidro Meza Flores,0
 1656,Henry Castellanos Garzón,Marcos de Jesus Figueroa Garcia,0
@@ -1679,15 +1679,15 @@
 1677,Henry Castellanos Garzón,Cesar Augusto Torres Lujan,0
 1678,Henry Castellanos Garzón,Dairo Antonio Úsuga,0
 1679,Henry Castellanos Garzón,Juan de Dios Úsuga,0
-1680,Henry Castellanos Garzón,Edgardo Leyva Escandon,0
-1681,Henry Castellanos Garzón,Victor Julio Suarez Rojas,0
+1680,Henry Castellanos Garzón,Edgardo Leyva Escandon,1
+1681,Henry Castellanos Garzón,Victor Julio Suarez Rojas,1
 1682,Henry Castellanos Garzón,José Jesús Méndez Vargas,0
 1683,Henry Castellanos Garzón,Nazario Moreno Gonzalez,0
 1684,Henry Castellanos Garzón,Pedro Oliverio Guerrero Castillo,0
 1685,Henry Castellanos Garzón,Vicente Carrillo Leyva,0
 1686,Henry Castellanos Garzón,Vicente Carrillo Fuentes,0
 1687,Henry Castellanos Garzón,Maximiliano Bonilla Orozco,0
-1688,Henry Castellanos Garzón,Luciano Marín Arango,1
+1688,Henry Castellanos Garzón,Luciano Marín Arango,2
 1689,Henry Castellanos Garzón,Jorge Eduardo Costilla Sánchez,0
 1690,Henry Castellanos Garzón,Joaquín Guzmán Loera,0
 1691,Henry Castellanos Garzón,Ismael Zambada García,0
@@ -1707,18 +1707,18 @@
 1705,Leider Johani Noscue,Álex Saab,0
 1706,Leider Johani Noscue,Samark López Bello,0
 1707,Leider Johani Noscue,Jarvis Chimenes Pavão,0
-1708,Leider Johani Noscue,Seuxis Pausías Hernández,0
-1709,Leider Johani Noscue,Hernán Darío Velásquez Saldarriaga,0
+1708,Leider Johani Noscue,Seuxis Pausías Hernández,1
+1709,Leider Johani Noscue,Hernán Darío Velásquez Saldarriaga,1
 1710,Leider Johani Noscue,Walter Patricio Arizala,0
 1711,Leider Johani Noscue,Marcos Willians Herbas Camacho,0
 1712,Leider Johani Noscue,José Bayron Piedrahita Ceballos,0
-1713,Leider Johani Noscue,Miguel Botache Santillana,0
+1713,Leider Johani Noscue,Miguel Botache Santillana,1
 1714,Leider Johani Noscue,Gustavo Aníbal Giraldo,0
 1715,Leider Johani Noscue,Géner García Molina,0
-1716,Leider Johani Noscue,Néstor Gregorio Vera Fernández,0
+1716,Leider Johani Noscue,Néstor Gregorio Vera Fernández,1
 1717,Leider Johani Noscue,Dámaso López Núñez,0
 1718,Leider Johani Noscue,Óscar Mauricio Pachón,0
-1719,Leider Johani Noscue,Nemesio Oseguera Cervantes,0
+1719,Leider Johani Noscue,Nemesio Rubén Oseguera Cervantes,0
 1720,Leider Johani Noscue,Martin Farfan Diaz Gonzalez,0
 1721,Leider Johani Noscue,Fausto Isidro Meza Flores,0
 1722,Leider Johani Noscue,Marcos de Jesus Figueroa Garcia,0
@@ -1745,15 +1745,15 @@
 1743,Leider Johani Noscue,Cesar Augusto Torres Lujan,0
 1744,Leider Johani Noscue,Dairo Antonio Úsuga,0
 1745,Leider Johani Noscue,Juan de Dios Úsuga,0
-1746,Leider Johani Noscue,Edgardo Leyva Escandon,0
-1747,Leider Johani Noscue,Victor Julio Suarez Rojas,0
+1746,Leider Johani Noscue,Edgardo Leyva Escandon,1
+1747,Leider Johani Noscue,Victor Julio Suarez Rojas,1
 1748,Leider Johani Noscue,José Jesús Méndez Vargas,0
 1749,Leider Johani Noscue,Nazario Moreno Gonzalez,0
 1750,Leider Johani Noscue,Pedro Oliverio Guerrero Castillo,0
 1751,Leider Johani Noscue,Vicente Carrillo Leyva,0
 1752,Leider Johani Noscue,Vicente Carrillo Fuentes,0
 1753,Leider Johani Noscue,Maximiliano Bonilla Orozco,0
-1754,Leider Johani Noscue,Luciano Marín Arango,0
+1754,Leider Johani Noscue,Luciano Marín Arango,1
 1755,Leider Johani Noscue,Jorge Eduardo Costilla Sánchez,0
 1756,Leider Johani Noscue,Joaquín Guzmán Loera,0
 1757,Leider Johani Noscue,Ismael Zambada García,0
@@ -1772,7 +1772,7 @@
 1770,Leider Johani Noscue,Guillermo Leon Saenz Vargas,0
 1771,Álex Saab,Samark López Bello,0
 1772,Álex Saab,Jarvis Chimenes Pavão,0
-1773,Álex Saab,Seuxis Pausías Hernández,0
+1773,Álex Saab,Seuxis Pausías Hernández,1
 1774,Álex Saab,Hernán Darío Velásquez Saldarriaga,0
 1775,Álex Saab,Walter Patricio Arizala,0
 1776,Álex Saab,Marcos Willians Herbas Camacho,0
@@ -1783,7 +1783,7 @@
 1781,Álex Saab,Néstor Gregorio Vera Fernández,0
 1782,Álex Saab,Dámaso López Núñez,0
 1783,Álex Saab,Óscar Mauricio Pachón,0
-1784,Álex Saab,Nemesio Oseguera Cervantes,0
+1784,Álex Saab,Nemesio Rubén Oseguera Cervantes,0
 1785,Álex Saab,Martin Farfan Diaz Gonzalez,0
 1786,Álex Saab,Fausto Isidro Meza Flores,0
 1787,Álex Saab,Marcos de Jesus Figueroa Garcia,0
@@ -1810,7 +1810,7 @@
 1808,Álex Saab,Cesar Augusto Torres Lujan,0
 1809,Álex Saab,Dairo Antonio Úsuga,0
 1810,Álex Saab,Juan de Dios Úsuga,0
-1811,Álex Saab,Edgardo Leyva Escandon,0
+1811,Álex Saab,Edgardo Leyva Escandon,1
 1812,Álex Saab,Victor Julio Suarez Rojas,0
 1813,Álex Saab,José Jesús Méndez Vargas,0
 1814,Álex Saab,Nazario Moreno Gonzalez,0
@@ -1818,7 +1818,7 @@
 1816,Álex Saab,Vicente Carrillo Leyva,0
 1817,Álex Saab,Vicente Carrillo Fuentes,0
 1818,Álex Saab,Maximiliano Bonilla Orozco,0
-1819,Álex Saab,Luciano Marín Arango,0
+1819,Álex Saab,Luciano Marín Arango,1
 1820,Álex Saab,Jorge Eduardo Costilla Sánchez,0
 1821,Álex Saab,Joaquín Guzmán Loera,0
 1822,Álex Saab,Ismael Zambada García,0
@@ -1847,7 +1847,7 @@
 1845,Samark López Bello,Néstor Gregorio Vera Fernández,0
 1846,Samark López Bello,Dámaso López Núñez,0
 1847,Samark López Bello,Óscar Mauricio Pachón,0
-1848,Samark López Bello,Nemesio Oseguera Cervantes,0
+1848,Samark López Bello,Nemesio Rubén Oseguera Cervantes,0
 1849,Samark López Bello,Martin Farfan Diaz Gonzalez,0
 1850,Samark López Bello,Fausto Isidro Meza Flores,0
 1851,Samark López Bello,Marcos de Jesus Figueroa Garcia,0
@@ -1893,7 +1893,7 @@
 1891,Samark López Bello,Antonio Cardenas Guillen,0
 1892,Samark López Bello,Alejandro Flores Cacho,0
 1893,Samark López Bello,Heriberto Lazcano,0
-1894,Samark López Bello,Daniel Barrera Barrera,0
+1894,Samark López Bello,Daniel Barrera Barrera,1
 1895,Samark López Bello,Miguel Angel Treviño Morales,0
 1896,Samark López Bello,Diego Perez Henao,0
 1897,Samark López Bello,Luis Enrique Calle Serna,0
@@ -1910,7 +1910,7 @@
 1908,Jarvis Chimenes Pavão,Néstor Gregorio Vera Fernández,0
 1909,Jarvis Chimenes Pavão,Dámaso López Núñez,0
 1910,Jarvis Chimenes Pavão,Óscar Mauricio Pachón,0
-1911,Jarvis Chimenes Pavão,Nemesio Oseguera Cervantes,0
+1911,Jarvis Chimenes Pavão,Nemesio Rubén Oseguera Cervantes,0
 1912,Jarvis Chimenes Pavão,Martin Farfan Diaz Gonzalez,0
 1913,Jarvis Chimenes Pavão,Fausto Isidro Meza Flores,0
 1914,Jarvis Chimenes Pavão,Marcos de Jesus Figueroa Garcia,0
@@ -1962,17 +1962,17 @@
 1960,Jarvis Chimenes Pavão,Luis Enrique Calle Serna,0
 1961,Jarvis Chimenes Pavão,Javier Antonio Calle Serna,0
 1962,Jarvis Chimenes Pavão,Guillermo Leon Saenz Vargas,0
-1963,Seuxis Pausías Hernández,Hernán Darío Velásquez Saldarriaga,1
-1964,Seuxis Pausías Hernández,Walter Patricio Arizala,0
+1963,Seuxis Pausías Hernández,Hernán Darío Velásquez Saldarriaga,5
+1964,Seuxis Pausías Hernández,Walter Patricio Arizala,2
 1965,Seuxis Pausías Hernández,Marcos Willians Herbas Camacho,0
 1966,Seuxis Pausías Hernández,José Bayron Piedrahita Ceballos,0
-1967,Seuxis Pausías Hernández,Miguel Botache Santillana,2
+1967,Seuxis Pausías Hernández,Miguel Botache Santillana,4
 1968,Seuxis Pausías Hernández,Gustavo Aníbal Giraldo,0
 1969,Seuxis Pausías Hernández,Géner García Molina,0
 1970,Seuxis Pausías Hernández,Néstor Gregorio Vera Fernández,1
 1971,Seuxis Pausías Hernández,Dámaso López Núñez,0
 1972,Seuxis Pausías Hernández,Óscar Mauricio Pachón,0
-1973,Seuxis Pausías Hernández,Nemesio Oseguera Cervantes,0
+1973,Seuxis Pausías Hernández,Nemesio Rubén Oseguera Cervantes,0
 1974,Seuxis Pausías Hernández,Martin Farfan Diaz Gonzalez,0
 1975,Seuxis Pausías Hernández,Fausto Isidro Meza Flores,0
 1976,Seuxis Pausías Hernández,Marcos de Jesus Figueroa Garcia,0
@@ -1988,8 +1988,8 @@
 1986,Seuxis Pausías Hernández,Amauri Carmona Morelos,0
 1987,Seuxis Pausías Hernández,Henry de Jesús López Londoño,0
 1988,Seuxis Pausías Hernández,Jose Eberto Lopez Montero,0
-1989,Seuxis Pausías Hernández,Rodrigo Londoño Echeverri,0
-1990,Seuxis Pausías Hernández,Horst Walther Overdick,0
+1989,Seuxis Pausías Hernández,Rodrigo Londoño Echeverri,2
+1990,Seuxis Pausías Hernández,Horst Walther Overdick,1
 1991,Seuxis Pausías Hernández,Reynerio Flores Lazo,0
 1992,Seuxis Pausías Hernández,José Natividad Luna Pereira,0
 1993,Seuxis Pausías Hernández,Juan Alberto Ortiz Lopez,0
@@ -1999,15 +1999,15 @@
 1997,Seuxis Pausías Hernández,Cesar Augusto Torres Lujan,0
 1998,Seuxis Pausías Hernández,Dairo Antonio Úsuga,0
 1999,Seuxis Pausías Hernández,Juan de Dios Úsuga,0
-2000,Seuxis Pausías Hernández,Edgardo Leyva Escandon,0
-2001,Seuxis Pausías Hernández,Victor Julio Suarez Rojas,0
+2000,Seuxis Pausías Hernández,Edgardo Leyva Escandon,1
+2001,Seuxis Pausías Hernández,Victor Julio Suarez Rojas,1
 2002,Seuxis Pausías Hernández,José Jesús Méndez Vargas,0
 2003,Seuxis Pausías Hernández,Nazario Moreno Gonzalez,0
 2004,Seuxis Pausías Hernández,Pedro Oliverio Guerrero Castillo,0
 2005,Seuxis Pausías Hernández,Vicente Carrillo Leyva,0
 2006,Seuxis Pausías Hernández,Vicente Carrillo Fuentes,0
 2007,Seuxis Pausías Hernández,Maximiliano Bonilla Orozco,0
-2008,Seuxis Pausías Hernández,Luciano Marín Arango,2
+2008,Seuxis Pausías Hernández,Luciano Marín Arango,10
 2009,Seuxis Pausías Hernández,Jorge Eduardo Costilla Sánchez,0
 2010,Seuxis Pausías Hernández,Joaquín Guzmán Loera,0
 2011,Seuxis Pausías Hernández,Ismael Zambada García,0
@@ -2024,16 +2024,16 @@
 2022,Seuxis Pausías Hernández,Luis Enrique Calle Serna,0
 2023,Seuxis Pausías Hernández,Javier Antonio Calle Serna,0
 2024,Seuxis Pausías Hernández,Guillermo Leon Saenz Vargas,0
-2025,Hernán Darío Velásquez Saldarriaga,Walter Patricio Arizala,0
+2025,Hernán Darío Velásquez Saldarriaga,Walter Patricio Arizala,1
 2026,Hernán Darío Velásquez Saldarriaga,Marcos Willians Herbas Camacho,0
 2027,Hernán Darío Velásquez Saldarriaga,José Bayron Piedrahita Ceballos,0
-2028,Hernán Darío Velásquez Saldarriaga,Miguel Botache Santillana,1
-2029,Hernán Darío Velásquez Saldarriaga,Gustavo Aníbal Giraldo,0
+2028,Hernán Darío Velásquez Saldarriaga,Miguel Botache Santillana,3
+2029,Hernán Darío Velásquez Saldarriaga,Gustavo Aníbal Giraldo,1
 2030,Hernán Darío Velásquez Saldarriaga,Géner García Molina,0
-2031,Hernán Darío Velásquez Saldarriaga,Néstor Gregorio Vera Fernández,1
+2031,Hernán Darío Velásquez Saldarriaga,Néstor Gregorio Vera Fernández,2
 2032,Hernán Darío Velásquez Saldarriaga,Dámaso López Núñez,0
 2033,Hernán Darío Velásquez Saldarriaga,Óscar Mauricio Pachón,0
-2034,Hernán Darío Velásquez Saldarriaga,Nemesio Oseguera Cervantes,0
+2034,Hernán Darío Velásquez Saldarriaga,Nemesio Rubén Oseguera Cervantes,0
 2035,Hernán Darío Velásquez Saldarriaga,Martin Farfan Diaz Gonzalez,0
 2036,Hernán Darío Velásquez Saldarriaga,Fausto Isidro Meza Flores,0
 2037,Hernán Darío Velásquez Saldarriaga,Marcos de Jesus Figueroa Garcia,0
@@ -2047,9 +2047,9 @@
 2045,Hernán Darío Velásquez Saldarriaga,Diego Fernando Murillo Bejarano,0
 2046,Hernán Darío Velásquez Saldarriaga,Francisco Zeledon,0
 2047,Hernán Darío Velásquez Saldarriaga,Amauri Carmona Morelos,0
-2048,Hernán Darío Velásquez Saldarriaga,Henry de Jesús López Londoño,0
+2048,Hernán Darío Velásquez Saldarriaga,Henry de Jesús López Londoño,1
 2049,Hernán Darío Velásquez Saldarriaga,Jose Eberto Lopez Montero,0
-2050,Hernán Darío Velásquez Saldarriaga,Rodrigo Londoño Echeverri,0
+2050,Hernán Darío Velásquez Saldarriaga,Rodrigo Londoño Echeverri,1
 2051,Hernán Darío Velásquez Saldarriaga,Horst Walther Overdick,0
 2052,Hernán Darío Velásquez Saldarriaga,Reynerio Flores Lazo,0
 2053,Hernán Darío Velásquez Saldarriaga,José Natividad Luna Pereira,0
@@ -2060,18 +2060,18 @@
 2058,Hernán Darío Velásquez Saldarriaga,Cesar Augusto Torres Lujan,0
 2059,Hernán Darío Velásquez Saldarriaga,Dairo Antonio Úsuga,0
 2060,Hernán Darío Velásquez Saldarriaga,Juan de Dios Úsuga,0
-2061,Hernán Darío Velásquez Saldarriaga,Edgardo Leyva Escandon,0
-2062,Hernán Darío Velásquez Saldarriaga,Victor Julio Suarez Rojas,0
+2061,Hernán Darío Velásquez Saldarriaga,Edgardo Leyva Escandon,1
+2062,Hernán Darío Velásquez Saldarriaga,Victor Julio Suarez Rojas,1
 2063,Hernán Darío Velásquez Saldarriaga,José Jesús Méndez Vargas,0
 2064,Hernán Darío Velásquez Saldarriaga,Nazario Moreno Gonzalez,0
 2065,Hernán Darío Velásquez Saldarriaga,Pedro Oliverio Guerrero Castillo,0
 2066,Hernán Darío Velásquez Saldarriaga,Vicente Carrillo Leyva,0
 2067,Hernán Darío Velásquez Saldarriaga,Vicente Carrillo Fuentes,0
-2068,Hernán Darío Velásquez Saldarriaga,Maximiliano Bonilla Orozco,0
-2069,Hernán Darío Velásquez Saldarriaga,Luciano Marín Arango,2
+2068,Hernán Darío Velásquez Saldarriaga,Maximiliano Bonilla Orozco,1
+2069,Hernán Darío Velásquez Saldarriaga,Luciano Marín Arango,6
 2070,Hernán Darío Velásquez Saldarriaga,Jorge Eduardo Costilla Sánchez,0
-2071,Hernán Darío Velásquez Saldarriaga,Joaquín Guzmán Loera,0
-2072,Hernán Darío Velásquez Saldarriaga,Ismael Zambada García,0
+2071,Hernán Darío Velásquez Saldarriaga,Joaquín Guzmán Loera,1
+2072,Hernán Darío Velásquez Saldarriaga,Ismael Zambada García,1
 2073,Hernán Darío Velásquez Saldarriaga,Hector Manuel Beltran Leyva,0
 2074,Hernán Darío Velásquez Saldarriaga,Nicolás Rodríguez Bautista,0
 2075,Hernán Darío Velásquez Saldarriaga,Fernando Sanchez Arellano,0
@@ -2079,21 +2079,21 @@
 2077,Hernán Darío Velásquez Saldarriaga,Antonio Cardenas Guillen,0
 2078,Hernán Darío Velásquez Saldarriaga,Alejandro Flores Cacho,0
 2079,Hernán Darío Velásquez Saldarriaga,Heriberto Lazcano,0
-2080,Hernán Darío Velásquez Saldarriaga,Daniel Barrera Barrera,0
+2080,Hernán Darío Velásquez Saldarriaga,Daniel Barrera Barrera,1
 2081,Hernán Darío Velásquez Saldarriaga,Miguel Angel Treviño Morales,0
-2082,Hernán Darío Velásquez Saldarriaga,Diego Perez Henao,0
+2082,Hernán Darío Velásquez Saldarriaga,Diego Perez Henao,1
 2083,Hernán Darío Velásquez Saldarriaga,Luis Enrique Calle Serna,0
 2084,Hernán Darío Velásquez Saldarriaga,Javier Antonio Calle Serna,0
 2085,Hernán Darío Velásquez Saldarriaga,Guillermo Leon Saenz Vargas,0
 2086,Walter Patricio Arizala,Marcos Willians Herbas Camacho,0
 2087,Walter Patricio Arizala,José Bayron Piedrahita Ceballos,0
-2088,Walter Patricio Arizala,Miguel Botache Santillana,1
+2088,Walter Patricio Arizala,Miguel Botache Santillana,4
 2089,Walter Patricio Arizala,Gustavo Aníbal Giraldo,0
 2090,Walter Patricio Arizala,Géner García Molina,0
-2091,Walter Patricio Arizala,Néstor Gregorio Vera Fernández,0
+2091,Walter Patricio Arizala,Néstor Gregorio Vera Fernández,1
 2092,Walter Patricio Arizala,Dámaso López Núñez,0
 2093,Walter Patricio Arizala,Óscar Mauricio Pachón,0
-2094,Walter Patricio Arizala,Nemesio Oseguera Cervantes,0
+2094,Walter Patricio Arizala,Nemesio Rubén Oseguera Cervantes,0
 2095,Walter Patricio Arizala,Martin Farfan Diaz Gonzalez,0
 2096,Walter Patricio Arizala,Fausto Isidro Meza Flores,0
 2097,Walter Patricio Arizala,Marcos de Jesus Figueroa Garcia,0
@@ -2109,7 +2109,7 @@
 2107,Walter Patricio Arizala,Amauri Carmona Morelos,0
 2108,Walter Patricio Arizala,Henry de Jesús López Londoño,0
 2109,Walter Patricio Arizala,Jose Eberto Lopez Montero,0
-2110,Walter Patricio Arizala,Rodrigo Londoño Echeverri,0
+2110,Walter Patricio Arizala,Rodrigo Londoño Echeverri,1
 2111,Walter Patricio Arizala,Horst Walther Overdick,0
 2112,Walter Patricio Arizala,Reynerio Flores Lazo,0
 2113,Walter Patricio Arizala,José Natividad Luna Pereira,0
@@ -2128,7 +2128,7 @@
 2126,Walter Patricio Arizala,Vicente Carrillo Leyva,0
 2127,Walter Patricio Arizala,Vicente Carrillo Fuentes,0
 2128,Walter Patricio Arizala,Maximiliano Bonilla Orozco,0
-2129,Walter Patricio Arizala,Luciano Marín Arango,0
+2129,Walter Patricio Arizala,Luciano Marín Arango,3
 2130,Walter Patricio Arizala,Jorge Eduardo Costilla Sánchez,0
 2131,Walter Patricio Arizala,Joaquín Guzmán Loera,0
 2132,Walter Patricio Arizala,Ismael Zambada García,0
@@ -2144,7 +2144,7 @@
 2142,Walter Patricio Arizala,Diego Perez Henao,0
 2143,Walter Patricio Arizala,Luis Enrique Calle Serna,0
 2144,Walter Patricio Arizala,Javier Antonio Calle Serna,0
-2145,Walter Patricio Arizala,Guillermo Leon Saenz Vargas,0
+2145,Walter Patricio Arizala,Guillermo Leon Saenz Vargas,1
 2146,Marcos Willians Herbas Camacho,José Bayron Piedrahita Ceballos,0
 2147,Marcos Willians Herbas Camacho,Miguel Botache Santillana,0
 2148,Marcos Willians Herbas Camacho,Gustavo Aníbal Giraldo,0
@@ -2152,7 +2152,7 @@
 2150,Marcos Willians Herbas Camacho,Néstor Gregorio Vera Fernández,0
 2151,Marcos Willians Herbas Camacho,Dámaso López Núñez,0
 2152,Marcos Willians Herbas Camacho,Óscar Mauricio Pachón,0
-2153,Marcos Willians Herbas Camacho,Nemesio Oseguera Cervantes,0
+2153,Marcos Willians Herbas Camacho,Nemesio Rubén Oseguera Cervantes,0
 2154,Marcos Willians Herbas Camacho,Martin Farfan Diaz Gonzalez,0
 2155,Marcos Willians Herbas Camacho,Fausto Isidro Meza Flores,0
 2156,Marcos Willians Herbas Camacho,Marcos de Jesus Figueroa Garcia,0
@@ -2210,7 +2210,7 @@
 2208,José Bayron Piedrahita Ceballos,Néstor Gregorio Vera Fernández,0
 2209,José Bayron Piedrahita Ceballos,Dámaso López Núñez,0
 2210,José Bayron Piedrahita Ceballos,Óscar Mauricio Pachón,0
-2211,José Bayron Piedrahita Ceballos,Nemesio Oseguera Cervantes,0
+2211,José Bayron Piedrahita Ceballos,Nemesio Rubén Oseguera Cervantes,0
 2212,José Bayron Piedrahita Ceballos,Martin Farfan Diaz Gonzalez,0
 2213,José Bayron Piedrahita Ceballos,Fausto Isidro Meza Flores,0
 2214,José Bayron Piedrahita Ceballos,Marcos de Jesus Figueroa Garcia,0
@@ -2262,12 +2262,12 @@
 2260,José Bayron Piedrahita Ceballos,Luis Enrique Calle Serna,0
 2261,José Bayron Piedrahita Ceballos,Javier Antonio Calle Serna,0
 2262,José Bayron Piedrahita Ceballos,Guillermo Leon Saenz Vargas,0
-2263,Miguel Botache Santillana,Gustavo Aníbal Giraldo,0
-2264,Miguel Botache Santillana,Géner García Molina,2
-2265,Miguel Botache Santillana,Néstor Gregorio Vera Fernández,4
+2263,Miguel Botache Santillana,Gustavo Aníbal Giraldo,1
+2264,Miguel Botache Santillana,Géner García Molina,3
+2265,Miguel Botache Santillana,Néstor Gregorio Vera Fernández,6
 2266,Miguel Botache Santillana,Dámaso López Núñez,0
 2267,Miguel Botache Santillana,Óscar Mauricio Pachón,0
-2268,Miguel Botache Santillana,Nemesio Oseguera Cervantes,0
+2268,Miguel Botache Santillana,Nemesio Rubén Oseguera Cervantes,0
 2269,Miguel Botache Santillana,Martin Farfan Diaz Gonzalez,0
 2270,Miguel Botache Santillana,Fausto Isidro Meza Flores,0
 2271,Miguel Botache Santillana,Marcos de Jesus Figueroa Garcia,0
@@ -2283,7 +2283,7 @@
 2281,Miguel Botache Santillana,Amauri Carmona Morelos,0
 2282,Miguel Botache Santillana,Henry de Jesús López Londoño,0
 2283,Miguel Botache Santillana,Jose Eberto Lopez Montero,0
-2284,Miguel Botache Santillana,Rodrigo Londoño Echeverri,1
+2284,Miguel Botache Santillana,Rodrigo Londoño Echeverri,2
 2285,Miguel Botache Santillana,Horst Walther Overdick,0
 2286,Miguel Botache Santillana,Reynerio Flores Lazo,0
 2287,Miguel Botache Santillana,José Natividad Luna Pereira,0
@@ -2294,17 +2294,17 @@
 2292,Miguel Botache Santillana,Cesar Augusto Torres Lujan,0
 2293,Miguel Botache Santillana,Dairo Antonio Úsuga,1
 2294,Miguel Botache Santillana,Juan de Dios Úsuga,0
-2295,Miguel Botache Santillana,Edgardo Leyva Escandon,0
-2296,Miguel Botache Santillana,Victor Julio Suarez Rojas,1
+2295,Miguel Botache Santillana,Edgardo Leyva Escandon,2
+2296,Miguel Botache Santillana,Victor Julio Suarez Rojas,2
 2297,Miguel Botache Santillana,José Jesús Méndez Vargas,0
 2298,Miguel Botache Santillana,Nazario Moreno Gonzalez,0
 2299,Miguel Botache Santillana,Pedro Oliverio Guerrero Castillo,0
 2300,Miguel Botache Santillana,Vicente Carrillo Leyva,0
 2301,Miguel Botache Santillana,Vicente Carrillo Fuentes,0
 2302,Miguel Botache Santillana,Maximiliano Bonilla Orozco,0
-2303,Miguel Botache Santillana,Luciano Marín Arango,3
+2303,Miguel Botache Santillana,Luciano Marín Arango,6
 2304,Miguel Botache Santillana,Jorge Eduardo Costilla Sánchez,0
-2305,Miguel Botache Santillana,Joaquín Guzmán Loera,1
+2305,Miguel Botache Santillana,Joaquín Guzmán Loera,2
 2306,Miguel Botache Santillana,Ismael Zambada García,0
 2307,Miguel Botache Santillana,Hector Manuel Beltran Leyva,0
 2308,Miguel Botache Santillana,Nicolás Rodríguez Bautista,0
@@ -2319,11 +2319,11 @@
 2317,Miguel Botache Santillana,Luis Enrique Calle Serna,0
 2318,Miguel Botache Santillana,Javier Antonio Calle Serna,0
 2319,Miguel Botache Santillana,Guillermo Leon Saenz Vargas,0
-2320,Gustavo Aníbal Giraldo,Géner García Molina,0
-2321,Gustavo Aníbal Giraldo,Néstor Gregorio Vera Fernández,0
+2320,Gustavo Aníbal Giraldo,Géner García Molina,1
+2321,Gustavo Aníbal Giraldo,Néstor Gregorio Vera Fernández,1
 2322,Gustavo Aníbal Giraldo,Dámaso López Núñez,0
 2323,Gustavo Aníbal Giraldo,Óscar Mauricio Pachón,0
-2324,Gustavo Aníbal Giraldo,Nemesio Oseguera Cervantes,1
+2324,Gustavo Aníbal Giraldo,Nemesio Rubén Oseguera Cervantes,1
 2325,Gustavo Aníbal Giraldo,Martin Farfan Diaz Gonzalez,0
 2326,Gustavo Aníbal Giraldo,Fausto Isidro Meza Flores,0
 2327,Gustavo Aníbal Giraldo,Marcos de Jesus Figueroa Garcia,0
@@ -2350,7 +2350,7 @@
 2348,Gustavo Aníbal Giraldo,Cesar Augusto Torres Lujan,0
 2349,Gustavo Aníbal Giraldo,Dairo Antonio Úsuga,1
 2350,Gustavo Aníbal Giraldo,Juan de Dios Úsuga,0
-2351,Gustavo Aníbal Giraldo,Edgardo Leyva Escandon,0
+2351,Gustavo Aníbal Giraldo,Edgardo Leyva Escandon,1
 2352,Gustavo Aníbal Giraldo,Victor Julio Suarez Rojas,0
 2353,Gustavo Aníbal Giraldo,José Jesús Méndez Vargas,0
 2354,Gustavo Aníbal Giraldo,Nazario Moreno Gonzalez,0
@@ -2358,12 +2358,12 @@
 2356,Gustavo Aníbal Giraldo,Vicente Carrillo Leyva,0
 2357,Gustavo Aníbal Giraldo,Vicente Carrillo Fuentes,0
 2358,Gustavo Aníbal Giraldo,Maximiliano Bonilla Orozco,0
-2359,Gustavo Aníbal Giraldo,Luciano Marín Arango,0
+2359,Gustavo Aníbal Giraldo,Luciano Marín Arango,1
 2360,Gustavo Aníbal Giraldo,Jorge Eduardo Costilla Sánchez,0
-2361,Gustavo Aníbal Giraldo,Joaquín Guzmán Loera,1
+2361,Gustavo Aníbal Giraldo,Joaquín Guzmán Loera,2
 2362,Gustavo Aníbal Giraldo,Ismael Zambada García,1
-2363,Gustavo Aníbal Giraldo,Hector Manuel Beltran Leyva,0
-2364,Gustavo Aníbal Giraldo,Nicolás Rodríguez Bautista,1
+2363,Gustavo Aníbal Giraldo,Hector Manuel Beltran Leyva,1
+2364,Gustavo Aníbal Giraldo,Nicolás Rodríguez Bautista,2
 2365,Gustavo Aníbal Giraldo,Fernando Sanchez Arellano,0
 2366,Gustavo Aníbal Giraldo,Erickson Vargas Cardenas,0
 2367,Gustavo Aníbal Giraldo,Antonio Cardenas Guillen,0
@@ -2378,7 +2378,7 @@
 2376,Géner García Molina,Néstor Gregorio Vera Fernández,2
 2377,Géner García Molina,Dámaso López Núñez,0
 2378,Géner García Molina,Óscar Mauricio Pachón,0
-2379,Géner García Molina,Nemesio Oseguera Cervantes,0
+2379,Géner García Molina,Nemesio Rubén Oseguera Cervantes,0
 2380,Géner García Molina,Martin Farfan Diaz Gonzalez,0
 2381,Géner García Molina,Fausto Isidro Meza Flores,0
 2382,Géner García Molina,Marcos de Jesus Figueroa Garcia,0
@@ -2432,7 +2432,7 @@
 2430,Géner García Molina,Guillermo Leon Saenz Vargas,0
 2431,Néstor Gregorio Vera Fernández,Dámaso López Núñez,0
 2432,Néstor Gregorio Vera Fernández,Óscar Mauricio Pachón,0
-2433,Néstor Gregorio Vera Fernández,Nemesio Oseguera Cervantes,0
+2433,Néstor Gregorio Vera Fernández,Nemesio Rubén Oseguera Cervantes,0
 2434,Néstor Gregorio Vera Fernández,Martin Farfan Diaz Gonzalez,0
 2435,Néstor Gregorio Vera Fernández,Fausto Isidro Meza Flores,0
 2436,Néstor Gregorio Vera Fernández,Marcos de Jesus Figueroa Garcia,0
@@ -2459,15 +2459,15 @@
 2457,Néstor Gregorio Vera Fernández,Cesar Augusto Torres Lujan,0
 2458,Néstor Gregorio Vera Fernández,Dairo Antonio Úsuga,0
 2459,Néstor Gregorio Vera Fernández,Juan de Dios Úsuga,0
-2460,Néstor Gregorio Vera Fernández,Edgardo Leyva Escandon,0
-2461,Néstor Gregorio Vera Fernández,Victor Julio Suarez Rojas,0
+2460,Néstor Gregorio Vera Fernández,Edgardo Leyva Escandon,1
+2461,Néstor Gregorio Vera Fernández,Victor Julio Suarez Rojas,1
 2462,Néstor Gregorio Vera Fernández,José Jesús Méndez Vargas,0
 2463,Néstor Gregorio Vera Fernández,Nazario Moreno Gonzalez,0
 2464,Néstor Gregorio Vera Fernández,Pedro Oliverio Guerrero Castillo,0
 2465,Néstor Gregorio Vera Fernández,Vicente Carrillo Leyva,0
 2466,Néstor Gregorio Vera Fernández,Vicente Carrillo Fuentes,0
 2467,Néstor Gregorio Vera Fernández,Maximiliano Bonilla Orozco,0
-2468,Néstor Gregorio Vera Fernández,Luciano Marín Arango,1
+2468,Néstor Gregorio Vera Fernández,Luciano Marín Arango,2
 2469,Néstor Gregorio Vera Fernández,Jorge Eduardo Costilla Sánchez,0
 2470,Néstor Gregorio Vera Fernández,Joaquín Guzmán Loera,1
 2471,Néstor Gregorio Vera Fernández,Ismael Zambada García,0
@@ -2485,7 +2485,7 @@
 2483,Néstor Gregorio Vera Fernández,Javier Antonio Calle Serna,0
 2484,Néstor Gregorio Vera Fernández,Guillermo Leon Saenz Vargas,0
 2485,Dámaso López Núñez,Óscar Mauricio Pachón,0
-2486,Dámaso López Núñez,Nemesio Oseguera Cervantes,3
+2486,Dámaso López Núñez,Nemesio Rubén Oseguera Cervantes,4
 2487,Dámaso López Núñez,Martin Farfan Diaz Gonzalez,0
 2488,Dámaso López Núñez,Fausto Isidro Meza Flores,0
 2489,Dámaso López Núñez,Marcos de Jesus Figueroa Garcia,0
@@ -2522,8 +2522,8 @@
 2520,Dámaso López Núñez,Maximiliano Bonilla Orozco,0
 2521,Dámaso López Núñez,Luciano Marín Arango,0
 2522,Dámaso López Núñez,Jorge Eduardo Costilla Sánchez,0
-2523,Dámaso López Núñez,Joaquín Guzmán Loera,3
-2524,Dámaso López Núñez,Ismael Zambada García,1
+2523,Dámaso López Núñez,Joaquín Guzmán Loera,6
+2524,Dámaso López Núñez,Ismael Zambada García,4
 2525,Dámaso López Núñez,Hector Manuel Beltran Leyva,0
 2526,Dámaso López Núñez,Nicolás Rodríguez Bautista,0
 2527,Dámaso López Núñez,Fernando Sanchez Arellano,0
@@ -2537,18 +2537,18 @@
 2535,Dámaso López Núñez,Luis Enrique Calle Serna,0
 2536,Dámaso López Núñez,Javier Antonio Calle Serna,0
 2537,Dámaso López Núñez,Guillermo Leon Saenz Vargas,0
-2538,Óscar Mauricio Pachón,Nemesio Oseguera Cervantes,0
-2539,Óscar Mauricio Pachón,Martin Farfan Diaz Gonzalez,0
+2538,Óscar Mauricio Pachón,Nemesio Rubén Oseguera Cervantes,0
+2539,Óscar Mauricio Pachón,Martin Farfan Diaz Gonzalez,2
 2540,Óscar Mauricio Pachón,Fausto Isidro Meza Flores,0
 2541,Óscar Mauricio Pachón,Marcos de Jesus Figueroa Garcia,0
-2542,Óscar Mauricio Pachón,Victor Navarro,0
+2542,Óscar Mauricio Pachón,Victor Navarro,1
 2543,Óscar Mauricio Pachón,Mario Ramirez Treviño,0
 2544,Óscar Mauricio Pachón,Alejandro 'Omar' Treviño Morales,0
 2545,Óscar Mauricio Pachón,Moris Alexander Bercián Manchón,0
 2546,Óscar Mauricio Pachón,Antônio Francisco Bonfim Lopes,0
 2547,Óscar Mauricio Pachón,Roberto Vargas Gutiérrez,0
 2548,Óscar Mauricio Pachón,Walid Makled,0
-2549,Óscar Mauricio Pachón,Diego Fernando Murillo Bejarano,0
+2549,Óscar Mauricio Pachón,Diego Fernando Murillo Bejarano,1
 2550,Óscar Mauricio Pachón,Francisco Zeledon,0
 2551,Óscar Mauricio Pachón,Amauri Carmona Morelos,0
 2552,Óscar Mauricio Pachón,Henry de Jesús López Londoño,0
@@ -2562,13 +2562,13 @@
 2560,Óscar Mauricio Pachón,Angel de Jesus Pacheco Chanci,0
 2561,Óscar Mauricio Pachón,Rafael Alvarez Piñeda,0
 2562,Óscar Mauricio Pachón,Cesar Augusto Torres Lujan,0
-2563,Óscar Mauricio Pachón,Dairo Antonio Úsuga,0
-2564,Óscar Mauricio Pachón,Juan de Dios Úsuga,0
+2563,Óscar Mauricio Pachón,Dairo Antonio Úsuga,3
+2564,Óscar Mauricio Pachón,Juan de Dios Úsuga,1
 2565,Óscar Mauricio Pachón,Edgardo Leyva Escandon,0
 2566,Óscar Mauricio Pachón,Victor Julio Suarez Rojas,0
 2567,Óscar Mauricio Pachón,José Jesús Méndez Vargas,0
 2568,Óscar Mauricio Pachón,Nazario Moreno Gonzalez,0
-2569,Óscar Mauricio Pachón,Pedro Oliverio Guerrero Castillo,0
+2569,Óscar Mauricio Pachón,Pedro Oliverio Guerrero Castillo,1
 2570,Óscar Mauricio Pachón,Vicente Carrillo Leyva,0
 2571,Óscar Mauricio Pachón,Vicente Carrillo Fuentes,0
 2572,Óscar Mauricio Pachón,Maximiliano Bonilla Orozco,0
@@ -2583,63 +2583,63 @@
 2581,Óscar Mauricio Pachón,Antonio Cardenas Guillen,0
 2582,Óscar Mauricio Pachón,Alejandro Flores Cacho,0
 2583,Óscar Mauricio Pachón,Heriberto Lazcano,0
-2584,Óscar Mauricio Pachón,Daniel Barrera Barrera,0
+2584,Óscar Mauricio Pachón,Daniel Barrera Barrera,3
 2585,Óscar Mauricio Pachón,Miguel Angel Treviño Morales,0
 2586,Óscar Mauricio Pachón,Diego Perez Henao,0
 2587,Óscar Mauricio Pachón,Luis Enrique Calle Serna,0
 2588,Óscar Mauricio Pachón,Javier Antonio Calle Serna,0
 2589,Óscar Mauricio Pachón,Guillermo Leon Saenz Vargas,0
-2590,Nemesio Oseguera Cervantes,Martin Farfan Diaz Gonzalez,0
-2591,Nemesio Oseguera Cervantes,Fausto Isidro Meza Flores,0
-2592,Nemesio Oseguera Cervantes,Marcos de Jesus Figueroa Garcia,0
-2593,Nemesio Oseguera Cervantes,Victor Navarro,0
-2594,Nemesio Oseguera Cervantes,Mario Ramirez Treviño,0
-2595,Nemesio Oseguera Cervantes,Alejandro 'Omar' Treviño Morales,0
-2596,Nemesio Oseguera Cervantes,Moris Alexander Bercián Manchón,0
-2597,Nemesio Oseguera Cervantes,Antônio Francisco Bonfim Lopes,0
-2598,Nemesio Oseguera Cervantes,Roberto Vargas Gutiérrez,0
-2599,Nemesio Oseguera Cervantes,Walid Makled,0
-2600,Nemesio Oseguera Cervantes,Diego Fernando Murillo Bejarano,0
-2601,Nemesio Oseguera Cervantes,Francisco Zeledon,0
-2602,Nemesio Oseguera Cervantes,Amauri Carmona Morelos,0
-2603,Nemesio Oseguera Cervantes,Henry de Jesús López Londoño,0
-2604,Nemesio Oseguera Cervantes,Jose Eberto Lopez Montero,0
-2605,Nemesio Oseguera Cervantes,Rodrigo Londoño Echeverri,0
-2606,Nemesio Oseguera Cervantes,Horst Walther Overdick,0
-2607,Nemesio Oseguera Cervantes,Reynerio Flores Lazo,0
-2608,Nemesio Oseguera Cervantes,José Natividad Luna Pereira,0
-2609,Nemesio Oseguera Cervantes,Juan Alberto Ortiz Lopez,0
-2610,Nemesio Oseguera Cervantes,Servando Gomez Martinez,0
-2611,Nemesio Oseguera Cervantes,Angel de Jesus Pacheco Chanci,0
-2612,Nemesio Oseguera Cervantes,Rafael Alvarez Piñeda,0
-2613,Nemesio Oseguera Cervantes,Cesar Augusto Torres Lujan,0
-2614,Nemesio Oseguera Cervantes,Dairo Antonio Úsuga,0
-2615,Nemesio Oseguera Cervantes,Juan de Dios Úsuga,0
-2616,Nemesio Oseguera Cervantes,Edgardo Leyva Escandon,0
-2617,Nemesio Oseguera Cervantes,Victor Julio Suarez Rojas,0
-2618,Nemesio Oseguera Cervantes,José Jesús Méndez Vargas,0
-2619,Nemesio Oseguera Cervantes,Nazario Moreno Gonzalez,0
-2620,Nemesio Oseguera Cervantes,Pedro Oliverio Guerrero Castillo,0
-2621,Nemesio Oseguera Cervantes,Vicente Carrillo Leyva,0
-2622,Nemesio Oseguera Cervantes,Vicente Carrillo Fuentes,3
-2623,Nemesio Oseguera Cervantes,Maximiliano Bonilla Orozco,0
-2624,Nemesio Oseguera Cervantes,Luciano Marín Arango,0
-2625,Nemesio Oseguera Cervantes,Jorge Eduardo Costilla Sánchez,0
-2626,Nemesio Oseguera Cervantes,Joaquín Guzmán Loera,7
-2627,Nemesio Oseguera Cervantes,Ismael Zambada García,3
-2628,Nemesio Oseguera Cervantes,Hector Manuel Beltran Leyva,0
-2629,Nemesio Oseguera Cervantes,Nicolás Rodríguez Bautista,1
-2630,Nemesio Oseguera Cervantes,Fernando Sanchez Arellano,0
-2631,Nemesio Oseguera Cervantes,Erickson Vargas Cardenas,0
-2632,Nemesio Oseguera Cervantes,Antonio Cardenas Guillen,0
-2633,Nemesio Oseguera Cervantes,Alejandro Flores Cacho,0
-2634,Nemesio Oseguera Cervantes,Heriberto Lazcano,0
-2635,Nemesio Oseguera Cervantes,Daniel Barrera Barrera,0
-2636,Nemesio Oseguera Cervantes,Miguel Angel Treviño Morales,0
-2637,Nemesio Oseguera Cervantes,Diego Perez Henao,0
-2638,Nemesio Oseguera Cervantes,Luis Enrique Calle Serna,0
-2639,Nemesio Oseguera Cervantes,Javier Antonio Calle Serna,0
-2640,Nemesio Oseguera Cervantes,Guillermo Leon Saenz Vargas,0
+2590,Nemesio Rubén Oseguera Cervantes,Martin Farfan Diaz Gonzalez,0
+2591,Nemesio Rubén Oseguera Cervantes,Fausto Isidro Meza Flores,1
+2592,Nemesio Rubén Oseguera Cervantes,Marcos de Jesus Figueroa Garcia,0
+2593,Nemesio Rubén Oseguera Cervantes,Victor Navarro,0
+2594,Nemesio Rubén Oseguera Cervantes,Mario Ramirez Treviño,0
+2595,Nemesio Rubén Oseguera Cervantes,Alejandro 'Omar' Treviño Morales,1
+2596,Nemesio Rubén Oseguera Cervantes,Moris Alexander Bercián Manchón,0
+2597,Nemesio Rubén Oseguera Cervantes,Antônio Francisco Bonfim Lopes,0
+2598,Nemesio Rubén Oseguera Cervantes,Roberto Vargas Gutiérrez,0
+2599,Nemesio Rubén Oseguera Cervantes,Walid Makled,0
+2600,Nemesio Rubén Oseguera Cervantes,Diego Fernando Murillo Bejarano,0
+2601,Nemesio Rubén Oseguera Cervantes,Francisco Zeledon,0
+2602,Nemesio Rubén Oseguera Cervantes,Amauri Carmona Morelos,0
+2603,Nemesio Rubén Oseguera Cervantes,Henry de Jesús López Londoño,0
+2604,Nemesio Rubén Oseguera Cervantes,Jose Eberto Lopez Montero,0
+2605,Nemesio Rubén Oseguera Cervantes,Rodrigo Londoño Echeverri,0
+2606,Nemesio Rubén Oseguera Cervantes,Horst Walther Overdick,1
+2607,Nemesio Rubén Oseguera Cervantes,Reynerio Flores Lazo,0
+2608,Nemesio Rubén Oseguera Cervantes,José Natividad Luna Pereira,0
+2609,Nemesio Rubén Oseguera Cervantes,Juan Alberto Ortiz Lopez,0
+2610,Nemesio Rubén Oseguera Cervantes,Servando Gomez Martinez,0
+2611,Nemesio Rubén Oseguera Cervantes,Angel de Jesus Pacheco Chanci,0
+2612,Nemesio Rubén Oseguera Cervantes,Rafael Alvarez Piñeda,0
+2613,Nemesio Rubén Oseguera Cervantes,Cesar Augusto Torres Lujan,0
+2614,Nemesio Rubén Oseguera Cervantes,Dairo Antonio Úsuga,1
+2615,Nemesio Rubén Oseguera Cervantes,Juan de Dios Úsuga,0
+2616,Nemesio Rubén Oseguera Cervantes,Edgardo Leyva Escandon,2
+2617,Nemesio Rubén Oseguera Cervantes,Victor Julio Suarez Rojas,0
+2618,Nemesio Rubén Oseguera Cervantes,José Jesús Méndez Vargas,0
+2619,Nemesio Rubén Oseguera Cervantes,Nazario Moreno Gonzalez,0
+2620,Nemesio Rubén Oseguera Cervantes,Pedro Oliverio Guerrero Castillo,0
+2621,Nemesio Rubén Oseguera Cervantes,Vicente Carrillo Leyva,0
+2622,Nemesio Rubén Oseguera Cervantes,Vicente Carrillo Fuentes,4
+2623,Nemesio Rubén Oseguera Cervantes,Maximiliano Bonilla Orozco,0
+2624,Nemesio Rubén Oseguera Cervantes,Luciano Marín Arango,0
+2625,Nemesio Rubén Oseguera Cervantes,Jorge Eduardo Costilla Sánchez,0
+2626,Nemesio Rubén Oseguera Cervantes,Joaquín Guzmán Loera,12
+2627,Nemesio Rubén Oseguera Cervantes,Ismael Zambada García,8
+2628,Nemesio Rubén Oseguera Cervantes,Hector Manuel Beltran Leyva,3
+2629,Nemesio Rubén Oseguera Cervantes,Nicolás Rodríguez Bautista,1
+2630,Nemesio Rubén Oseguera Cervantes,Fernando Sanchez Arellano,0
+2631,Nemesio Rubén Oseguera Cervantes,Erickson Vargas Cardenas,0
+2632,Nemesio Rubén Oseguera Cervantes,Antonio Cardenas Guillen,0
+2633,Nemesio Rubén Oseguera Cervantes,Alejandro Flores Cacho,0
+2634,Nemesio Rubén Oseguera Cervantes,Heriberto Lazcano,0
+2635,Nemesio Rubén Oseguera Cervantes,Daniel Barrera Barrera,0
+2636,Nemesio Rubén Oseguera Cervantes,Miguel Angel Treviño Morales,0
+2637,Nemesio Rubén Oseguera Cervantes,Diego Perez Henao,0
+2638,Nemesio Rubén Oseguera Cervantes,Luis Enrique Calle Serna,0
+2639,Nemesio Rubén Oseguera Cervantes,Javier Antonio Calle Serna,2
+2640,Nemesio Rubén Oseguera Cervantes,Guillermo Leon Saenz Vargas,0
 2641,Martin Farfan Diaz Gonzalez,Fausto Isidro Meza Flores,0
 2642,Martin Farfan Diaz Gonzalez,Marcos de Jesus Figueroa Garcia,0
 2643,Martin Farfan Diaz Gonzalez,Victor Navarro,1
@@ -2649,11 +2649,11 @@
 2647,Martin Farfan Diaz Gonzalez,Antônio Francisco Bonfim Lopes,0
 2648,Martin Farfan Diaz Gonzalez,Roberto Vargas Gutiérrez,0
 2649,Martin Farfan Diaz Gonzalez,Walid Makled,0
-2650,Martin Farfan Diaz Gonzalez,Diego Fernando Murillo Bejarano,0
+2650,Martin Farfan Diaz Gonzalez,Diego Fernando Murillo Bejarano,1
 2651,Martin Farfan Diaz Gonzalez,Francisco Zeledon,0
 2652,Martin Farfan Diaz Gonzalez,Amauri Carmona Morelos,0
 2653,Martin Farfan Diaz Gonzalez,Henry de Jesús López Londoño,0
-2654,Martin Farfan Diaz Gonzalez,Jose Eberto Lopez Montero,0
+2654,Martin Farfan Diaz Gonzalez,Jose Eberto Lopez Montero,4
 2655,Martin Farfan Diaz Gonzalez,Rodrigo Londoño Echeverri,0
 2656,Martin Farfan Diaz Gonzalez,Horst Walther Overdick,0
 2657,Martin Farfan Diaz Gonzalez,Reynerio Flores Lazo,0
@@ -2663,13 +2663,13 @@
 2661,Martin Farfan Diaz Gonzalez,Angel de Jesus Pacheco Chanci,0
 2662,Martin Farfan Diaz Gonzalez,Rafael Alvarez Piñeda,0
 2663,Martin Farfan Diaz Gonzalez,Cesar Augusto Torres Lujan,0
-2664,Martin Farfan Diaz Gonzalez,Dairo Antonio Úsuga,0
+2664,Martin Farfan Diaz Gonzalez,Dairo Antonio Úsuga,4
 2665,Martin Farfan Diaz Gonzalez,Juan de Dios Úsuga,0
-2666,Martin Farfan Diaz Gonzalez,Edgardo Leyva Escandon,0
+2666,Martin Farfan Diaz Gonzalez,Edgardo Leyva Escandon,1
 2667,Martin Farfan Diaz Gonzalez,Victor Julio Suarez Rojas,0
 2668,Martin Farfan Diaz Gonzalez,José Jesús Méndez Vargas,0
 2669,Martin Farfan Diaz Gonzalez,Nazario Moreno Gonzalez,0
-2670,Martin Farfan Diaz Gonzalez,Pedro Oliverio Guerrero Castillo,0
+2670,Martin Farfan Diaz Gonzalez,Pedro Oliverio Guerrero Castillo,5
 2671,Martin Farfan Diaz Gonzalez,Vicente Carrillo Leyva,0
 2672,Martin Farfan Diaz Gonzalez,Vicente Carrillo Fuentes,0
 2673,Martin Farfan Diaz Gonzalez,Maximiliano Bonilla Orozco,0
@@ -2684,7 +2684,7 @@
 2682,Martin Farfan Diaz Gonzalez,Antonio Cardenas Guillen,0
 2683,Martin Farfan Diaz Gonzalez,Alejandro Flores Cacho,0
 2684,Martin Farfan Diaz Gonzalez,Heriberto Lazcano,0
-2685,Martin Farfan Diaz Gonzalez,Daniel Barrera Barrera,0
+2685,Martin Farfan Diaz Gonzalez,Daniel Barrera Barrera,7
 2686,Martin Farfan Diaz Gonzalez,Miguel Angel Treviño Morales,0
 2687,Martin Farfan Diaz Gonzalez,Diego Perez Henao,0
 2688,Martin Farfan Diaz Gonzalez,Luis Enrique Calle Serna,0
@@ -2693,7 +2693,7 @@
 2691,Fausto Isidro Meza Flores,Marcos de Jesus Figueroa Garcia,0
 2692,Fausto Isidro Meza Flores,Victor Navarro,0
 2693,Fausto Isidro Meza Flores,Mario Ramirez Treviño,0
-2694,Fausto Isidro Meza Flores,Alejandro 'Omar' Treviño Morales,0
+2694,Fausto Isidro Meza Flores,Alejandro 'Omar' Treviño Morales,1
 2695,Fausto Isidro Meza Flores,Moris Alexander Bercián Manchón,0
 2696,Fausto Isidro Meza Flores,Antônio Francisco Bonfim Lopes,0
 2697,Fausto Isidro Meza Flores,Roberto Vargas Gutiérrez,0
@@ -2720,13 +2720,13 @@
 2718,Fausto Isidro Meza Flores,Nazario Moreno Gonzalez,0
 2719,Fausto Isidro Meza Flores,Pedro Oliverio Guerrero Castillo,0
 2720,Fausto Isidro Meza Flores,Vicente Carrillo Leyva,0
-2721,Fausto Isidro Meza Flores,Vicente Carrillo Fuentes,0
+2721,Fausto Isidro Meza Flores,Vicente Carrillo Fuentes,1
 2722,Fausto Isidro Meza Flores,Maximiliano Bonilla Orozco,0
 2723,Fausto Isidro Meza Flores,Luciano Marín Arango,0
 2724,Fausto Isidro Meza Flores,Jorge Eduardo Costilla Sánchez,0
-2725,Fausto Isidro Meza Flores,Joaquín Guzmán Loera,0
-2726,Fausto Isidro Meza Flores,Ismael Zambada García,0
-2727,Fausto Isidro Meza Flores,Hector Manuel Beltran Leyva,0
+2725,Fausto Isidro Meza Flores,Joaquín Guzmán Loera,1
+2726,Fausto Isidro Meza Flores,Ismael Zambada García,1
+2727,Fausto Isidro Meza Flores,Hector Manuel Beltran Leyva,2
 2728,Fausto Isidro Meza Flores,Nicolás Rodríguez Bautista,0
 2729,Fausto Isidro Meza Flores,Fernando Sanchez Arellano,0
 2730,Fausto Isidro Meza Flores,Erickson Vargas Cardenas,0
@@ -2762,11 +2762,11 @@
 2760,Marcos de Jesus Figueroa Garcia,Cesar Augusto Torres Lujan,0
 2761,Marcos de Jesus Figueroa Garcia,Dairo Antonio Úsuga,0
 2762,Marcos de Jesus Figueroa Garcia,Juan de Dios Úsuga,0
-2763,Marcos de Jesus Figueroa Garcia,Edgardo Leyva Escandon,0
+2763,Marcos de Jesus Figueroa Garcia,Edgardo Leyva Escandon,1
 2764,Marcos de Jesus Figueroa Garcia,Victor Julio Suarez Rojas,0
 2765,Marcos de Jesus Figueroa Garcia,José Jesús Méndez Vargas,0
 2766,Marcos de Jesus Figueroa Garcia,Nazario Moreno Gonzalez,0
-2767,Marcos de Jesus Figueroa Garcia,Pedro Oliverio Guerrero Castillo,0
+2767,Marcos de Jesus Figueroa Garcia,Pedro Oliverio Guerrero Castillo,1
 2768,Marcos de Jesus Figueroa Garcia,Vicente Carrillo Leyva,0
 2769,Marcos de Jesus Figueroa Garcia,Vicente Carrillo Fuentes,0
 2770,Marcos de Jesus Figueroa Garcia,Maximiliano Bonilla Orozco,0
@@ -2793,7 +2793,7 @@
 2791,Victor Navarro,Antônio Francisco Bonfim Lopes,0
 2792,Victor Navarro,Roberto Vargas Gutiérrez,0
 2793,Victor Navarro,Walid Makled,1
-2794,Victor Navarro,Diego Fernando Murillo Bejarano,0
+2794,Victor Navarro,Diego Fernando Murillo Bejarano,1
 2795,Victor Navarro,Francisco Zeledon,0
 2796,Victor Navarro,Amauri Carmona Morelos,0
 2797,Victor Navarro,Henry de Jesús López Londoño,0
@@ -2807,7 +2807,7 @@
 2805,Victor Navarro,Angel de Jesus Pacheco Chanci,0
 2806,Victor Navarro,Rafael Alvarez Piñeda,0
 2807,Victor Navarro,Cesar Augusto Torres Lujan,0
-2808,Victor Navarro,Dairo Antonio Úsuga,0
+2808,Victor Navarro,Dairo Antonio Úsuga,1
 2809,Victor Navarro,Juan de Dios Úsuga,0
 2810,Victor Navarro,Edgardo Leyva Escandon,0
 2811,Victor Navarro,Victor Julio Suarez Rojas,0
@@ -2828,7 +2828,7 @@
 2826,Victor Navarro,Antonio Cardenas Guillen,0
 2827,Victor Navarro,Alejandro Flores Cacho,0
 2828,Victor Navarro,Heriberto Lazcano,0
-2829,Victor Navarro,Daniel Barrera Barrera,0
+2829,Victor Navarro,Daniel Barrera Barrera,2
 2830,Victor Navarro,Miguel Angel Treviño Morales,0
 2831,Victor Navarro,Diego Perez Henao,0
 2832,Victor Navarro,Luis Enrique Calle Serna,0
@@ -2894,7 +2894,7 @@
 2892,Alejandro 'Omar' Treviño Morales,Reynerio Flores Lazo,0
 2893,Alejandro 'Omar' Treviño Morales,José Natividad Luna Pereira,0
 2894,Alejandro 'Omar' Treviño Morales,Juan Alberto Ortiz Lopez,0
-2895,Alejandro 'Omar' Treviño Morales,Servando Gomez Martinez,0
+2895,Alejandro 'Omar' Treviño Morales,Servando Gomez Martinez,1
 2896,Alejandro 'Omar' Treviño Morales,Angel de Jesus Pacheco Chanci,0
 2897,Alejandro 'Omar' Treviño Morales,Rafael Alvarez Piñeda,0
 2898,Alejandro 'Omar' Treviño Morales,Cesar Augusto Torres Lujan,0
@@ -2906,21 +2906,21 @@
 2904,Alejandro 'Omar' Treviño Morales,Nazario Moreno Gonzalez,0
 2905,Alejandro 'Omar' Treviño Morales,Pedro Oliverio Guerrero Castillo,0
 2906,Alejandro 'Omar' Treviño Morales,Vicente Carrillo Leyva,0
-2907,Alejandro 'Omar' Treviño Morales,Vicente Carrillo Fuentes,0
+2907,Alejandro 'Omar' Treviño Morales,Vicente Carrillo Fuentes,1
 2908,Alejandro 'Omar' Treviño Morales,Maximiliano Bonilla Orozco,0
 2909,Alejandro 'Omar' Treviño Morales,Luciano Marín Arango,0
 2910,Alejandro 'Omar' Treviño Morales,Jorge Eduardo Costilla Sánchez,0
-2911,Alejandro 'Omar' Treviño Morales,Joaquín Guzmán Loera,0
+2911,Alejandro 'Omar' Treviño Morales,Joaquín Guzmán Loera,1
 2912,Alejandro 'Omar' Treviño Morales,Ismael Zambada García,0
-2913,Alejandro 'Omar' Treviño Morales,Hector Manuel Beltran Leyva,0
+2913,Alejandro 'Omar' Treviño Morales,Hector Manuel Beltran Leyva,2
 2914,Alejandro 'Omar' Treviño Morales,Nicolás Rodríguez Bautista,0
 2915,Alejandro 'Omar' Treviño Morales,Fernando Sanchez Arellano,0
 2916,Alejandro 'Omar' Treviño Morales,Erickson Vargas Cardenas,0
 2917,Alejandro 'Omar' Treviño Morales,Antonio Cardenas Guillen,0
 2918,Alejandro 'Omar' Treviño Morales,Alejandro Flores Cacho,0
-2919,Alejandro 'Omar' Treviño Morales,Heriberto Lazcano,0
+2919,Alejandro 'Omar' Treviño Morales,Heriberto Lazcano,1
 2920,Alejandro 'Omar' Treviño Morales,Daniel Barrera Barrera,0
-2921,Alejandro 'Omar' Treviño Morales,Miguel Angel Treviño Morales,0
+2921,Alejandro 'Omar' Treviño Morales,Miguel Angel Treviño Morales,3
 2922,Alejandro 'Omar' Treviño Morales,Diego Perez Henao,0
 2923,Alejandro 'Omar' Treviño Morales,Luis Enrique Calle Serna,0
 2924,Alejandro 'Omar' Treviño Morales,Javier Antonio Calle Serna,0
@@ -2944,7 +2944,7 @@
 2942,Moris Alexander Bercián Manchón,Cesar Augusto Torres Lujan,0
 2943,Moris Alexander Bercián Manchón,Dairo Antonio Úsuga,0
 2944,Moris Alexander Bercián Manchón,Juan de Dios Úsuga,0
-2945,Moris Alexander Bercián Manchón,Edgardo Leyva Escandon,0
+2945,Moris Alexander Bercián Manchón,Edgardo Leyva Escandon,1
 2946,Moris Alexander Bercián Manchón,Victor Julio Suarez Rojas,0
 2947,Moris Alexander Bercián Manchón,José Jesús Méndez Vargas,0
 2948,Moris Alexander Bercián Manchón,Nazario Moreno Gonzalez,0
@@ -3027,7 +3027,7 @@
 3025,Roberto Vargas Gutiérrez,Angel de Jesus Pacheco Chanci,0
 3026,Roberto Vargas Gutiérrez,Rafael Alvarez Piñeda,0
 3027,Roberto Vargas Gutiérrez,Cesar Augusto Torres Lujan,0
-3028,Roberto Vargas Gutiérrez,Dairo Antonio Úsuga,2
+3028,Roberto Vargas Gutiérrez,Dairo Antonio Úsuga,3
 3029,Roberto Vargas Gutiérrez,Juan de Dios Úsuga,0
 3030,Roberto Vargas Gutiérrez,Edgardo Leyva Escandon,0
 3031,Roberto Vargas Gutiérrez,Victor Julio Suarez Rojas,0
@@ -3054,7 +3054,7 @@
 3052,Roberto Vargas Gutiérrez,Luis Enrique Calle Serna,0
 3053,Roberto Vargas Gutiérrez,Javier Antonio Calle Serna,0
 3054,Roberto Vargas Gutiérrez,Guillermo Leon Saenz Vargas,0
-3055,Walid Makled,Diego Fernando Murillo Bejarano,0
+3055,Walid Makled,Diego Fernando Murillo Bejarano,1
 3056,Walid Makled,Francisco Zeledon,0
 3057,Walid Makled,Amauri Carmona Morelos,0
 3058,Walid Makled,Henry de Jesús López Londoño,0
@@ -3077,7 +3077,7 @@
 3075,Walid Makled,Pedro Oliverio Guerrero Castillo,0
 3076,Walid Makled,Vicente Carrillo Leyva,0
 3077,Walid Makled,Vicente Carrillo Fuentes,0
-3078,Walid Makled,Maximiliano Bonilla Orozco,1
+3078,Walid Makled,Maximiliano Bonilla Orozco,2
 3079,Walid Makled,Luciano Marín Arango,0
 3080,Walid Makled,Jorge Eduardo Costilla Sánchez,0
 3081,Walid Makled,Joaquín Guzmán Loera,0
@@ -3089,15 +3089,15 @@
 3087,Walid Makled,Antonio Cardenas Guillen,0
 3088,Walid Makled,Alejandro Flores Cacho,0
 3089,Walid Makled,Heriberto Lazcano,0
-3090,Walid Makled,Daniel Barrera Barrera,0
+3090,Walid Makled,Daniel Barrera Barrera,2
 3091,Walid Makled,Miguel Angel Treviño Morales,0
 3092,Walid Makled,Diego Perez Henao,2
 3093,Walid Makled,Luis Enrique Calle Serna,2
-3094,Walid Makled,Javier Antonio Calle Serna,1
+3094,Walid Makled,Javier Antonio Calle Serna,2
 3095,Walid Makled,Guillermo Leon Saenz Vargas,0
 3096,Diego Fernando Murillo Bejarano,Francisco Zeledon,0
 3097,Diego Fernando Murillo Bejarano,Amauri Carmona Morelos,0
-3098,Diego Fernando Murillo Bejarano,Henry de Jesús López Londoño,0
+3098,Diego Fernando Murillo Bejarano,Henry de Jesús López Londoño,2
 3099,Diego Fernando Murillo Bejarano,Jose Eberto Lopez Montero,0
 3100,Diego Fernando Murillo Bejarano,Rodrigo Londoño Echeverri,0
 3101,Diego Fernando Murillo Bejarano,Horst Walther Overdick,0
@@ -3105,19 +3105,19 @@
 3103,Diego Fernando Murillo Bejarano,José Natividad Luna Pereira,0
 3104,Diego Fernando Murillo Bejarano,Juan Alberto Ortiz Lopez,0
 3105,Diego Fernando Murillo Bejarano,Servando Gomez Martinez,0
-3106,Diego Fernando Murillo Bejarano,Angel de Jesus Pacheco Chanci,0
+3106,Diego Fernando Murillo Bejarano,Angel de Jesus Pacheco Chanci,8
 3107,Diego Fernando Murillo Bejarano,Rafael Alvarez Piñeda,0
 3108,Diego Fernando Murillo Bejarano,Cesar Augusto Torres Lujan,0
-3109,Diego Fernando Murillo Bejarano,Dairo Antonio Úsuga,0
-3110,Diego Fernando Murillo Bejarano,Juan de Dios Úsuga,0
-3111,Diego Fernando Murillo Bejarano,Edgardo Leyva Escandon,0
+3109,Diego Fernando Murillo Bejarano,Dairo Antonio Úsuga,3
+3110,Diego Fernando Murillo Bejarano,Juan de Dios Úsuga,2
+3111,Diego Fernando Murillo Bejarano,Edgardo Leyva Escandon,1
 3112,Diego Fernando Murillo Bejarano,Victor Julio Suarez Rojas,0
 3113,Diego Fernando Murillo Bejarano,José Jesús Méndez Vargas,0
 3114,Diego Fernando Murillo Bejarano,Nazario Moreno Gonzalez,0
 3115,Diego Fernando Murillo Bejarano,Pedro Oliverio Guerrero Castillo,0
 3116,Diego Fernando Murillo Bejarano,Vicente Carrillo Leyva,0
 3117,Diego Fernando Murillo Bejarano,Vicente Carrillo Fuentes,0
-3118,Diego Fernando Murillo Bejarano,Maximiliano Bonilla Orozco,1
+3118,Diego Fernando Murillo Bejarano,Maximiliano Bonilla Orozco,6
 3119,Diego Fernando Murillo Bejarano,Luciano Marín Arango,0
 3120,Diego Fernando Murillo Bejarano,Jorge Eduardo Costilla Sánchez,0
 3121,Diego Fernando Murillo Bejarano,Joaquín Guzmán Loera,1
@@ -3129,11 +3129,11 @@
 3127,Diego Fernando Murillo Bejarano,Antonio Cardenas Guillen,0
 3128,Diego Fernando Murillo Bejarano,Alejandro Flores Cacho,0
 3129,Diego Fernando Murillo Bejarano,Heriberto Lazcano,0
-3130,Diego Fernando Murillo Bejarano,Daniel Barrera Barrera,0
+3130,Diego Fernando Murillo Bejarano,Daniel Barrera Barrera,3
 3131,Diego Fernando Murillo Bejarano,Miguel Angel Treviño Morales,0
-3132,Diego Fernando Murillo Bejarano,Diego Perez Henao,0
-3133,Diego Fernando Murillo Bejarano,Luis Enrique Calle Serna,0
-3134,Diego Fernando Murillo Bejarano,Javier Antonio Calle Serna,0
+3132,Diego Fernando Murillo Bejarano,Diego Perez Henao,1
+3133,Diego Fernando Murillo Bejarano,Luis Enrique Calle Serna,1
+3134,Diego Fernando Murillo Bejarano,Javier Antonio Calle Serna,1
 3135,Diego Fernando Murillo Bejarano,Guillermo Leon Saenz Vargas,0
 3136,Francisco Zeledon,Amauri Carmona Morelos,1
 3137,Francisco Zeledon,Henry de Jesús López Londoño,0
@@ -3219,22 +3219,22 @@
 3217,Henry de Jesús López Londoño,José Natividad Luna Pereira,0
 3218,Henry de Jesús López Londoño,Juan Alberto Ortiz Lopez,0
 3219,Henry de Jesús López Londoño,Servando Gomez Martinez,0
-3220,Henry de Jesús López Londoño,Angel de Jesus Pacheco Chanci,0
+3220,Henry de Jesús López Londoño,Angel de Jesus Pacheco Chanci,3
 3221,Henry de Jesús López Londoño,Rafael Alvarez Piñeda,0
 3222,Henry de Jesús López Londoño,Cesar Augusto Torres Lujan,0
-3223,Henry de Jesús López Londoño,Dairo Antonio Úsuga,0
-3224,Henry de Jesús López Londoño,Juan de Dios Úsuga,0
-3225,Henry de Jesús López Londoño,Edgardo Leyva Escandon,0
+3223,Henry de Jesús López Londoño,Dairo Antonio Úsuga,2
+3224,Henry de Jesús López Londoño,Juan de Dios Úsuga,3
+3225,Henry de Jesús López Londoño,Edgardo Leyva Escandon,1
 3226,Henry de Jesús López Londoño,Victor Julio Suarez Rojas,0
 3227,Henry de Jesús López Londoño,José Jesús Méndez Vargas,0
 3228,Henry de Jesús López Londoño,Nazario Moreno Gonzalez,0
-3229,Henry de Jesús López Londoño,Pedro Oliverio Guerrero Castillo,0
+3229,Henry de Jesús López Londoño,Pedro Oliverio Guerrero Castillo,1
 3230,Henry de Jesús López Londoño,Vicente Carrillo Leyva,0
 3231,Henry de Jesús López Londoño,Vicente Carrillo Fuentes,0
-3232,Henry de Jesús López Londoño,Maximiliano Bonilla Orozco,0
+3232,Henry de Jesús López Londoño,Maximiliano Bonilla Orozco,4
 3233,Henry de Jesús López Londoño,Luciano Marín Arango,0
 3234,Henry de Jesús López Londoño,Jorge Eduardo Costilla Sánchez,0
-3235,Henry de Jesús López Londoño,Joaquín Guzmán Loera,0
+3235,Henry de Jesús López Londoño,Joaquín Guzmán Loera,1
 3236,Henry de Jesús López Londoño,Ismael Zambada García,0
 3237,Henry de Jesús López Londoño,Hector Manuel Beltran Leyva,0
 3238,Henry de Jesús López Londoño,Nicolás Rodríguez Bautista,0
@@ -3243,11 +3243,11 @@
 3241,Henry de Jesús López Londoño,Antonio Cardenas Guillen,0
 3242,Henry de Jesús López Londoño,Alejandro Flores Cacho,0
 3243,Henry de Jesús López Londoño,Heriberto Lazcano,0
-3244,Henry de Jesús López Londoño,Daniel Barrera Barrera,0
+3244,Henry de Jesús López Londoño,Daniel Barrera Barrera,5
 3245,Henry de Jesús López Londoño,Miguel Angel Treviño Morales,0
-3246,Henry de Jesús López Londoño,Diego Perez Henao,0
-3247,Henry de Jesús López Londoño,Luis Enrique Calle Serna,0
-3248,Henry de Jesús López Londoño,Javier Antonio Calle Serna,0
+3246,Henry de Jesús López Londoño,Diego Perez Henao,2
+3247,Henry de Jesús López Londoño,Luis Enrique Calle Serna,2
+3248,Henry de Jesús López Londoño,Javier Antonio Calle Serna,2
 3249,Henry de Jesús López Londoño,Guillermo Leon Saenz Vargas,0
 3250,Jose Eberto Lopez Montero,Rodrigo Londoño Echeverri,0
 3251,Jose Eberto Lopez Montero,Horst Walther Overdick,0
@@ -3264,7 +3264,7 @@
 3262,Jose Eberto Lopez Montero,Victor Julio Suarez Rojas,0
 3263,Jose Eberto Lopez Montero,José Jesús Méndez Vargas,0
 3264,Jose Eberto Lopez Montero,Nazario Moreno Gonzalez,0
-3265,Jose Eberto Lopez Montero,Pedro Oliverio Guerrero Castillo,0
+3265,Jose Eberto Lopez Montero,Pedro Oliverio Guerrero Castillo,7
 3266,Jose Eberto Lopez Montero,Vicente Carrillo Leyva,0
 3267,Jose Eberto Lopez Montero,Vicente Carrillo Fuentes,0
 3268,Jose Eberto Lopez Montero,Maximiliano Bonilla Orozco,0
@@ -3279,7 +3279,7 @@
 3277,Jose Eberto Lopez Montero,Antonio Cardenas Guillen,0
 3278,Jose Eberto Lopez Montero,Alejandro Flores Cacho,0
 3279,Jose Eberto Lopez Montero,Heriberto Lazcano,0
-3280,Jose Eberto Lopez Montero,Daniel Barrera Barrera,0
+3280,Jose Eberto Lopez Montero,Daniel Barrera Barrera,7
 3281,Jose Eberto Lopez Montero,Miguel Angel Treviño Morales,0
 3282,Jose Eberto Lopez Montero,Diego Perez Henao,0
 3283,Jose Eberto Lopez Montero,Luis Enrique Calle Serna,0
@@ -3295,14 +3295,14 @@
 3293,Rodrigo Londoño Echeverri,Cesar Augusto Torres Lujan,0
 3294,Rodrigo Londoño Echeverri,Dairo Antonio Úsuga,0
 3295,Rodrigo Londoño Echeverri,Juan de Dios Úsuga,0
-3296,Rodrigo Londoño Echeverri,Edgardo Leyva Escandon,0
-3297,Rodrigo Londoño Echeverri,Victor Julio Suarez Rojas,0
+3296,Rodrigo Londoño Echeverri,Edgardo Leyva Escandon,2
+3297,Rodrigo Londoño Echeverri,Victor Julio Suarez Rojas,2
 3298,Rodrigo Londoño Echeverri,José Jesús Méndez Vargas,0
 3299,Rodrigo Londoño Echeverri,Nazario Moreno Gonzalez,0
 3300,Rodrigo Londoño Echeverri,Pedro Oliverio Guerrero Castillo,0
 3301,Rodrigo Londoño Echeverri,Vicente Carrillo Leyva,0
 3302,Rodrigo Londoño Echeverri,Vicente Carrillo Fuentes,0
-3303,Rodrigo Londoño Echeverri,Maximiliano Bonilla Orozco,0
+3303,Rodrigo Londoño Echeverri,Maximiliano Bonilla Orozco,1
 3304,Rodrigo Londoño Echeverri,Luciano Marín Arango,1
 3305,Rodrigo Londoño Echeverri,Jorge Eduardo Costilla Sánchez,0
 3306,Rodrigo Londoño Echeverri,Joaquín Guzmán Loera,0
@@ -3319,31 +3319,31 @@
 3317,Rodrigo Londoño Echeverri,Diego Perez Henao,0
 3318,Rodrigo Londoño Echeverri,Luis Enrique Calle Serna,0
 3319,Rodrigo Londoño Echeverri,Javier Antonio Calle Serna,0
-3320,Rodrigo Londoño Echeverri,Guillermo Leon Saenz Vargas,0
+3320,Rodrigo Londoño Echeverri,Guillermo Leon Saenz Vargas,2
 3321,Horst Walther Overdick,Reynerio Flores Lazo,0
 3322,Horst Walther Overdick,José Natividad Luna Pereira,0
-3323,Horst Walther Overdick,Juan Alberto Ortiz Lopez,0
+3323,Horst Walther Overdick,Juan Alberto Ortiz Lopez,1
 3324,Horst Walther Overdick,Servando Gomez Martinez,0
 3325,Horst Walther Overdick,Angel de Jesus Pacheco Chanci,0
 3326,Horst Walther Overdick,Rafael Alvarez Piñeda,0
 3327,Horst Walther Overdick,Cesar Augusto Torres Lujan,0
 3328,Horst Walther Overdick,Dairo Antonio Úsuga,0
 3329,Horst Walther Overdick,Juan de Dios Úsuga,0
-3330,Horst Walther Overdick,Edgardo Leyva Escandon,0
+3330,Horst Walther Overdick,Edgardo Leyva Escandon,2
 3331,Horst Walther Overdick,Victor Julio Suarez Rojas,0
 3332,Horst Walther Overdick,José Jesús Méndez Vargas,0
 3333,Horst Walther Overdick,Nazario Moreno Gonzalez,0
 3334,Horst Walther Overdick,Pedro Oliverio Guerrero Castillo,0
-3335,Horst Walther Overdick,Vicente Carrillo Leyva,0
+3335,Horst Walther Overdick,Vicente Carrillo Leyva,1
 3336,Horst Walther Overdick,Vicente Carrillo Fuentes,0
 3337,Horst Walther Overdick,Maximiliano Bonilla Orozco,0
-3338,Horst Walther Overdick,Luciano Marín Arango,0
+3338,Horst Walther Overdick,Luciano Marín Arango,1
 3339,Horst Walther Overdick,Jorge Eduardo Costilla Sánchez,0
-3340,Horst Walther Overdick,Joaquín Guzmán Loera,0
-3341,Horst Walther Overdick,Ismael Zambada García,0
+3340,Horst Walther Overdick,Joaquín Guzmán Loera,4
+3341,Horst Walther Overdick,Ismael Zambada García,1
 3342,Horst Walther Overdick,Hector Manuel Beltran Leyva,0
 3343,Horst Walther Overdick,Nicolás Rodríguez Bautista,0
-3344,Horst Walther Overdick,Fernando Sanchez Arellano,0
+3344,Horst Walther Overdick,Fernando Sanchez Arellano,1
 3345,Horst Walther Overdick,Erickson Vargas Cardenas,0
 3346,Horst Walther Overdick,Antonio Cardenas Guillen,0
 3347,Horst Walther Overdick,Alejandro Flores Cacho,0
@@ -3351,18 +3351,18 @@
 3349,Horst Walther Overdick,Daniel Barrera Barrera,0
 3350,Horst Walther Overdick,Miguel Angel Treviño Morales,0
 3351,Horst Walther Overdick,Diego Perez Henao,0
-3352,Horst Walther Overdick,Luis Enrique Calle Serna,0
-3353,Horst Walther Overdick,Javier Antonio Calle Serna,0
+3352,Horst Walther Overdick,Luis Enrique Calle Serna,1
+3353,Horst Walther Overdick,Javier Antonio Calle Serna,1
 3354,Horst Walther Overdick,Guillermo Leon Saenz Vargas,0
-3355,Reynerio Flores Lazo,José Natividad Luna Pereira,0
+3355,Reynerio Flores Lazo,José Natividad Luna Pereira,2
 3356,Reynerio Flores Lazo,Juan Alberto Ortiz Lopez,0
 3357,Reynerio Flores Lazo,Servando Gomez Martinez,0
 3358,Reynerio Flores Lazo,Angel de Jesus Pacheco Chanci,0
-3359,Reynerio Flores Lazo,Rafael Alvarez Piñeda,0
+3359,Reynerio Flores Lazo,Rafael Alvarez Piñeda,2
 3360,Reynerio Flores Lazo,Cesar Augusto Torres Lujan,0
 3361,Reynerio Flores Lazo,Dairo Antonio Úsuga,0
 3362,Reynerio Flores Lazo,Juan de Dios Úsuga,0
-3363,Reynerio Flores Lazo,Edgardo Leyva Escandon,0
+3363,Reynerio Flores Lazo,Edgardo Leyva Escandon,1
 3364,Reynerio Flores Lazo,Victor Julio Suarez Rojas,0
 3365,Reynerio Flores Lazo,José Jesús Méndez Vargas,0
 3366,Reynerio Flores Lazo,Nazario Moreno Gonzalez,0
@@ -3372,7 +3372,7 @@
 3370,Reynerio Flores Lazo,Maximiliano Bonilla Orozco,0
 3371,Reynerio Flores Lazo,Luciano Marín Arango,0
 3372,Reynerio Flores Lazo,Jorge Eduardo Costilla Sánchez,0
-3373,Reynerio Flores Lazo,Joaquín Guzmán Loera,0
+3373,Reynerio Flores Lazo,Joaquín Guzmán Loera,1
 3374,Reynerio Flores Lazo,Ismael Zambada García,0
 3375,Reynerio Flores Lazo,Hector Manuel Beltran Leyva,0
 3376,Reynerio Flores Lazo,Nicolás Rodríguez Bautista,0
@@ -3390,11 +3390,11 @@
 3388,José Natividad Luna Pereira,Juan Alberto Ortiz Lopez,0
 3389,José Natividad Luna Pereira,Servando Gomez Martinez,0
 3390,José Natividad Luna Pereira,Angel de Jesus Pacheco Chanci,0
-3391,José Natividad Luna Pereira,Rafael Alvarez Piñeda,0
+3391,José Natividad Luna Pereira,Rafael Alvarez Piñeda,5
 3392,José Natividad Luna Pereira,Cesar Augusto Torres Lujan,0
 3393,José Natividad Luna Pereira,Dairo Antonio Úsuga,0
 3394,José Natividad Luna Pereira,Juan de Dios Úsuga,0
-3395,José Natividad Luna Pereira,Edgardo Leyva Escandon,0
+3395,José Natividad Luna Pereira,Edgardo Leyva Escandon,1
 3396,José Natividad Luna Pereira,Victor Julio Suarez Rojas,0
 3397,José Natividad Luna Pereira,José Jesús Méndez Vargas,0
 3398,José Natividad Luna Pereira,Nazario Moreno Gonzalez,0
@@ -3404,7 +3404,7 @@
 3402,José Natividad Luna Pereira,Maximiliano Bonilla Orozco,0
 3403,José Natividad Luna Pereira,Luciano Marín Arango,0
 3404,José Natividad Luna Pereira,Jorge Eduardo Costilla Sánchez,0
-3405,José Natividad Luna Pereira,Joaquín Guzmán Loera,0
+3405,José Natividad Luna Pereira,Joaquín Guzmán Loera,1
 3406,José Natividad Luna Pereira,Ismael Zambada García,0
 3407,José Natividad Luna Pereira,Hector Manuel Beltran Leyva,0
 3408,José Natividad Luna Pereira,Nicolás Rodríguez Bautista,0
@@ -3420,12 +3420,12 @@
 3418,José Natividad Luna Pereira,Javier Antonio Calle Serna,0
 3419,José Natividad Luna Pereira,Guillermo Leon Saenz Vargas,0
 3420,Juan Alberto Ortiz Lopez,Servando Gomez Martinez,0
-3421,Juan Alberto Ortiz Lopez,Angel de Jesus Pacheco Chanci,0
+3421,Juan Alberto Ortiz Lopez,Angel de Jesus Pacheco Chanci,1
 3422,Juan Alberto Ortiz Lopez,Rafael Alvarez Piñeda,0
 3423,Juan Alberto Ortiz Lopez,Cesar Augusto Torres Lujan,0
 3424,Juan Alberto Ortiz Lopez,Dairo Antonio Úsuga,0
 3425,Juan Alberto Ortiz Lopez,Juan de Dios Úsuga,0
-3426,Juan Alberto Ortiz Lopez,Edgardo Leyva Escandon,0
+3426,Juan Alberto Ortiz Lopez,Edgardo Leyva Escandon,1
 3427,Juan Alberto Ortiz Lopez,Victor Julio Suarez Rojas,0
 3428,Juan Alberto Ortiz Lopez,José Jesús Méndez Vargas,0
 3429,Juan Alberto Ortiz Lopez,Nazario Moreno Gonzalez,0
@@ -3435,63 +3435,63 @@
 3433,Juan Alberto Ortiz Lopez,Maximiliano Bonilla Orozco,0
 3434,Juan Alberto Ortiz Lopez,Luciano Marín Arango,0
 3435,Juan Alberto Ortiz Lopez,Jorge Eduardo Costilla Sánchez,0
-3436,Juan Alberto Ortiz Lopez,Joaquín Guzmán Loera,0
-3437,Juan Alberto Ortiz Lopez,Ismael Zambada García,0
+3436,Juan Alberto Ortiz Lopez,Joaquín Guzmán Loera,3
+3437,Juan Alberto Ortiz Lopez,Ismael Zambada García,1
 3438,Juan Alberto Ortiz Lopez,Hector Manuel Beltran Leyva,0
 3439,Juan Alberto Ortiz Lopez,Nicolás Rodríguez Bautista,0
 3440,Juan Alberto Ortiz Lopez,Fernando Sanchez Arellano,0
 3441,Juan Alberto Ortiz Lopez,Erickson Vargas Cardenas,0
 3442,Juan Alberto Ortiz Lopez,Antonio Cardenas Guillen,0
 3443,Juan Alberto Ortiz Lopez,Alejandro Flores Cacho,0
-3444,Juan Alberto Ortiz Lopez,Heriberto Lazcano,0
+3444,Juan Alberto Ortiz Lopez,Heriberto Lazcano,1
 3445,Juan Alberto Ortiz Lopez,Daniel Barrera Barrera,0
-3446,Juan Alberto Ortiz Lopez,Miguel Angel Treviño Morales,0
+3446,Juan Alberto Ortiz Lopez,Miguel Angel Treviño Morales,2
 3447,Juan Alberto Ortiz Lopez,Diego Perez Henao,0
-3448,Juan Alberto Ortiz Lopez,Luis Enrique Calle Serna,0
-3449,Juan Alberto Ortiz Lopez,Javier Antonio Calle Serna,0
+3448,Juan Alberto Ortiz Lopez,Luis Enrique Calle Serna,1
+3449,Juan Alberto Ortiz Lopez,Javier Antonio Calle Serna,1
 3450,Juan Alberto Ortiz Lopez,Guillermo Leon Saenz Vargas,0
 3451,Servando Gomez Martinez,Angel de Jesus Pacheco Chanci,0
 3452,Servando Gomez Martinez,Rafael Alvarez Piñeda,0
 3453,Servando Gomez Martinez,Cesar Augusto Torres Lujan,0
 3454,Servando Gomez Martinez,Dairo Antonio Úsuga,0
 3455,Servando Gomez Martinez,Juan de Dios Úsuga,0
-3456,Servando Gomez Martinez,Edgardo Leyva Escandon,0
+3456,Servando Gomez Martinez,Edgardo Leyva Escandon,1
 3457,Servando Gomez Martinez,Victor Julio Suarez Rojas,0
-3458,Servando Gomez Martinez,José Jesús Méndez Vargas,0
-3459,Servando Gomez Martinez,Nazario Moreno Gonzalez,1
+3458,Servando Gomez Martinez,José Jesús Méndez Vargas,4
+3459,Servando Gomez Martinez,Nazario Moreno Gonzalez,4
 3460,Servando Gomez Martinez,Pedro Oliverio Guerrero Castillo,0
 3461,Servando Gomez Martinez,Vicente Carrillo Leyva,0
 3462,Servando Gomez Martinez,Vicente Carrillo Fuentes,0
 3463,Servando Gomez Martinez,Maximiliano Bonilla Orozco,0
 3464,Servando Gomez Martinez,Luciano Marín Arango,0
 3465,Servando Gomez Martinez,Jorge Eduardo Costilla Sánchez,0
-3466,Servando Gomez Martinez,Joaquín Guzmán Loera,0
-3467,Servando Gomez Martinez,Ismael Zambada García,0
-3468,Servando Gomez Martinez,Hector Manuel Beltran Leyva,0
+3466,Servando Gomez Martinez,Joaquín Guzmán Loera,5
+3467,Servando Gomez Martinez,Ismael Zambada García,2
+3468,Servando Gomez Martinez,Hector Manuel Beltran Leyva,5
 3469,Servando Gomez Martinez,Nicolás Rodríguez Bautista,0
 3470,Servando Gomez Martinez,Fernando Sanchez Arellano,0
 3471,Servando Gomez Martinez,Erickson Vargas Cardenas,0
 3472,Servando Gomez Martinez,Antonio Cardenas Guillen,0
 3473,Servando Gomez Martinez,Alejandro Flores Cacho,0
-3474,Servando Gomez Martinez,Heriberto Lazcano,0
+3474,Servando Gomez Martinez,Heriberto Lazcano,2
 3475,Servando Gomez Martinez,Daniel Barrera Barrera,0
-3476,Servando Gomez Martinez,Miguel Angel Treviño Morales,0
+3476,Servando Gomez Martinez,Miguel Angel Treviño Morales,2
 3477,Servando Gomez Martinez,Diego Perez Henao,0
 3478,Servando Gomez Martinez,Luis Enrique Calle Serna,0
 3479,Servando Gomez Martinez,Javier Antonio Calle Serna,0
 3480,Servando Gomez Martinez,Guillermo Leon Saenz Vargas,0
 3481,Angel de Jesus Pacheco Chanci,Rafael Alvarez Piñeda,0
 3482,Angel de Jesus Pacheco Chanci,Cesar Augusto Torres Lujan,0
-3483,Angel de Jesus Pacheco Chanci,Dairo Antonio Úsuga,0
-3484,Angel de Jesus Pacheco Chanci,Juan de Dios Úsuga,0
-3485,Angel de Jesus Pacheco Chanci,Edgardo Leyva Escandon,0
+3483,Angel de Jesus Pacheco Chanci,Dairo Antonio Úsuga,1
+3484,Angel de Jesus Pacheco Chanci,Juan de Dios Úsuga,1
+3485,Angel de Jesus Pacheco Chanci,Edgardo Leyva Escandon,2
 3486,Angel de Jesus Pacheco Chanci,Victor Julio Suarez Rojas,0
 3487,Angel de Jesus Pacheco Chanci,José Jesús Méndez Vargas,0
 3488,Angel de Jesus Pacheco Chanci,Nazario Moreno Gonzalez,0
-3489,Angel de Jesus Pacheco Chanci,Pedro Oliverio Guerrero Castillo,0
+3489,Angel de Jesus Pacheco Chanci,Pedro Oliverio Guerrero Castillo,1
 3490,Angel de Jesus Pacheco Chanci,Vicente Carrillo Leyva,0
 3491,Angel de Jesus Pacheco Chanci,Vicente Carrillo Fuentes,0
-3492,Angel de Jesus Pacheco Chanci,Maximiliano Bonilla Orozco,0
+3492,Angel de Jesus Pacheco Chanci,Maximiliano Bonilla Orozco,8
 3493,Angel de Jesus Pacheco Chanci,Luciano Marín Arango,0
 3494,Angel de Jesus Pacheco Chanci,Jorge Eduardo Costilla Sánchez,0
 3495,Angel de Jesus Pacheco Chanci,Joaquín Guzmán Loera,0
@@ -3503,16 +3503,16 @@
 3501,Angel de Jesus Pacheco Chanci,Antonio Cardenas Guillen,0
 3502,Angel de Jesus Pacheco Chanci,Alejandro Flores Cacho,0
 3503,Angel de Jesus Pacheco Chanci,Heriberto Lazcano,0
-3504,Angel de Jesus Pacheco Chanci,Daniel Barrera Barrera,0
+3504,Angel de Jesus Pacheco Chanci,Daniel Barrera Barrera,4
 3505,Angel de Jesus Pacheco Chanci,Miguel Angel Treviño Morales,0
-3506,Angel de Jesus Pacheco Chanci,Diego Perez Henao,0
-3507,Angel de Jesus Pacheco Chanci,Luis Enrique Calle Serna,0
-3508,Angel de Jesus Pacheco Chanci,Javier Antonio Calle Serna,0
+3506,Angel de Jesus Pacheco Chanci,Diego Perez Henao,2
+3507,Angel de Jesus Pacheco Chanci,Luis Enrique Calle Serna,3
+3508,Angel de Jesus Pacheco Chanci,Javier Antonio Calle Serna,3
 3509,Angel de Jesus Pacheco Chanci,Guillermo Leon Saenz Vargas,0
-3510,Rafael Alvarez Piñeda,Cesar Augusto Torres Lujan,0
+3510,Rafael Alvarez Piñeda,Cesar Augusto Torres Lujan,1
 3511,Rafael Alvarez Piñeda,Dairo Antonio Úsuga,0
 3512,Rafael Alvarez Piñeda,Juan de Dios Úsuga,0
-3513,Rafael Alvarez Piñeda,Edgardo Leyva Escandon,0
+3513,Rafael Alvarez Piñeda,Edgardo Leyva Escandon,5
 3514,Rafael Alvarez Piñeda,Victor Julio Suarez Rojas,0
 3515,Rafael Alvarez Piñeda,José Jesús Méndez Vargas,0
 3516,Rafael Alvarez Piñeda,Nazario Moreno Gonzalez,0
@@ -3522,9 +3522,9 @@
 3520,Rafael Alvarez Piñeda,Maximiliano Bonilla Orozco,0
 3521,Rafael Alvarez Piñeda,Luciano Marín Arango,0
 3522,Rafael Alvarez Piñeda,Jorge Eduardo Costilla Sánchez,0
-3523,Rafael Alvarez Piñeda,Joaquín Guzmán Loera,0
-3524,Rafael Alvarez Piñeda,Ismael Zambada García,0
-3525,Rafael Alvarez Piñeda,Hector Manuel Beltran Leyva,0
+3523,Rafael Alvarez Piñeda,Joaquín Guzmán Loera,4
+3524,Rafael Alvarez Piñeda,Ismael Zambada García,1
+3525,Rafael Alvarez Piñeda,Hector Manuel Beltran Leyva,1
 3526,Rafael Alvarez Piñeda,Nicolás Rodríguez Bautista,0
 3527,Rafael Alvarez Piñeda,Fernando Sanchez Arellano,0
 3528,Rafael Alvarez Piñeda,Erickson Vargas Cardenas,0
@@ -3535,7 +3535,7 @@
 3533,Rafael Alvarez Piñeda,Miguel Angel Treviño Morales,0
 3534,Rafael Alvarez Piñeda,Diego Perez Henao,0
 3535,Rafael Alvarez Piñeda,Luis Enrique Calle Serna,0
-3536,Rafael Alvarez Piñeda,Javier Antonio Calle Serna,0
+3536,Rafael Alvarez Piñeda,Javier Antonio Calle Serna,1
 3537,Rafael Alvarez Piñeda,Guillermo Leon Saenz Vargas,0
 3538,Cesar Augusto Torres Lujan,Dairo Antonio Úsuga,0
 3539,Cesar Augusto Torres Lujan,Juan de Dios Úsuga,0
@@ -3564,15 +3564,15 @@
 3562,Cesar Augusto Torres Lujan,Luis Enrique Calle Serna,0
 3563,Cesar Augusto Torres Lujan,Javier Antonio Calle Serna,0
 3564,Cesar Augusto Torres Lujan,Guillermo Leon Saenz Vargas,0
-3565,Dairo Antonio Úsuga,Juan de Dios Úsuga,1
-3566,Dairo Antonio Úsuga,Edgardo Leyva Escandon,0
+3565,Dairo Antonio Úsuga,Juan de Dios Úsuga,4
+3566,Dairo Antonio Úsuga,Edgardo Leyva Escandon,3
 3567,Dairo Antonio Úsuga,Victor Julio Suarez Rojas,0
 3568,Dairo Antonio Úsuga,José Jesús Méndez Vargas,0
 3569,Dairo Antonio Úsuga,Nazario Moreno Gonzalez,0
-3570,Dairo Antonio Úsuga,Pedro Oliverio Guerrero Castillo,0
+3570,Dairo Antonio Úsuga,Pedro Oliverio Guerrero Castillo,1
 3571,Dairo Antonio Úsuga,Vicente Carrillo Leyva,0
 3572,Dairo Antonio Úsuga,Vicente Carrillo Fuentes,0
-3573,Dairo Antonio Úsuga,Maximiliano Bonilla Orozco,0
+3573,Dairo Antonio Úsuga,Maximiliano Bonilla Orozco,1
 3574,Dairo Antonio Úsuga,Luciano Marín Arango,0
 3575,Dairo Antonio Úsuga,Jorge Eduardo Costilla Sánchez,0
 3576,Dairo Antonio Úsuga,Joaquín Guzmán Loera,1
@@ -3584,23 +3584,23 @@
 3582,Dairo Antonio Úsuga,Antonio Cardenas Guillen,0
 3583,Dairo Antonio Úsuga,Alejandro Flores Cacho,0
 3584,Dairo Antonio Úsuga,Heriberto Lazcano,0
-3585,Dairo Antonio Úsuga,Daniel Barrera Barrera,0
+3585,Dairo Antonio Úsuga,Daniel Barrera Barrera,8
 3586,Dairo Antonio Úsuga,Miguel Angel Treviño Morales,0
-3587,Dairo Antonio Úsuga,Diego Perez Henao,0
-3588,Dairo Antonio Úsuga,Luis Enrique Calle Serna,0
-3589,Dairo Antonio Úsuga,Javier Antonio Calle Serna,0
+3587,Dairo Antonio Úsuga,Diego Perez Henao,1
+3588,Dairo Antonio Úsuga,Luis Enrique Calle Serna,1
+3589,Dairo Antonio Úsuga,Javier Antonio Calle Serna,1
 3590,Dairo Antonio Úsuga,Guillermo Leon Saenz Vargas,0
-3591,Juan de Dios Úsuga,Edgardo Leyva Escandon,0
+3591,Juan de Dios Úsuga,Edgardo Leyva Escandon,2
 3592,Juan de Dios Úsuga,Victor Julio Suarez Rojas,0
 3593,Juan de Dios Úsuga,José Jesús Méndez Vargas,0
 3594,Juan de Dios Úsuga,Nazario Moreno Gonzalez,0
-3595,Juan de Dios Úsuga,Pedro Oliverio Guerrero Castillo,0
+3595,Juan de Dios Úsuga,Pedro Oliverio Guerrero Castillo,1
 3596,Juan de Dios Úsuga,Vicente Carrillo Leyva,0
 3597,Juan de Dios Úsuga,Vicente Carrillo Fuentes,0
-3598,Juan de Dios Úsuga,Maximiliano Bonilla Orozco,0
+3598,Juan de Dios Úsuga,Maximiliano Bonilla Orozco,1
 3599,Juan de Dios Úsuga,Luciano Marín Arango,0
 3600,Juan de Dios Úsuga,Jorge Eduardo Costilla Sánchez,0
-3601,Juan de Dios Úsuga,Joaquín Guzmán Loera,0
+3601,Juan de Dios Úsuga,Joaquín Guzmán Loera,1
 3602,Juan de Dios Úsuga,Ismael Zambada García,0
 3603,Juan de Dios Úsuga,Hector Manuel Beltran Leyva,0
 3604,Juan de Dios Úsuga,Nicolás Rodríguez Bautista,0
@@ -3609,60 +3609,60 @@
 3607,Juan de Dios Úsuga,Antonio Cardenas Guillen,0
 3608,Juan de Dios Úsuga,Alejandro Flores Cacho,0
 3609,Juan de Dios Úsuga,Heriberto Lazcano,0
-3610,Juan de Dios Úsuga,Daniel Barrera Barrera,0
+3610,Juan de Dios Úsuga,Daniel Barrera Barrera,4
 3611,Juan de Dios Úsuga,Miguel Angel Treviño Morales,0
-3612,Juan de Dios Úsuga,Diego Perez Henao,0
-3613,Juan de Dios Úsuga,Luis Enrique Calle Serna,0
-3614,Juan de Dios Úsuga,Javier Antonio Calle Serna,0
-3615,Juan de Dios Úsuga,Guillermo Leon Saenz Vargas,0
-3616,Edgardo Leyva Escandon,Victor Julio Suarez Rojas,0
-3617,Edgardo Leyva Escandon,José Jesús Méndez Vargas,0
-3618,Edgardo Leyva Escandon,Nazario Moreno Gonzalez,0
+3612,Juan de Dios Úsuga,Diego Perez Henao,1
+3613,Juan de Dios Úsuga,Luis Enrique Calle Serna,2
+3614,Juan de Dios Úsuga,Javier Antonio Calle Serna,2
+3615,Juan de Dios Úsuga,Guillermo Leon Saenz Vargas,1
+3616,Edgardo Leyva Escandon,Victor Julio Suarez Rojas,2
+3617,Edgardo Leyva Escandon,José Jesús Méndez Vargas,1
+3618,Edgardo Leyva Escandon,Nazario Moreno Gonzalez,1
 3619,Edgardo Leyva Escandon,Pedro Oliverio Guerrero Castillo,0
-3620,Edgardo Leyva Escandon,Vicente Carrillo Leyva,0
-3621,Edgardo Leyva Escandon,Vicente Carrillo Fuentes,0
-3622,Edgardo Leyva Escandon,Maximiliano Bonilla Orozco,0
-3623,Edgardo Leyva Escandon,Luciano Marín Arango,0
-3624,Edgardo Leyva Escandon,Jorge Eduardo Costilla Sánchez,0
-3625,Edgardo Leyva Escandon,Joaquín Guzmán Loera,0
-3626,Edgardo Leyva Escandon,Ismael Zambada García,0
-3627,Edgardo Leyva Escandon,Hector Manuel Beltran Leyva,0
-3628,Edgardo Leyva Escandon,Nicolás Rodríguez Bautista,0
-3629,Edgardo Leyva Escandon,Fernando Sanchez Arellano,0
+3620,Edgardo Leyva Escandon,Vicente Carrillo Leyva,1
+3621,Edgardo Leyva Escandon,Vicente Carrillo Fuentes,1
+3622,Edgardo Leyva Escandon,Maximiliano Bonilla Orozco,1
+3623,Edgardo Leyva Escandon,Luciano Marín Arango,1
+3624,Edgardo Leyva Escandon,Jorge Eduardo Costilla Sánchez,2
+3625,Edgardo Leyva Escandon,Joaquín Guzmán Loera,9
+3626,Edgardo Leyva Escandon,Ismael Zambada García,3
+3627,Edgardo Leyva Escandon,Hector Manuel Beltran Leyva,11
+3628,Edgardo Leyva Escandon,Nicolás Rodríguez Bautista,1
+3629,Edgardo Leyva Escandon,Fernando Sanchez Arellano,1
 3630,Edgardo Leyva Escandon,Erickson Vargas Cardenas,0
 3631,Edgardo Leyva Escandon,Antonio Cardenas Guillen,0
 3632,Edgardo Leyva Escandon,Alejandro Flores Cacho,0
 3633,Edgardo Leyva Escandon,Heriberto Lazcano,0
-3634,Edgardo Leyva Escandon,Daniel Barrera Barrera,0
+3634,Edgardo Leyva Escandon,Daniel Barrera Barrera,2
 3635,Edgardo Leyva Escandon,Miguel Angel Treviño Morales,0
-3636,Edgardo Leyva Escandon,Diego Perez Henao,0
-3637,Edgardo Leyva Escandon,Luis Enrique Calle Serna,0
-3638,Edgardo Leyva Escandon,Javier Antonio Calle Serna,0
-3639,Edgardo Leyva Escandon,Guillermo Leon Saenz Vargas,0
+3636,Edgardo Leyva Escandon,Diego Perez Henao,1
+3637,Edgardo Leyva Escandon,Luis Enrique Calle Serna,1
+3638,Edgardo Leyva Escandon,Javier Antonio Calle Serna,4
+3639,Edgardo Leyva Escandon,Guillermo Leon Saenz Vargas,1
 3640,Victor Julio Suarez Rojas,José Jesús Méndez Vargas,0
 3641,Victor Julio Suarez Rojas,Nazario Moreno Gonzalez,0
-3642,Victor Julio Suarez Rojas,Pedro Oliverio Guerrero Castillo,0
+3642,Victor Julio Suarez Rojas,Pedro Oliverio Guerrero Castillo,2
 3643,Victor Julio Suarez Rojas,Vicente Carrillo Leyva,0
 3644,Victor Julio Suarez Rojas,Vicente Carrillo Fuentes,0
 3645,Victor Julio Suarez Rojas,Maximiliano Bonilla Orozco,0
-3646,Victor Julio Suarez Rojas,Luciano Marín Arango,0
+3646,Victor Julio Suarez Rojas,Luciano Marín Arango,1
 3647,Victor Julio Suarez Rojas,Jorge Eduardo Costilla Sánchez,0
-3648,Victor Julio Suarez Rojas,Joaquín Guzmán Loera,0
+3648,Victor Julio Suarez Rojas,Joaquín Guzmán Loera,1
 3649,Victor Julio Suarez Rojas,Ismael Zambada García,0
-3650,Victor Julio Suarez Rojas,Hector Manuel Beltran Leyva,0
+3650,Victor Julio Suarez Rojas,Hector Manuel Beltran Leyva,1
 3651,Victor Julio Suarez Rojas,Nicolás Rodríguez Bautista,0
 3652,Victor Julio Suarez Rojas,Fernando Sanchez Arellano,0
 3653,Victor Julio Suarez Rojas,Erickson Vargas Cardenas,0
-3654,Victor Julio Suarez Rojas,Antonio Cardenas Guillen,0
+3654,Victor Julio Suarez Rojas,Antonio Cardenas Guillen,1
 3655,Victor Julio Suarez Rojas,Alejandro Flores Cacho,0
 3656,Victor Julio Suarez Rojas,Heriberto Lazcano,0
-3657,Victor Julio Suarez Rojas,Daniel Barrera Barrera,0
+3657,Victor Julio Suarez Rojas,Daniel Barrera Barrera,1
 3658,Victor Julio Suarez Rojas,Miguel Angel Treviño Morales,0
 3659,Victor Julio Suarez Rojas,Diego Perez Henao,0
 3660,Victor Julio Suarez Rojas,Luis Enrique Calle Serna,0
 3661,Victor Julio Suarez Rojas,Javier Antonio Calle Serna,0
-3662,Victor Julio Suarez Rojas,Guillermo Leon Saenz Vargas,0
-3663,José Jesús Méndez Vargas,Nazario Moreno Gonzalez,0
+3662,Victor Julio Suarez Rojas,Guillermo Leon Saenz Vargas,2
+3663,José Jesús Méndez Vargas,Nazario Moreno Gonzalez,2
 3664,José Jesús Méndez Vargas,Pedro Oliverio Guerrero Castillo,0
 3665,José Jesús Méndez Vargas,Vicente Carrillo Leyva,0
 3666,José Jesús Méndez Vargas,Vicente Carrillo Fuentes,0
@@ -3671,7 +3671,7 @@
 3669,José Jesús Méndez Vargas,Jorge Eduardo Costilla Sánchez,0
 3670,José Jesús Méndez Vargas,Joaquín Guzmán Loera,0
 3671,José Jesús Méndez Vargas,Ismael Zambada García,0
-3672,José Jesús Méndez Vargas,Hector Manuel Beltran Leyva,0
+3672,José Jesús Méndez Vargas,Hector Manuel Beltran Leyva,1
 3673,José Jesús Méndez Vargas,Nicolás Rodríguez Bautista,0
 3674,José Jesús Méndez Vargas,Fernando Sanchez Arellano,0
 3675,José Jesús Méndez Vargas,Erickson Vargas Cardenas,0
@@ -3690,9 +3690,9 @@
 3688,Nazario Moreno Gonzalez,Maximiliano Bonilla Orozco,0
 3689,Nazario Moreno Gonzalez,Luciano Marín Arango,0
 3690,Nazario Moreno Gonzalez,Jorge Eduardo Costilla Sánchez,0
-3691,Nazario Moreno Gonzalez,Joaquín Guzmán Loera,0
-3692,Nazario Moreno Gonzalez,Ismael Zambada García,0
-3693,Nazario Moreno Gonzalez,Hector Manuel Beltran Leyva,0
+3691,Nazario Moreno Gonzalez,Joaquín Guzmán Loera,2
+3692,Nazario Moreno Gonzalez,Ismael Zambada García,2
+3693,Nazario Moreno Gonzalez,Hector Manuel Beltran Leyva,2
 3694,Nazario Moreno Gonzalez,Nicolás Rodríguez Bautista,0
 3695,Nazario Moreno Gonzalez,Fernando Sanchez Arellano,0
 3696,Nazario Moreno Gonzalez,Erickson Vargas Cardenas,0
@@ -3707,23 +3707,23 @@
 3705,Nazario Moreno Gonzalez,Guillermo Leon Saenz Vargas,0
 3706,Pedro Oliverio Guerrero Castillo,Vicente Carrillo Leyva,0
 3707,Pedro Oliverio Guerrero Castillo,Vicente Carrillo Fuentes,0
-3708,Pedro Oliverio Guerrero Castillo,Maximiliano Bonilla Orozco,0
+3708,Pedro Oliverio Guerrero Castillo,Maximiliano Bonilla Orozco,1
 3709,Pedro Oliverio Guerrero Castillo,Luciano Marín Arango,0
 3710,Pedro Oliverio Guerrero Castillo,Jorge Eduardo Costilla Sánchez,0
-3711,Pedro Oliverio Guerrero Castillo,Joaquín Guzmán Loera,0
+3711,Pedro Oliverio Guerrero Castillo,Joaquín Guzmán Loera,1
 3712,Pedro Oliverio Guerrero Castillo,Ismael Zambada García,0
-3713,Pedro Oliverio Guerrero Castillo,Hector Manuel Beltran Leyva,0
+3713,Pedro Oliverio Guerrero Castillo,Hector Manuel Beltran Leyva,1
 3714,Pedro Oliverio Guerrero Castillo,Nicolás Rodríguez Bautista,0
 3715,Pedro Oliverio Guerrero Castillo,Fernando Sanchez Arellano,0
 3716,Pedro Oliverio Guerrero Castillo,Erickson Vargas Cardenas,0
 3717,Pedro Oliverio Guerrero Castillo,Antonio Cardenas Guillen,1
 3718,Pedro Oliverio Guerrero Castillo,Alejandro Flores Cacho,0
 3719,Pedro Oliverio Guerrero Castillo,Heriberto Lazcano,0
-3720,Pedro Oliverio Guerrero Castillo,Daniel Barrera Barrera,0
+3720,Pedro Oliverio Guerrero Castillo,Daniel Barrera Barrera,12
 3721,Pedro Oliverio Guerrero Castillo,Miguel Angel Treviño Morales,0
 3722,Pedro Oliverio Guerrero Castillo,Diego Perez Henao,0
-3723,Pedro Oliverio Guerrero Castillo,Luis Enrique Calle Serna,1
-3724,Pedro Oliverio Guerrero Castillo,Javier Antonio Calle Serna,1
+3723,Pedro Oliverio Guerrero Castillo,Luis Enrique Calle Serna,2
+3724,Pedro Oliverio Guerrero Castillo,Javier Antonio Calle Serna,2
 3725,Pedro Oliverio Guerrero Castillo,Guillermo Leon Saenz Vargas,0
 3726,Vicente Carrillo Leyva,Vicente Carrillo Fuentes,0
 3727,Vicente Carrillo Leyva,Maximiliano Bonilla Orozco,0
@@ -3731,9 +3731,9 @@
 3729,Vicente Carrillo Leyva,Jorge Eduardo Costilla Sánchez,0
 3730,Vicente Carrillo Leyva,Joaquín Guzmán Loera,0
 3731,Vicente Carrillo Leyva,Ismael Zambada García,0
-3732,Vicente Carrillo Leyva,Hector Manuel Beltran Leyva,0
+3732,Vicente Carrillo Leyva,Hector Manuel Beltran Leyva,2
 3733,Vicente Carrillo Leyva,Nicolás Rodríguez Bautista,0
-3734,Vicente Carrillo Leyva,Fernando Sanchez Arellano,0
+3734,Vicente Carrillo Leyva,Fernando Sanchez Arellano,5
 3735,Vicente Carrillo Leyva,Erickson Vargas Cardenas,0
 3736,Vicente Carrillo Leyva,Antonio Cardenas Guillen,0
 3737,Vicente Carrillo Leyva,Alejandro Flores Cacho,0
@@ -3747,9 +3747,9 @@
 3745,Vicente Carrillo Fuentes,Maximiliano Bonilla Orozco,0
 3746,Vicente Carrillo Fuentes,Luciano Marín Arango,0
 3747,Vicente Carrillo Fuentes,Jorge Eduardo Costilla Sánchez,0
-3748,Vicente Carrillo Fuentes,Joaquín Guzmán Loera,2
-3749,Vicente Carrillo Fuentes,Ismael Zambada García,1
-3750,Vicente Carrillo Fuentes,Hector Manuel Beltran Leyva,1
+3748,Vicente Carrillo Fuentes,Joaquín Guzmán Loera,5
+3749,Vicente Carrillo Fuentes,Ismael Zambada García,3
+3750,Vicente Carrillo Fuentes,Hector Manuel Beltran Leyva,3
 3751,Vicente Carrillo Fuentes,Nicolás Rodríguez Bautista,0
 3752,Vicente Carrillo Fuentes,Fernando Sanchez Arellano,0
 3753,Vicente Carrillo Fuentes,Erickson Vargas Cardenas,0
@@ -3764,7 +3764,7 @@
 3762,Vicente Carrillo Fuentes,Guillermo Leon Saenz Vargas,0
 3763,Maximiliano Bonilla Orozco,Luciano Marín Arango,0
 3764,Maximiliano Bonilla Orozco,Jorge Eduardo Costilla Sánchez,0
-3765,Maximiliano Bonilla Orozco,Joaquín Guzmán Loera,0
+3765,Maximiliano Bonilla Orozco,Joaquín Guzmán Loera,1
 3766,Maximiliano Bonilla Orozco,Ismael Zambada García,0
 3767,Maximiliano Bonilla Orozco,Hector Manuel Beltran Leyva,0
 3768,Maximiliano Bonilla Orozco,Nicolás Rodríguez Bautista,0
@@ -3773,11 +3773,11 @@
 3771,Maximiliano Bonilla Orozco,Antonio Cardenas Guillen,0
 3772,Maximiliano Bonilla Orozco,Alejandro Flores Cacho,0
 3773,Maximiliano Bonilla Orozco,Heriberto Lazcano,0
-3774,Maximiliano Bonilla Orozco,Daniel Barrera Barrera,0
+3774,Maximiliano Bonilla Orozco,Daniel Barrera Barrera,6
 3775,Maximiliano Bonilla Orozco,Miguel Angel Treviño Morales,0
-3776,Maximiliano Bonilla Orozco,Diego Perez Henao,4
-3777,Maximiliano Bonilla Orozco,Luis Enrique Calle Serna,4
-3778,Maximiliano Bonilla Orozco,Javier Antonio Calle Serna,1
+3776,Maximiliano Bonilla Orozco,Diego Perez Henao,5
+3777,Maximiliano Bonilla Orozco,Luis Enrique Calle Serna,7
+3778,Maximiliano Bonilla Orozco,Javier Antonio Calle Serna,6
 3779,Maximiliano Bonilla Orozco,Guillermo Leon Saenz Vargas,0
 3780,Luciano Marín Arango,Jorge Eduardo Costilla Sánchez,0
 3781,Luciano Marín Arango,Joaquín Guzmán Loera,1
@@ -3795,9 +3795,9 @@
 3793,Luciano Marín Arango,Luis Enrique Calle Serna,0
 3794,Luciano Marín Arango,Javier Antonio Calle Serna,0
 3795,Luciano Marín Arango,Guillermo Leon Saenz Vargas,0
-3796,Jorge Eduardo Costilla Sánchez,Joaquín Guzmán Loera,0
-3797,Jorge Eduardo Costilla Sánchez,Ismael Zambada García,0
-3798,Jorge Eduardo Costilla Sánchez,Hector Manuel Beltran Leyva,0
+3796,Jorge Eduardo Costilla Sánchez,Joaquín Guzmán Loera,3
+3797,Jorge Eduardo Costilla Sánchez,Ismael Zambada García,2
+3798,Jorge Eduardo Costilla Sánchez,Hector Manuel Beltran Leyva,2
 3799,Jorge Eduardo Costilla Sánchez,Nicolás Rodríguez Bautista,0
 3800,Jorge Eduardo Costilla Sánchez,Fernando Sanchez Arellano,0
 3801,Jorge Eduardo Costilla Sánchez,Erickson Vargas Cardenas,0
@@ -3808,46 +3808,46 @@
 3806,Jorge Eduardo Costilla Sánchez,Miguel Angel Treviño Morales,0
 3807,Jorge Eduardo Costilla Sánchez,Diego Perez Henao,0
 3808,Jorge Eduardo Costilla Sánchez,Luis Enrique Calle Serna,0
-3809,Jorge Eduardo Costilla Sánchez,Javier Antonio Calle Serna,0
+3809,Jorge Eduardo Costilla Sánchez,Javier Antonio Calle Serna,1
 3810,Jorge Eduardo Costilla Sánchez,Guillermo Leon Saenz Vargas,0
-3811,Joaquín Guzmán Loera,Ismael Zambada García,6
-3812,Joaquín Guzmán Loera,Hector Manuel Beltran Leyva,0
-3813,Joaquín Guzmán Loera,Nicolás Rodríguez Bautista,0
+3811,Joaquín Guzmán Loera,Ismael Zambada García,41
+3812,Joaquín Guzmán Loera,Hector Manuel Beltran Leyva,23
+3813,Joaquín Guzmán Loera,Nicolás Rodríguez Bautista,1
 3814,Joaquín Guzmán Loera,Fernando Sanchez Arellano,0
 3815,Joaquín Guzmán Loera,Erickson Vargas Cardenas,0
-3816,Joaquín Guzmán Loera,Antonio Cardenas Guillen,0
+3816,Joaquín Guzmán Loera,Antonio Cardenas Guillen,1
 3817,Joaquín Guzmán Loera,Alejandro Flores Cacho,0
-3818,Joaquín Guzmán Loera,Heriberto Lazcano,0
-3819,Joaquín Guzmán Loera,Daniel Barrera Barrera,0
-3820,Joaquín Guzmán Loera,Miguel Angel Treviño Morales,0
-3821,Joaquín Guzmán Loera,Diego Perez Henao,0
-3822,Joaquín Guzmán Loera,Luis Enrique Calle Serna,0
-3823,Joaquín Guzmán Loera,Javier Antonio Calle Serna,0
+3818,Joaquín Guzmán Loera,Heriberto Lazcano,2
+3819,Joaquín Guzmán Loera,Daniel Barrera Barrera,2
+3820,Joaquín Guzmán Loera,Miguel Angel Treviño Morales,3
+3821,Joaquín Guzmán Loera,Diego Perez Henao,1
+3822,Joaquín Guzmán Loera,Luis Enrique Calle Serna,2
+3823,Joaquín Guzmán Loera,Javier Antonio Calle Serna,4
 3824,Joaquín Guzmán Loera,Guillermo Leon Saenz Vargas,0
-3825,Ismael Zambada García,Hector Manuel Beltran Leyva,0
+3825,Ismael Zambada García,Hector Manuel Beltran Leyva,14
 3826,Ismael Zambada García,Nicolás Rodríguez Bautista,0
 3827,Ismael Zambada García,Fernando Sanchez Arellano,0
 3828,Ismael Zambada García,Erickson Vargas Cardenas,0
 3829,Ismael Zambada García,Antonio Cardenas Guillen,0
 3830,Ismael Zambada García,Alejandro Flores Cacho,0
-3831,Ismael Zambada García,Heriberto Lazcano,0
+3831,Ismael Zambada García,Heriberto Lazcano,1
 3832,Ismael Zambada García,Daniel Barrera Barrera,0
-3833,Ismael Zambada García,Miguel Angel Treviño Morales,0
+3833,Ismael Zambada García,Miguel Angel Treviño Morales,1
 3834,Ismael Zambada García,Diego Perez Henao,0
 3835,Ismael Zambada García,Luis Enrique Calle Serna,0
-3836,Ismael Zambada García,Javier Antonio Calle Serna,0
+3836,Ismael Zambada García,Javier Antonio Calle Serna,2
 3837,Ismael Zambada García,Guillermo Leon Saenz Vargas,0
-3838,Hector Manuel Beltran Leyva,Nicolás Rodríguez Bautista,0
-3839,Hector Manuel Beltran Leyva,Fernando Sanchez Arellano,0
+3838,Hector Manuel Beltran Leyva,Nicolás Rodríguez Bautista,1
+3839,Hector Manuel Beltran Leyva,Fernando Sanchez Arellano,2
 3840,Hector Manuel Beltran Leyva,Erickson Vargas Cardenas,0
-3841,Hector Manuel Beltran Leyva,Antonio Cardenas Guillen,0
+3841,Hector Manuel Beltran Leyva,Antonio Cardenas Guillen,1
 3842,Hector Manuel Beltran Leyva,Alejandro Flores Cacho,0
-3843,Hector Manuel Beltran Leyva,Heriberto Lazcano,0
+3843,Hector Manuel Beltran Leyva,Heriberto Lazcano,2
 3844,Hector Manuel Beltran Leyva,Daniel Barrera Barrera,0
-3845,Hector Manuel Beltran Leyva,Miguel Angel Treviño Morales,0
+3845,Hector Manuel Beltran Leyva,Miguel Angel Treviño Morales,2
 3846,Hector Manuel Beltran Leyva,Diego Perez Henao,0
 3847,Hector Manuel Beltran Leyva,Luis Enrique Calle Serna,0
-3848,Hector Manuel Beltran Leyva,Javier Antonio Calle Serna,0
+3848,Hector Manuel Beltran Leyva,Javier Antonio Calle Serna,1
 3849,Hector Manuel Beltran Leyva,Guillermo Leon Saenz Vargas,0
 3850,Nicolás Rodríguez Bautista,Fernando Sanchez Arellano,0
 3851,Nicolás Rodríguez Bautista,Erickson Vargas Cardenas,0
@@ -3895,23 +3895,23 @@
 3893,Alejandro Flores Cacho,Javier Antonio Calle Serna,0
 3894,Alejandro Flores Cacho,Guillermo Leon Saenz Vargas,0
 3895,Heriberto Lazcano,Daniel Barrera Barrera,0
-3896,Heriberto Lazcano,Miguel Angel Treviño Morales,0
+3896,Heriberto Lazcano,Miguel Angel Treviño Morales,3
 3897,Heriberto Lazcano,Diego Perez Henao,0
 3898,Heriberto Lazcano,Luis Enrique Calle Serna,0
 3899,Heriberto Lazcano,Javier Antonio Calle Serna,0
 3900,Heriberto Lazcano,Guillermo Leon Saenz Vargas,0
 3901,Daniel Barrera Barrera,Miguel Angel Treviño Morales,0
-3902,Daniel Barrera Barrera,Diego Perez Henao,0
-3903,Daniel Barrera Barrera,Luis Enrique Calle Serna,0
-3904,Daniel Barrera Barrera,Javier Antonio Calle Serna,0
+3902,Daniel Barrera Barrera,Diego Perez Henao,5
+3903,Daniel Barrera Barrera,Luis Enrique Calle Serna,8
+3904,Daniel Barrera Barrera,Javier Antonio Calle Serna,6
 3905,Daniel Barrera Barrera,Guillermo Leon Saenz Vargas,0
 3906,Miguel Angel Treviño Morales,Diego Perez Henao,0
 3907,Miguel Angel Treviño Morales,Luis Enrique Calle Serna,0
 3908,Miguel Angel Treviño Morales,Javier Antonio Calle Serna,0
 3909,Miguel Angel Treviño Morales,Guillermo Leon Saenz Vargas,0
-3910,Diego Perez Henao,Luis Enrique Calle Serna,6
-3911,Diego Perez Henao,Javier Antonio Calle Serna,2
+3910,Diego Perez Henao,Luis Enrique Calle Serna,16
+3911,Diego Perez Henao,Javier Antonio Calle Serna,14
 3912,Diego Perez Henao,Guillermo Leon Saenz Vargas,0
-3913,Luis Enrique Calle Serna,Javier Antonio Calle Serna,3
+3913,Luis Enrique Calle Serna,Javier Antonio Calle Serna,22
 3914,Luis Enrique Calle Serna,Guillermo Leon Saenz Vargas,0
 3915,Javier Antonio Calle Serna,Guillermo Leon Saenz Vargas,0
