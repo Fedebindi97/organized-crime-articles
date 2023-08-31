@@ -1,0 +1,2851 @@
+,entity_1,entity_2,weight
+0,Central General Staff,Acacio Medina Front,0
+1,Central General Staff,Las Claritas Sindicato,0
+2,Central General Staff,Carlos Capa Gang,0
+3,Central General Staff,The R Organization,0
+4,Central General Staff,Tren de Guayana,0
+5,Central General Staff,Lobos,0
+6,Central General Staff,10th Front,0
+7,Central General Staff,Pachenca,0
+8,Central General Staff,Bala na Cara,0
+9,Central General Staff,Border Command,0
+10,Central General Staff,Lagartos,0
+11,Central General Staff,Cárteles Unidos,0
+12,Central General Staff,Shining Path,0
+13,Central General Staff,Sinaloa Cartel,0
+14,Central General Staff,Bagdad,0
+15,Central General Staff,Libertadores del Vichada,0
+16,Central General Staff,EPL,0
+17,Central General Staff,Choneros,0
+18,Central General Staff,Escritório do Crime,0
+19,Central General Staff,Border Security Colectivo,0
+20,Central General Staff,Cartel of the Suns,0
+21,Central General Staff,The Meleán,0
+22,Central General Staff,Fuerza Anti-Unión,0
+23,Central General Staff,La Unión Tepito,0
+24,Central General Staff,Rotela Clan,0
+25,Central General Staff,Second Marquetalia,0
+26,Central General Staff,Chapitos,0
+27,Central General Staff,Tren de Aragua,0
+28,Central General Staff,Family of the North,0
+29,Central General Staff,Monos,0
+30,Central General Staff,Caparros,0
+31,Central General Staff,Jalisco Cartel New Generation,0
+32,Central General Staff,Amigos dos Amigos,0
+33,Central General Staff,1st Front,0
+34,Central General Staff,Knights Templar,0
+35,Central General Staff,Juarez Cartel,0
+36,Central General Staff,Tijuana Cartel,0
+37,Central General Staff,Gulf Cartel,0
+38,Central General Staff,Familia Michoacana,0
+39,Central General Staff,Cachiros,0
+40,Central General Staff,Perrones Cartel,0
+41,Central General Staff,Barrio 18,0
+42,Central General Staff,Texis Cartel,0
+43,Central General Staff,MS13,0
+44,Central General Staff,FARC,0
+45,Central General Staff,Rastrojos,0
+46,Central General Staff,ELN,0
+47,Central General Staff,Norte del Valle Cartel,0
+48,Central General Staff,Red Command,0
+49,Central General Staff,First Capital Command,0
+50,Central General Staff,Tren del Llano,0
+51,Central General Staff,Atlantic Cartel,0
+52,Central General Staff,Calor Calor,0
+53,Central General Staff,Guerreros Unidos,0
+54,Central General Staff,Pure Third Command,0
+55,Central General Staff,Valles,0
+56,Central General Staff,Beltrán Leyva Organization,0
+57,Central General Staff,EPR,0
+58,Central General Staff,Juárez Cartel,0
+59,Central General Staff,Gulf Clan,0
+60,Central General Staff,Barrio Azteca,0
+61,Central General Staff,FBL,0
+62,Central General Staff,Tarzanes,0
+63,Central General Staff,Reñazcos,0
+64,Central General Staff,Zetas,0
+65,Central General Staff,Perrones,0
+66,Central General Staff,Autodefensas Unidas de Colombia,0
+67,Central General Staff,Mendozas,0
+68,Central General Staff,Leones,0
+69,Central General Staff,Lorenzanas,0
+70,Central General Staff,Águilas Negras,0
+71,Central General Staff,Paisas,0
+72,Central General Staff,Oficina de Envigado,0
+73,Central General Staff,CIACS,0
+74,Central General Staff,ERPAC,0
+75,Acacio Medina Front,Las Claritas Sindicato,1
+76,Acacio Medina Front,Carlos Capa Gang,0
+77,Acacio Medina Front,The R Organization,1
+78,Acacio Medina Front,Tren de Guayana,1
+79,Acacio Medina Front,Lobos,0
+80,Acacio Medina Front,10th Front,1
+81,Acacio Medina Front,Pachenca,0
+82,Acacio Medina Front,Bala na Cara,0
+83,Acacio Medina Front,Border Command,0
+84,Acacio Medina Front,Lagartos,0
+85,Acacio Medina Front,Cárteles Unidos,0
+86,Acacio Medina Front,Shining Path,0
+87,Acacio Medina Front,Sinaloa Cartel,0
+88,Acacio Medina Front,Bagdad,0
+89,Acacio Medina Front,Libertadores del Vichada,0
+90,Acacio Medina Front,EPL,0
+91,Acacio Medina Front,Choneros,0
+92,Acacio Medina Front,Escritório do Crime,0
+93,Acacio Medina Front,Border Security Colectivo,1
+94,Acacio Medina Front,Cartel of the Suns,0
+95,Acacio Medina Front,The Meleán,0
+96,Acacio Medina Front,Fuerza Anti-Unión,0
+97,Acacio Medina Front,La Unión Tepito,0
+98,Acacio Medina Front,Rotela Clan,0
+99,Acacio Medina Front,Second Marquetalia,1
+100,Acacio Medina Front,Chapitos,0
+101,Acacio Medina Front,Tren de Aragua,2
+102,Acacio Medina Front,Family of the North,0
+103,Acacio Medina Front,Monos,0
+104,Acacio Medina Front,Caparros,0
+105,Acacio Medina Front,Jalisco Cartel New Generation,0
+106,Acacio Medina Front,Amigos dos Amigos,0
+107,Acacio Medina Front,1st Front,1
+108,Acacio Medina Front,Knights Templar,0
+109,Acacio Medina Front,Juarez Cartel,0
+110,Acacio Medina Front,Tijuana Cartel,0
+111,Acacio Medina Front,Gulf Cartel,0
+112,Acacio Medina Front,Familia Michoacana,0
+113,Acacio Medina Front,Cachiros,0
+114,Acacio Medina Front,Perrones Cartel,0
+115,Acacio Medina Front,Barrio 18,0
+116,Acacio Medina Front,Texis Cartel,0
+117,Acacio Medina Front,MS13,0
+118,Acacio Medina Front,FARC,5
+119,Acacio Medina Front,Rastrojos,1
+120,Acacio Medina Front,ELN,5
+121,Acacio Medina Front,Norte del Valle Cartel,0
+122,Acacio Medina Front,Red Command,0
+123,Acacio Medina Front,First Capital Command,0
+124,Acacio Medina Front,Tren del Llano,0
+125,Acacio Medina Front,Atlantic Cartel,0
+126,Acacio Medina Front,Calor Calor,0
+127,Acacio Medina Front,Guerreros Unidos,0
+128,Acacio Medina Front,Pure Third Command,0
+129,Acacio Medina Front,Valles,1
+130,Acacio Medina Front,Beltrán Leyva Organization,0
+131,Acacio Medina Front,EPR,0
+132,Acacio Medina Front,Juárez Cartel,0
+133,Acacio Medina Front,Gulf Clan,0
+134,Acacio Medina Front,Barrio Azteca,0
+135,Acacio Medina Front,FBL,1
+136,Acacio Medina Front,Tarzanes,0
+137,Acacio Medina Front,Reñazcos,0
+138,Acacio Medina Front,Zetas,0
+139,Acacio Medina Front,Perrones,0
+140,Acacio Medina Front,Autodefensas Unidas de Colombia,0
+141,Acacio Medina Front,Mendozas,0
+142,Acacio Medina Front,Leones,0
+143,Acacio Medina Front,Lorenzanas,0
+144,Acacio Medina Front,Águilas Negras,0
+145,Acacio Medina Front,Paisas,0
+146,Acacio Medina Front,Oficina de Envigado,0
+147,Acacio Medina Front,CIACS,0
+148,Acacio Medina Front,ERPAC,0
+149,Las Claritas Sindicato,Carlos Capa Gang,0
+150,Las Claritas Sindicato,The R Organization,1
+151,Las Claritas Sindicato,Tren de Guayana,1
+152,Las Claritas Sindicato,Lobos,0
+153,Las Claritas Sindicato,10th Front,0
+154,Las Claritas Sindicato,Pachenca,0
+155,Las Claritas Sindicato,Bala na Cara,0
+156,Las Claritas Sindicato,Border Command,0
+157,Las Claritas Sindicato,Lagartos,0
+158,Las Claritas Sindicato,Cárteles Unidos,0
+159,Las Claritas Sindicato,Shining Path,0
+160,Las Claritas Sindicato,Sinaloa Cartel,0
+161,Las Claritas Sindicato,Bagdad,0
+162,Las Claritas Sindicato,Libertadores del Vichada,0
+163,Las Claritas Sindicato,EPL,0
+164,Las Claritas Sindicato,Choneros,0
+165,Las Claritas Sindicato,Escritório do Crime,0
+166,Las Claritas Sindicato,Border Security Colectivo,0
+167,Las Claritas Sindicato,Cartel of the Suns,0
+168,Las Claritas Sindicato,The Meleán,0
+169,Las Claritas Sindicato,Fuerza Anti-Unión,0
+170,Las Claritas Sindicato,La Unión Tepito,0
+171,Las Claritas Sindicato,Rotela Clan,0
+172,Las Claritas Sindicato,Second Marquetalia,0
+173,Las Claritas Sindicato,Chapitos,0
+174,Las Claritas Sindicato,Tren de Aragua,1
+175,Las Claritas Sindicato,Family of the North,0
+176,Las Claritas Sindicato,Monos,0
+177,Las Claritas Sindicato,Caparros,0
+178,Las Claritas Sindicato,Jalisco Cartel New Generation,0
+179,Las Claritas Sindicato,Amigos dos Amigos,0
+180,Las Claritas Sindicato,1st Front,0
+181,Las Claritas Sindicato,Knights Templar,0
+182,Las Claritas Sindicato,Juarez Cartel,0
+183,Las Claritas Sindicato,Tijuana Cartel,0
+184,Las Claritas Sindicato,Gulf Cartel,0
+185,Las Claritas Sindicato,Familia Michoacana,0
+186,Las Claritas Sindicato,Cachiros,0
+187,Las Claritas Sindicato,Perrones Cartel,0
+188,Las Claritas Sindicato,Barrio 18,0
+189,Las Claritas Sindicato,Texis Cartel,0
+190,Las Claritas Sindicato,MS13,0
+191,Las Claritas Sindicato,FARC,1
+192,Las Claritas Sindicato,Rastrojos,0
+193,Las Claritas Sindicato,ELN,1
+194,Las Claritas Sindicato,Norte del Valle Cartel,0
+195,Las Claritas Sindicato,Red Command,0
+196,Las Claritas Sindicato,First Capital Command,0
+197,Las Claritas Sindicato,Tren del Llano,0
+198,Las Claritas Sindicato,Atlantic Cartel,0
+199,Las Claritas Sindicato,Calor Calor,0
+200,Las Claritas Sindicato,Guerreros Unidos,0
+201,Las Claritas Sindicato,Pure Third Command,0
+202,Las Claritas Sindicato,Valles,1
+203,Las Claritas Sindicato,Beltrán Leyva Organization,0
+204,Las Claritas Sindicato,EPR,0
+205,Las Claritas Sindicato,Juárez Cartel,0
+206,Las Claritas Sindicato,Gulf Clan,0
+207,Las Claritas Sindicato,Barrio Azteca,0
+208,Las Claritas Sindicato,FBL,1
+209,Las Claritas Sindicato,Tarzanes,0
+210,Las Claritas Sindicato,Reñazcos,0
+211,Las Claritas Sindicato,Zetas,0
+212,Las Claritas Sindicato,Perrones,0
+213,Las Claritas Sindicato,Autodefensas Unidas de Colombia,0
+214,Las Claritas Sindicato,Mendozas,0
+215,Las Claritas Sindicato,Leones,0
+216,Las Claritas Sindicato,Lorenzanas,0
+217,Las Claritas Sindicato,Águilas Negras,0
+218,Las Claritas Sindicato,Paisas,0
+219,Las Claritas Sindicato,Oficina de Envigado,0
+220,Las Claritas Sindicato,CIACS,0
+221,Las Claritas Sindicato,ERPAC,0
+222,Carlos Capa Gang,The R Organization,0
+223,Carlos Capa Gang,Tren de Guayana,0
+224,Carlos Capa Gang,Lobos,0
+225,Carlos Capa Gang,10th Front,0
+226,Carlos Capa Gang,Pachenca,0
+227,Carlos Capa Gang,Bala na Cara,0
+228,Carlos Capa Gang,Border Command,0
+229,Carlos Capa Gang,Lagartos,0
+230,Carlos Capa Gang,Cárteles Unidos,0
+231,Carlos Capa Gang,Shining Path,0
+232,Carlos Capa Gang,Sinaloa Cartel,0
+233,Carlos Capa Gang,Bagdad,0
+234,Carlos Capa Gang,Libertadores del Vichada,0
+235,Carlos Capa Gang,EPL,0
+236,Carlos Capa Gang,Choneros,0
+237,Carlos Capa Gang,Escritório do Crime,0
+238,Carlos Capa Gang,Border Security Colectivo,0
+239,Carlos Capa Gang,Cartel of the Suns,0
+240,Carlos Capa Gang,The Meleán,0
+241,Carlos Capa Gang,Fuerza Anti-Unión,0
+242,Carlos Capa Gang,La Unión Tepito,0
+243,Carlos Capa Gang,Rotela Clan,0
+244,Carlos Capa Gang,Second Marquetalia,0
+245,Carlos Capa Gang,Chapitos,0
+246,Carlos Capa Gang,Tren de Aragua,0
+247,Carlos Capa Gang,Family of the North,0
+248,Carlos Capa Gang,Monos,0
+249,Carlos Capa Gang,Caparros,0
+250,Carlos Capa Gang,Jalisco Cartel New Generation,0
+251,Carlos Capa Gang,Amigos dos Amigos,0
+252,Carlos Capa Gang,1st Front,0
+253,Carlos Capa Gang,Knights Templar,0
+254,Carlos Capa Gang,Juarez Cartel,0
+255,Carlos Capa Gang,Tijuana Cartel,0
+256,Carlos Capa Gang,Gulf Cartel,0
+257,Carlos Capa Gang,Familia Michoacana,0
+258,Carlos Capa Gang,Cachiros,0
+259,Carlos Capa Gang,Perrones Cartel,0
+260,Carlos Capa Gang,Barrio 18,0
+261,Carlos Capa Gang,Texis Cartel,0
+262,Carlos Capa Gang,MS13,0
+263,Carlos Capa Gang,FARC,0
+264,Carlos Capa Gang,Rastrojos,0
+265,Carlos Capa Gang,ELN,0
+266,Carlos Capa Gang,Norte del Valle Cartel,0
+267,Carlos Capa Gang,Red Command,0
+268,Carlos Capa Gang,First Capital Command,0
+269,Carlos Capa Gang,Tren del Llano,0
+270,Carlos Capa Gang,Atlantic Cartel,0
+271,Carlos Capa Gang,Calor Calor,0
+272,Carlos Capa Gang,Guerreros Unidos,0
+273,Carlos Capa Gang,Pure Third Command,0
+274,Carlos Capa Gang,Valles,0
+275,Carlos Capa Gang,Beltrán Leyva Organization,0
+276,Carlos Capa Gang,EPR,0
+277,Carlos Capa Gang,Juárez Cartel,0
+278,Carlos Capa Gang,Gulf Clan,0
+279,Carlos Capa Gang,Barrio Azteca,0
+280,Carlos Capa Gang,FBL,0
+281,Carlos Capa Gang,Tarzanes,0
+282,Carlos Capa Gang,Reñazcos,0
+283,Carlos Capa Gang,Zetas,0
+284,Carlos Capa Gang,Perrones,0
+285,Carlos Capa Gang,Autodefensas Unidas de Colombia,0
+286,Carlos Capa Gang,Mendozas,0
+287,Carlos Capa Gang,Leones,0
+288,Carlos Capa Gang,Lorenzanas,0
+289,Carlos Capa Gang,Águilas Negras,0
+290,Carlos Capa Gang,Paisas,0
+291,Carlos Capa Gang,Oficina de Envigado,0
+292,Carlos Capa Gang,CIACS,0
+293,Carlos Capa Gang,ERPAC,0
+294,The R Organization,Tren de Guayana,1
+295,The R Organization,Lobos,0
+296,The R Organization,10th Front,0
+297,The R Organization,Pachenca,0
+298,The R Organization,Bala na Cara,0
+299,The R Organization,Border Command,0
+300,The R Organization,Lagartos,0
+301,The R Organization,Cárteles Unidos,0
+302,The R Organization,Shining Path,0
+303,The R Organization,Sinaloa Cartel,0
+304,The R Organization,Bagdad,0
+305,The R Organization,Libertadores del Vichada,0
+306,The R Organization,EPL,0
+307,The R Organization,Choneros,0
+308,The R Organization,Escritório do Crime,0
+309,The R Organization,Border Security Colectivo,0
+310,The R Organization,Cartel of the Suns,0
+311,The R Organization,The Meleán,0
+312,The R Organization,Fuerza Anti-Unión,0
+313,The R Organization,La Unión Tepito,0
+314,The R Organization,Rotela Clan,0
+315,The R Organization,Second Marquetalia,0
+316,The R Organization,Chapitos,0
+317,The R Organization,Tren de Aragua,1
+318,The R Organization,Family of the North,0
+319,The R Organization,Monos,0
+320,The R Organization,Caparros,0
+321,The R Organization,Jalisco Cartel New Generation,0
+322,The R Organization,Amigos dos Amigos,0
+323,The R Organization,1st Front,0
+324,The R Organization,Knights Templar,0
+325,The R Organization,Juarez Cartel,0
+326,The R Organization,Tijuana Cartel,0
+327,The R Organization,Gulf Cartel,0
+328,The R Organization,Familia Michoacana,0
+329,The R Organization,Cachiros,0
+330,The R Organization,Perrones Cartel,0
+331,The R Organization,Barrio 18,0
+332,The R Organization,Texis Cartel,0
+333,The R Organization,MS13,0
+334,The R Organization,FARC,1
+335,The R Organization,Rastrojos,0
+336,The R Organization,ELN,1
+337,The R Organization,Norte del Valle Cartel,0
+338,The R Organization,Red Command,0
+339,The R Organization,First Capital Command,0
+340,The R Organization,Tren del Llano,0
+341,The R Organization,Atlantic Cartel,0
+342,The R Organization,Calor Calor,0
+343,The R Organization,Guerreros Unidos,0
+344,The R Organization,Pure Third Command,0
+345,The R Organization,Valles,1
+346,The R Organization,Beltrán Leyva Organization,0
+347,The R Organization,EPR,0
+348,The R Organization,Juárez Cartel,0
+349,The R Organization,Gulf Clan,0
+350,The R Organization,Barrio Azteca,0
+351,The R Organization,FBL,1
+352,The R Organization,Tarzanes,0
+353,The R Organization,Reñazcos,0
+354,The R Organization,Zetas,0
+355,The R Organization,Perrones,0
+356,The R Organization,Autodefensas Unidas de Colombia,0
+357,The R Organization,Mendozas,0
+358,The R Organization,Leones,0
+359,The R Organization,Lorenzanas,0
+360,The R Organization,Águilas Negras,0
+361,The R Organization,Paisas,0
+362,The R Organization,Oficina de Envigado,0
+363,The R Organization,CIACS,0
+364,The R Organization,ERPAC,0
+365,Tren de Guayana,Lobos,0
+366,Tren de Guayana,10th Front,1
+367,Tren de Guayana,Pachenca,0
+368,Tren de Guayana,Bala na Cara,0
+369,Tren de Guayana,Border Command,0
+370,Tren de Guayana,Lagartos,0
+371,Tren de Guayana,Cárteles Unidos,0
+372,Tren de Guayana,Shining Path,0
+373,Tren de Guayana,Sinaloa Cartel,0
+374,Tren de Guayana,Bagdad,0
+375,Tren de Guayana,Libertadores del Vichada,0
+376,Tren de Guayana,EPL,0
+377,Tren de Guayana,Choneros,0
+378,Tren de Guayana,Escritório do Crime,0
+379,Tren de Guayana,Border Security Colectivo,0
+380,Tren de Guayana,Cartel of the Suns,0
+381,Tren de Guayana,The Meleán,0
+382,Tren de Guayana,Fuerza Anti-Unión,0
+383,Tren de Guayana,La Unión Tepito,0
+384,Tren de Guayana,Rotela Clan,0
+385,Tren de Guayana,Second Marquetalia,0
+386,Tren de Guayana,Chapitos,0
+387,Tren de Guayana,Tren de Aragua,1
+388,Tren de Guayana,Family of the North,0
+389,Tren de Guayana,Monos,0
+390,Tren de Guayana,Caparros,0
+391,Tren de Guayana,Jalisco Cartel New Generation,0
+392,Tren de Guayana,Amigos dos Amigos,0
+393,Tren de Guayana,1st Front,0
+394,Tren de Guayana,Knights Templar,0
+395,Tren de Guayana,Juarez Cartel,0
+396,Tren de Guayana,Tijuana Cartel,0
+397,Tren de Guayana,Gulf Cartel,0
+398,Tren de Guayana,Familia Michoacana,0
+399,Tren de Guayana,Cachiros,0
+400,Tren de Guayana,Perrones Cartel,0
+401,Tren de Guayana,Barrio 18,0
+402,Tren de Guayana,Texis Cartel,0
+403,Tren de Guayana,MS13,0
+404,Tren de Guayana,FARC,3
+405,Tren de Guayana,Rastrojos,0
+406,Tren de Guayana,ELN,1
+407,Tren de Guayana,Norte del Valle Cartel,0
+408,Tren de Guayana,Red Command,0
+409,Tren de Guayana,First Capital Command,0
+410,Tren de Guayana,Tren del Llano,0
+411,Tren de Guayana,Atlantic Cartel,0
+412,Tren de Guayana,Calor Calor,0
+413,Tren de Guayana,Guerreros Unidos,0
+414,Tren de Guayana,Pure Third Command,0
+415,Tren de Guayana,Valles,1
+416,Tren de Guayana,Beltrán Leyva Organization,0
+417,Tren de Guayana,EPR,0
+418,Tren de Guayana,Juárez Cartel,0
+419,Tren de Guayana,Gulf Clan,0
+420,Tren de Guayana,Barrio Azteca,0
+421,Tren de Guayana,FBL,1
+422,Tren de Guayana,Tarzanes,0
+423,Tren de Guayana,Reñazcos,0
+424,Tren de Guayana,Zetas,0
+425,Tren de Guayana,Perrones,0
+426,Tren de Guayana,Autodefensas Unidas de Colombia,0
+427,Tren de Guayana,Mendozas,0
+428,Tren de Guayana,Leones,0
+429,Tren de Guayana,Lorenzanas,0
+430,Tren de Guayana,Águilas Negras,0
+431,Tren de Guayana,Paisas,0
+432,Tren de Guayana,Oficina de Envigado,0
+433,Tren de Guayana,CIACS,0
+434,Tren de Guayana,ERPAC,0
+435,Lobos,10th Front,0
+436,Lobos,Pachenca,0
+437,Lobos,Bala na Cara,0
+438,Lobos,Border Command,1
+439,Lobos,Lagartos,5
+440,Lobos,Cárteles Unidos,0
+441,Lobos,Shining Path,0
+442,Lobos,Sinaloa Cartel,3
+443,Lobos,Bagdad,0
+444,Lobos,Libertadores del Vichada,0
+445,Lobos,EPL,0
+446,Lobos,Choneros,7
+447,Lobos,Escritório do Crime,0
+448,Lobos,Border Security Colectivo,0
+449,Lobos,Cartel of the Suns,0
+450,Lobos,The Meleán,0
+451,Lobos,Fuerza Anti-Unión,0
+452,Lobos,La Unión Tepito,0
+453,Lobos,Rotela Clan,0
+454,Lobos,Second Marquetalia,1
+455,Lobos,Chapitos,0
+456,Lobos,Tren de Aragua,0
+457,Lobos,Family of the North,0
+458,Lobos,Monos,0
+459,Lobos,Caparros,0
+460,Lobos,Jalisco Cartel New Generation,4
+461,Lobos,Amigos dos Amigos,0
+462,Lobos,1st Front,0
+463,Lobos,Knights Templar,0
+464,Lobos,Juarez Cartel,0
+465,Lobos,Tijuana Cartel,0
+466,Lobos,Gulf Cartel,0
+467,Lobos,Familia Michoacana,0
+468,Lobos,Cachiros,0
+469,Lobos,Perrones Cartel,0
+470,Lobos,Barrio 18,0
+471,Lobos,Texis Cartel,0
+472,Lobos,MS13,0
+473,Lobos,FARC,3
+474,Lobos,Rastrojos,0
+475,Lobos,ELN,0
+476,Lobos,Norte del Valle Cartel,0
+477,Lobos,Red Command,0
+478,Lobos,First Capital Command,0
+479,Lobos,Tren del Llano,0
+480,Lobos,Atlantic Cartel,0
+481,Lobos,Calor Calor,0
+482,Lobos,Guerreros Unidos,0
+483,Lobos,Pure Third Command,0
+484,Lobos,Valles,0
+485,Lobos,Beltrán Leyva Organization,0
+486,Lobos,EPR,0
+487,Lobos,Juárez Cartel,0
+488,Lobos,Gulf Clan,0
+489,Lobos,Barrio Azteca,0
+490,Lobos,FBL,0
+491,Lobos,Tarzanes,0
+492,Lobos,Reñazcos,0
+493,Lobos,Zetas,0
+494,Lobos,Perrones,0
+495,Lobos,Autodefensas Unidas de Colombia,0
+496,Lobos,Mendozas,0
+497,Lobos,Leones,0
+498,Lobos,Lorenzanas,0
+499,Lobos,Águilas Negras,0
+500,Lobos,Paisas,0
+501,Lobos,Oficina de Envigado,0
+502,Lobos,CIACS,0
+503,Lobos,ERPAC,0
+504,10th Front,Pachenca,0
+505,10th Front,Bala na Cara,0
+506,10th Front,Border Command,0
+507,10th Front,Lagartos,0
+508,10th Front,Cárteles Unidos,0
+509,10th Front,Shining Path,0
+510,10th Front,Sinaloa Cartel,0
+511,10th Front,Bagdad,0
+512,10th Front,Libertadores del Vichada,0
+513,10th Front,EPL,0
+514,10th Front,Choneros,0
+515,10th Front,Escritório do Crime,0
+516,10th Front,Border Security Colectivo,0
+517,10th Front,Cartel of the Suns,0
+518,10th Front,The Meleán,0
+519,10th Front,Fuerza Anti-Unión,0
+520,10th Front,La Unión Tepito,0
+521,10th Front,Rotela Clan,0
+522,10th Front,Second Marquetalia,2
+523,10th Front,Chapitos,0
+524,10th Front,Tren de Aragua,1
+525,10th Front,Family of the North,0
+526,10th Front,Monos,0
+527,10th Front,Caparros,0
+528,10th Front,Jalisco Cartel New Generation,0
+529,10th Front,Amigos dos Amigos,0
+530,10th Front,1st Front,1
+531,10th Front,Knights Templar,0
+532,10th Front,Juarez Cartel,0
+533,10th Front,Tijuana Cartel,0
+534,10th Front,Gulf Cartel,0
+535,10th Front,Familia Michoacana,0
+536,10th Front,Cachiros,0
+537,10th Front,Perrones Cartel,0
+538,10th Front,Barrio 18,0
+539,10th Front,Texis Cartel,0
+540,10th Front,MS13,0
+541,10th Front,FARC,5
+542,10th Front,Rastrojos,1
+543,10th Front,ELN,3
+544,10th Front,Norte del Valle Cartel,0
+545,10th Front,Red Command,0
+546,10th Front,First Capital Command,0
+547,10th Front,Tren del Llano,0
+548,10th Front,Atlantic Cartel,0
+549,10th Front,Calor Calor,0
+550,10th Front,Guerreros Unidos,0
+551,10th Front,Pure Third Command,0
+552,10th Front,Valles,0
+553,10th Front,Beltrán Leyva Organization,0
+554,10th Front,EPR,0
+555,10th Front,Juárez Cartel,0
+556,10th Front,Gulf Clan,0
+557,10th Front,Barrio Azteca,0
+558,10th Front,FBL,0
+559,10th Front,Tarzanes,0
+560,10th Front,Reñazcos,0
+561,10th Front,Zetas,0
+562,10th Front,Perrones,0
+563,10th Front,Autodefensas Unidas de Colombia,0
+564,10th Front,Mendozas,0
+565,10th Front,Leones,0
+566,10th Front,Lorenzanas,0
+567,10th Front,Águilas Negras,0
+568,10th Front,Paisas,0
+569,10th Front,Oficina de Envigado,0
+570,10th Front,CIACS,0
+571,10th Front,ERPAC,0
+572,Pachenca,Bala na Cara,0
+573,Pachenca,Border Command,1
+574,Pachenca,Lagartos,0
+575,Pachenca,Cárteles Unidos,0
+576,Pachenca,Shining Path,0
+577,Pachenca,Sinaloa Cartel,0
+578,Pachenca,Bagdad,0
+579,Pachenca,Libertadores del Vichada,0
+580,Pachenca,EPL,0
+581,Pachenca,Choneros,0
+582,Pachenca,Escritório do Crime,0
+583,Pachenca,Border Security Colectivo,0
+584,Pachenca,Cartel of the Suns,0
+585,Pachenca,The Meleán,0
+586,Pachenca,Fuerza Anti-Unión,0
+587,Pachenca,La Unión Tepito,0
+588,Pachenca,Rotela Clan,0
+589,Pachenca,Second Marquetalia,0
+590,Pachenca,Chapitos,0
+591,Pachenca,Tren de Aragua,0
+592,Pachenca,Family of the North,0
+593,Pachenca,Monos,0
+594,Pachenca,Caparros,0
+595,Pachenca,Jalisco Cartel New Generation,0
+596,Pachenca,Amigos dos Amigos,0
+597,Pachenca,1st Front,0
+598,Pachenca,Knights Templar,0
+599,Pachenca,Juarez Cartel,0
+600,Pachenca,Tijuana Cartel,0
+601,Pachenca,Gulf Cartel,0
+602,Pachenca,Familia Michoacana,0
+603,Pachenca,Cachiros,0
+604,Pachenca,Perrones Cartel,0
+605,Pachenca,Barrio 18,0
+606,Pachenca,Texis Cartel,0
+607,Pachenca,MS13,0
+608,Pachenca,FARC,1
+609,Pachenca,Rastrojos,0
+610,Pachenca,ELN,1
+611,Pachenca,Norte del Valle Cartel,0
+612,Pachenca,Red Command,0
+613,Pachenca,First Capital Command,1
+614,Pachenca,Tren del Llano,0
+615,Pachenca,Atlantic Cartel,0
+616,Pachenca,Calor Calor,0
+617,Pachenca,Guerreros Unidos,0
+618,Pachenca,Pure Third Command,0
+619,Pachenca,Valles,0
+620,Pachenca,Beltrán Leyva Organization,0
+621,Pachenca,EPR,0
+622,Pachenca,Juárez Cartel,0
+623,Pachenca,Gulf Clan,1
+624,Pachenca,Barrio Azteca,0
+625,Pachenca,FBL,0
+626,Pachenca,Tarzanes,0
+627,Pachenca,Reñazcos,0
+628,Pachenca,Zetas,0
+629,Pachenca,Perrones,0
+630,Pachenca,Autodefensas Unidas de Colombia,3
+631,Pachenca,Mendozas,0
+632,Pachenca,Leones,0
+633,Pachenca,Lorenzanas,0
+634,Pachenca,Águilas Negras,0
+635,Pachenca,Paisas,0
+636,Pachenca,Oficina de Envigado,1
+637,Pachenca,CIACS,0
+638,Pachenca,ERPAC,0
+639,Bala na Cara,Border Command,0
+640,Bala na Cara,Lagartos,0
+641,Bala na Cara,Cárteles Unidos,0
+642,Bala na Cara,Shining Path,0
+643,Bala na Cara,Sinaloa Cartel,0
+644,Bala na Cara,Bagdad,0
+645,Bala na Cara,Libertadores del Vichada,0
+646,Bala na Cara,EPL,0
+647,Bala na Cara,Choneros,0
+648,Bala na Cara,Escritório do Crime,0
+649,Bala na Cara,Border Security Colectivo,0
+650,Bala na Cara,Cartel of the Suns,0
+651,Bala na Cara,The Meleán,0
+652,Bala na Cara,Fuerza Anti-Unión,0
+653,Bala na Cara,La Unión Tepito,0
+654,Bala na Cara,Rotela Clan,0
+655,Bala na Cara,Second Marquetalia,0
+656,Bala na Cara,Chapitos,0
+657,Bala na Cara,Tren de Aragua,0
+658,Bala na Cara,Family of the North,0
+659,Bala na Cara,Monos,0
+660,Bala na Cara,Caparros,0
+661,Bala na Cara,Jalisco Cartel New Generation,0
+662,Bala na Cara,Amigos dos Amigos,0
+663,Bala na Cara,1st Front,0
+664,Bala na Cara,Knights Templar,0
+665,Bala na Cara,Juarez Cartel,0
+666,Bala na Cara,Tijuana Cartel,0
+667,Bala na Cara,Gulf Cartel,0
+668,Bala na Cara,Familia Michoacana,0
+669,Bala na Cara,Cachiros,0
+670,Bala na Cara,Perrones Cartel,0
+671,Bala na Cara,Barrio 18,0
+672,Bala na Cara,Texis Cartel,0
+673,Bala na Cara,MS13,0
+674,Bala na Cara,FARC,0
+675,Bala na Cara,Rastrojos,0
+676,Bala na Cara,ELN,0
+677,Bala na Cara,Norte del Valle Cartel,0
+678,Bala na Cara,Red Command,0
+679,Bala na Cara,First Capital Command,1
+680,Bala na Cara,Tren del Llano,0
+681,Bala na Cara,Atlantic Cartel,0
+682,Bala na Cara,Calor Calor,0
+683,Bala na Cara,Guerreros Unidos,0
+684,Bala na Cara,Pure Third Command,0
+685,Bala na Cara,Valles,0
+686,Bala na Cara,Beltrán Leyva Organization,0
+687,Bala na Cara,EPR,0
+688,Bala na Cara,Juárez Cartel,0
+689,Bala na Cara,Gulf Clan,0
+690,Bala na Cara,Barrio Azteca,0
+691,Bala na Cara,FBL,0
+692,Bala na Cara,Tarzanes,0
+693,Bala na Cara,Reñazcos,0
+694,Bala na Cara,Zetas,0
+695,Bala na Cara,Perrones,0
+696,Bala na Cara,Autodefensas Unidas de Colombia,0
+697,Bala na Cara,Mendozas,0
+698,Bala na Cara,Leones,0
+699,Bala na Cara,Lorenzanas,0
+700,Bala na Cara,Águilas Negras,0
+701,Bala na Cara,Paisas,0
+702,Bala na Cara,Oficina de Envigado,0
+703,Bala na Cara,CIACS,0
+704,Bala na Cara,ERPAC,0
+705,Border Command,Lagartos,0
+706,Border Command,Cárteles Unidos,0
+707,Border Command,Shining Path,0
+708,Border Command,Sinaloa Cartel,1
+709,Border Command,Bagdad,0
+710,Border Command,Libertadores del Vichada,0
+711,Border Command,EPL,0
+712,Border Command,Choneros,1
+713,Border Command,Escritório do Crime,0
+714,Border Command,Border Security Colectivo,0
+715,Border Command,Cartel of the Suns,0
+716,Border Command,The Meleán,0
+717,Border Command,Fuerza Anti-Unión,0
+718,Border Command,La Unión Tepito,0
+719,Border Command,Rotela Clan,0
+720,Border Command,Second Marquetalia,1
+721,Border Command,Chapitos,0
+722,Border Command,Tren de Aragua,0
+723,Border Command,Family of the North,0
+724,Border Command,Monos,0
+725,Border Command,Caparros,0
+726,Border Command,Jalisco Cartel New Generation,1
+727,Border Command,Amigos dos Amigos,0
+728,Border Command,1st Front,0
+729,Border Command,Knights Templar,0
+730,Border Command,Juarez Cartel,0
+731,Border Command,Tijuana Cartel,0
+732,Border Command,Gulf Cartel,0
+733,Border Command,Familia Michoacana,0
+734,Border Command,Cachiros,0
+735,Border Command,Perrones Cartel,0
+736,Border Command,Barrio 18,0
+737,Border Command,Texis Cartel,0
+738,Border Command,MS13,0
+739,Border Command,FARC,3
+740,Border Command,Rastrojos,0
+741,Border Command,ELN,0
+742,Border Command,Norte del Valle Cartel,0
+743,Border Command,Red Command,0
+744,Border Command,First Capital Command,1
+745,Border Command,Tren del Llano,0
+746,Border Command,Atlantic Cartel,0
+747,Border Command,Calor Calor,0
+748,Border Command,Guerreros Unidos,0
+749,Border Command,Pure Third Command,0
+750,Border Command,Valles,0
+751,Border Command,Beltrán Leyva Organization,0
+752,Border Command,EPR,0
+753,Border Command,Juárez Cartel,0
+754,Border Command,Gulf Clan,0
+755,Border Command,Barrio Azteca,0
+756,Border Command,FBL,0
+757,Border Command,Tarzanes,0
+758,Border Command,Reñazcos,0
+759,Border Command,Zetas,0
+760,Border Command,Perrones,0
+761,Border Command,Autodefensas Unidas de Colombia,1
+762,Border Command,Mendozas,0
+763,Border Command,Leones,0
+764,Border Command,Lorenzanas,0
+765,Border Command,Águilas Negras,0
+766,Border Command,Paisas,0
+767,Border Command,Oficina de Envigado,0
+768,Border Command,CIACS,0
+769,Border Command,ERPAC,0
+770,Lagartos,Cárteles Unidos,0
+771,Lagartos,Shining Path,0
+772,Lagartos,Sinaloa Cartel,2
+773,Lagartos,Bagdad,0
+774,Lagartos,Libertadores del Vichada,0
+775,Lagartos,EPL,0
+776,Lagartos,Choneros,5
+777,Lagartos,Escritório do Crime,0
+778,Lagartos,Border Security Colectivo,0
+779,Lagartos,Cartel of the Suns,0
+780,Lagartos,The Meleán,0
+781,Lagartos,Fuerza Anti-Unión,0
+782,Lagartos,La Unión Tepito,0
+783,Lagartos,Rotela Clan,0
+784,Lagartos,Second Marquetalia,0
+785,Lagartos,Chapitos,0
+786,Lagartos,Tren de Aragua,0
+787,Lagartos,Family of the North,0
+788,Lagartos,Monos,0
+789,Lagartos,Caparros,0
+790,Lagartos,Jalisco Cartel New Generation,3
+791,Lagartos,Amigos dos Amigos,0
+792,Lagartos,1st Front,0
+793,Lagartos,Knights Templar,0
+794,Lagartos,Juarez Cartel,0
+795,Lagartos,Tijuana Cartel,0
+796,Lagartos,Gulf Cartel,0
+797,Lagartos,Familia Michoacana,0
+798,Lagartos,Cachiros,0
+799,Lagartos,Perrones Cartel,0
+800,Lagartos,Barrio 18,0
+801,Lagartos,Texis Cartel,0
+802,Lagartos,MS13,0
+803,Lagartos,FARC,2
+804,Lagartos,Rastrojos,0
+805,Lagartos,ELN,0
+806,Lagartos,Norte del Valle Cartel,0
+807,Lagartos,Red Command,0
+808,Lagartos,First Capital Command,0
+809,Lagartos,Tren del Llano,0
+810,Lagartos,Atlantic Cartel,0
+811,Lagartos,Calor Calor,0
+812,Lagartos,Guerreros Unidos,0
+813,Lagartos,Pure Third Command,0
+814,Lagartos,Valles,0
+815,Lagartos,Beltrán Leyva Organization,0
+816,Lagartos,EPR,0
+817,Lagartos,Juárez Cartel,0
+818,Lagartos,Gulf Clan,0
+819,Lagartos,Barrio Azteca,0
+820,Lagartos,FBL,0
+821,Lagartos,Tarzanes,0
+822,Lagartos,Reñazcos,0
+823,Lagartos,Zetas,0
+824,Lagartos,Perrones,0
+825,Lagartos,Autodefensas Unidas de Colombia,0
+826,Lagartos,Mendozas,0
+827,Lagartos,Leones,0
+828,Lagartos,Lorenzanas,0
+829,Lagartos,Águilas Negras,0
+830,Lagartos,Paisas,0
+831,Lagartos,Oficina de Envigado,0
+832,Lagartos,CIACS,0
+833,Lagartos,ERPAC,0
+834,Cárteles Unidos,Shining Path,0
+835,Cárteles Unidos,Sinaloa Cartel,4
+836,Cárteles Unidos,Bagdad,0
+837,Cárteles Unidos,Libertadores del Vichada,0
+838,Cárteles Unidos,EPL,0
+839,Cárteles Unidos,Choneros,0
+840,Cárteles Unidos,Escritório do Crime,0
+841,Cárteles Unidos,Border Security Colectivo,0
+842,Cárteles Unidos,Cartel of the Suns,0
+843,Cárteles Unidos,The Meleán,0
+844,Cárteles Unidos,Fuerza Anti-Unión,0
+845,Cárteles Unidos,La Unión Tepito,0
+846,Cárteles Unidos,Rotela Clan,0
+847,Cárteles Unidos,Second Marquetalia,0
+848,Cárteles Unidos,Chapitos,0
+849,Cárteles Unidos,Tren de Aragua,0
+850,Cárteles Unidos,Family of the North,0
+851,Cárteles Unidos,Monos,0
+852,Cárteles Unidos,Caparros,0
+853,Cárteles Unidos,Jalisco Cartel New Generation,3
+854,Cárteles Unidos,Amigos dos Amigos,0
+855,Cárteles Unidos,1st Front,0
+856,Cárteles Unidos,Knights Templar,3
+857,Cárteles Unidos,Juarez Cartel,0
+858,Cárteles Unidos,Tijuana Cartel,2
+859,Cárteles Unidos,Gulf Cartel,1
+860,Cárteles Unidos,Familia Michoacana,3
+861,Cárteles Unidos,Cachiros,0
+862,Cárteles Unidos,Perrones Cartel,0
+863,Cárteles Unidos,Barrio 18,0
+864,Cárteles Unidos,Texis Cartel,0
+865,Cárteles Unidos,MS13,0
+866,Cárteles Unidos,FARC,0
+867,Cárteles Unidos,Rastrojos,0
+868,Cárteles Unidos,ELN,0
+869,Cárteles Unidos,Norte del Valle Cartel,0
+870,Cárteles Unidos,Red Command,0
+871,Cárteles Unidos,First Capital Command,0
+872,Cárteles Unidos,Tren del Llano,0
+873,Cárteles Unidos,Atlantic Cartel,0
+874,Cárteles Unidos,Calor Calor,0
+875,Cárteles Unidos,Guerreros Unidos,1
+876,Cárteles Unidos,Pure Third Command,0
+877,Cárteles Unidos,Valles,0
+878,Cárteles Unidos,Beltrán Leyva Organization,1
+879,Cárteles Unidos,EPR,0
+880,Cárteles Unidos,Juárez Cartel,1
+881,Cárteles Unidos,Gulf Clan,0
+882,Cárteles Unidos,Barrio Azteca,0
+883,Cárteles Unidos,FBL,0
+884,Cárteles Unidos,Tarzanes,0
+885,Cárteles Unidos,Reñazcos,0
+886,Cárteles Unidos,Zetas,4
+887,Cárteles Unidos,Perrones,0
+888,Cárteles Unidos,Autodefensas Unidas de Colombia,0
+889,Cárteles Unidos,Mendozas,0
+890,Cárteles Unidos,Leones,0
+891,Cárteles Unidos,Lorenzanas,0
+892,Cárteles Unidos,Águilas Negras,0
+893,Cárteles Unidos,Paisas,0
+894,Cárteles Unidos,Oficina de Envigado,0
+895,Cárteles Unidos,CIACS,0
+896,Cárteles Unidos,ERPAC,0
+897,Shining Path,Sinaloa Cartel,3
+898,Shining Path,Bagdad,0
+899,Shining Path,Libertadores del Vichada,0
+900,Shining Path,EPL,0
+901,Shining Path,Choneros,0
+902,Shining Path,Escritório do Crime,0
+903,Shining Path,Border Security Colectivo,0
+904,Shining Path,Cartel of the Suns,0
+905,Shining Path,The Meleán,0
+906,Shining Path,Fuerza Anti-Unión,0
+907,Shining Path,La Unión Tepito,0
+908,Shining Path,Rotela Clan,0
+909,Shining Path,Second Marquetalia,0
+910,Shining Path,Chapitos,0
+911,Shining Path,Tren de Aragua,1
+912,Shining Path,Family of the North,0
+913,Shining Path,Monos,0
+914,Shining Path,Caparros,0
+915,Shining Path,Jalisco Cartel New Generation,0
+916,Shining Path,Amigos dos Amigos,0
+917,Shining Path,1st Front,0
+918,Shining Path,Knights Templar,0
+919,Shining Path,Juarez Cartel,0
+920,Shining Path,Tijuana Cartel,0
+921,Shining Path,Gulf Cartel,1
+922,Shining Path,Familia Michoacana,0
+923,Shining Path,Cachiros,0
+924,Shining Path,Perrones Cartel,0
+925,Shining Path,Barrio 18,0
+926,Shining Path,Texis Cartel,0
+927,Shining Path,MS13,0
+928,Shining Path,FARC,6
+929,Shining Path,Rastrojos,0
+930,Shining Path,ELN,0
+931,Shining Path,Norte del Valle Cartel,0
+932,Shining Path,Red Command,0
+933,Shining Path,First Capital Command,1
+934,Shining Path,Tren del Llano,0
+935,Shining Path,Atlantic Cartel,0
+936,Shining Path,Calor Calor,0
+937,Shining Path,Guerreros Unidos,0
+938,Shining Path,Pure Third Command,0
+939,Shining Path,Valles,0
+940,Shining Path,Beltrán Leyva Organization,0
+941,Shining Path,EPR,0
+942,Shining Path,Juárez Cartel,0
+943,Shining Path,Gulf Clan,0
+944,Shining Path,Barrio Azteca,0
+945,Shining Path,FBL,0
+946,Shining Path,Tarzanes,0
+947,Shining Path,Reñazcos,0
+948,Shining Path,Zetas,1
+949,Shining Path,Perrones,0
+950,Shining Path,Autodefensas Unidas de Colombia,0
+951,Shining Path,Mendozas,0
+952,Shining Path,Leones,0
+953,Shining Path,Lorenzanas,0
+954,Shining Path,Águilas Negras,0
+955,Shining Path,Paisas,0
+956,Shining Path,Oficina de Envigado,0
+957,Shining Path,CIACS,0
+958,Shining Path,ERPAC,0
+959,Sinaloa Cartel,Bagdad,0
+960,Sinaloa Cartel,Libertadores del Vichada,0
+961,Sinaloa Cartel,EPL,1
+962,Sinaloa Cartel,Choneros,3
+963,Sinaloa Cartel,Escritório do Crime,0
+964,Sinaloa Cartel,Border Security Colectivo,0
+965,Sinaloa Cartel,Cartel of the Suns,1
+966,Sinaloa Cartel,The Meleán,0
+967,Sinaloa Cartel,Fuerza Anti-Unión,1
+968,Sinaloa Cartel,La Unión Tepito,0
+969,Sinaloa Cartel,Rotela Clan,0
+970,Sinaloa Cartel,Second Marquetalia,2
+971,Sinaloa Cartel,Chapitos,6
+972,Sinaloa Cartel,Tren de Aragua,1
+973,Sinaloa Cartel,Family of the North,1
+974,Sinaloa Cartel,Monos,0
+975,Sinaloa Cartel,Caparros,0
+976,Sinaloa Cartel,Jalisco Cartel New Generation,33
+977,Sinaloa Cartel,Amigos dos Amigos,0
+978,Sinaloa Cartel,1st Front,1
+979,Sinaloa Cartel,Knights Templar,20
+980,Sinaloa Cartel,Juarez Cartel,29
+981,Sinaloa Cartel,Tijuana Cartel,29
+982,Sinaloa Cartel,Gulf Cartel,67
+983,Sinaloa Cartel,Familia Michoacana,35
+984,Sinaloa Cartel,Cachiros,10
+985,Sinaloa Cartel,Perrones Cartel,0
+986,Sinaloa Cartel,Barrio 18,11
+987,Sinaloa Cartel,Texis Cartel,4
+988,Sinaloa Cartel,MS13,12
+989,Sinaloa Cartel,FARC,53
+990,Sinaloa Cartel,Rastrojos,20
+991,Sinaloa Cartel,ELN,15
+992,Sinaloa Cartel,Norte del Valle Cartel,11
+993,Sinaloa Cartel,Red Command,4
+994,Sinaloa Cartel,First Capital Command,5
+995,Sinaloa Cartel,Tren del Llano,0
+996,Sinaloa Cartel,Atlantic Cartel,0
+997,Sinaloa Cartel,Calor Calor,0
+998,Sinaloa Cartel,Guerreros Unidos,7
+999,Sinaloa Cartel,Pure Third Command,0
+1000,Sinaloa Cartel,Valles,6
+1001,Sinaloa Cartel,Beltrán Leyva Organization,16
+1002,Sinaloa Cartel,EPR,0
+1003,Sinaloa Cartel,Juárez Cartel,8
+1004,Sinaloa Cartel,Gulf Clan,0
+1005,Sinaloa Cartel,Barrio Azteca,3
+1006,Sinaloa Cartel,FBL,0
+1007,Sinaloa Cartel,Tarzanes,1
+1008,Sinaloa Cartel,Reñazcos,1
+1009,Sinaloa Cartel,Zetas,149
+1010,Sinaloa Cartel,Perrones,4
+1011,Sinaloa Cartel,Autodefensas Unidas de Colombia,5
+1012,Sinaloa Cartel,Mendozas,2
+1013,Sinaloa Cartel,Leones,1
+1014,Sinaloa Cartel,Lorenzanas,8
+1015,Sinaloa Cartel,Águilas Negras,0
+1016,Sinaloa Cartel,Paisas,4
+1017,Sinaloa Cartel,Oficina de Envigado,14
+1018,Sinaloa Cartel,CIACS,0
+1019,Sinaloa Cartel,ERPAC,2
+1020,Bagdad,Libertadores del Vichada,0
+1021,Bagdad,EPL,0
+1022,Bagdad,Choneros,0
+1023,Bagdad,Escritório do Crime,0
+1024,Bagdad,Border Security Colectivo,0
+1025,Bagdad,Cartel of the Suns,0
+1026,Bagdad,The Meleán,0
+1027,Bagdad,Fuerza Anti-Unión,0
+1028,Bagdad,La Unión Tepito,0
+1029,Bagdad,Rotela Clan,0
+1030,Bagdad,Second Marquetalia,0
+1031,Bagdad,Chapitos,0
+1032,Bagdad,Tren de Aragua,0
+1033,Bagdad,Family of the North,0
+1034,Bagdad,Monos,0
+1035,Bagdad,Caparros,0
+1036,Bagdad,Jalisco Cartel New Generation,0
+1037,Bagdad,Amigos dos Amigos,0
+1038,Bagdad,1st Front,0
+1039,Bagdad,Knights Templar,0
+1040,Bagdad,Juarez Cartel,0
+1041,Bagdad,Tijuana Cartel,0
+1042,Bagdad,Gulf Cartel,0
+1043,Bagdad,Familia Michoacana,0
+1044,Bagdad,Cachiros,0
+1045,Bagdad,Perrones Cartel,0
+1046,Bagdad,Barrio 18,0
+1047,Bagdad,Texis Cartel,0
+1048,Bagdad,MS13,0
+1049,Bagdad,FARC,1
+1050,Bagdad,Rastrojos,0
+1051,Bagdad,ELN,0
+1052,Bagdad,Norte del Valle Cartel,0
+1053,Bagdad,Red Command,0
+1054,Bagdad,First Capital Command,0
+1055,Bagdad,Tren del Llano,0
+1056,Bagdad,Atlantic Cartel,0
+1057,Bagdad,Calor Calor,1
+1058,Bagdad,Guerreros Unidos,0
+1059,Bagdad,Pure Third Command,0
+1060,Bagdad,Valles,0
+1061,Bagdad,Beltrán Leyva Organization,0
+1062,Bagdad,EPR,0
+1063,Bagdad,Juárez Cartel,0
+1064,Bagdad,Gulf Clan,0
+1065,Bagdad,Barrio Azteca,0
+1066,Bagdad,FBL,0
+1067,Bagdad,Tarzanes,0
+1068,Bagdad,Reñazcos,0
+1069,Bagdad,Zetas,0
+1070,Bagdad,Perrones,0
+1071,Bagdad,Autodefensas Unidas de Colombia,0
+1072,Bagdad,Mendozas,0
+1073,Bagdad,Leones,0
+1074,Bagdad,Lorenzanas,0
+1075,Bagdad,Águilas Negras,0
+1076,Bagdad,Paisas,0
+1077,Bagdad,Oficina de Envigado,0
+1078,Bagdad,CIACS,0
+1079,Bagdad,ERPAC,0
+1080,Libertadores del Vichada,EPL,0
+1081,Libertadores del Vichada,Choneros,0
+1082,Libertadores del Vichada,Escritório do Crime,0
+1083,Libertadores del Vichada,Border Security Colectivo,0
+1084,Libertadores del Vichada,Cartel of the Suns,0
+1085,Libertadores del Vichada,The Meleán,0
+1086,Libertadores del Vichada,Fuerza Anti-Unión,0
+1087,Libertadores del Vichada,La Unión Tepito,0
+1088,Libertadores del Vichada,Rotela Clan,0
+1089,Libertadores del Vichada,Second Marquetalia,0
+1090,Libertadores del Vichada,Chapitos,0
+1091,Libertadores del Vichada,Tren de Aragua,0
+1092,Libertadores del Vichada,Family of the North,0
+1093,Libertadores del Vichada,Monos,0
+1094,Libertadores del Vichada,Caparros,0
+1095,Libertadores del Vichada,Jalisco Cartel New Generation,0
+1096,Libertadores del Vichada,Amigos dos Amigos,0
+1097,Libertadores del Vichada,1st Front,0
+1098,Libertadores del Vichada,Knights Templar,0
+1099,Libertadores del Vichada,Juarez Cartel,0
+1100,Libertadores del Vichada,Tijuana Cartel,0
+1101,Libertadores del Vichada,Gulf Cartel,0
+1102,Libertadores del Vichada,Familia Michoacana,0
+1103,Libertadores del Vichada,Cachiros,0
+1104,Libertadores del Vichada,Perrones Cartel,0
+1105,Libertadores del Vichada,Barrio 18,0
+1106,Libertadores del Vichada,Texis Cartel,0
+1107,Libertadores del Vichada,MS13,0
+1108,Libertadores del Vichada,FARC,3
+1109,Libertadores del Vichada,Rastrojos,1
+1110,Libertadores del Vichada,ELN,0
+1111,Libertadores del Vichada,Norte del Valle Cartel,0
+1112,Libertadores del Vichada,Red Command,0
+1113,Libertadores del Vichada,First Capital Command,0
+1114,Libertadores del Vichada,Tren del Llano,0
+1115,Libertadores del Vichada,Atlantic Cartel,0
+1116,Libertadores del Vichada,Calor Calor,0
+1117,Libertadores del Vichada,Guerreros Unidos,0
+1118,Libertadores del Vichada,Pure Third Command,0
+1119,Libertadores del Vichada,Valles,0
+1120,Libertadores del Vichada,Beltrán Leyva Organization,0
+1121,Libertadores del Vichada,EPR,0
+1122,Libertadores del Vichada,Juárez Cartel,0
+1123,Libertadores del Vichada,Gulf Clan,2
+1124,Libertadores del Vichada,Barrio Azteca,0
+1125,Libertadores del Vichada,FBL,0
+1126,Libertadores del Vichada,Tarzanes,0
+1127,Libertadores del Vichada,Reñazcos,0
+1128,Libertadores del Vichada,Zetas,0
+1129,Libertadores del Vichada,Perrones,0
+1130,Libertadores del Vichada,Autodefensas Unidas de Colombia,0
+1131,Libertadores del Vichada,Mendozas,0
+1132,Libertadores del Vichada,Leones,0
+1133,Libertadores del Vichada,Lorenzanas,0
+1134,Libertadores del Vichada,Águilas Negras,0
+1135,Libertadores del Vichada,Paisas,0
+1136,Libertadores del Vichada,Oficina de Envigado,0
+1137,Libertadores del Vichada,CIACS,0
+1138,Libertadores del Vichada,ERPAC,5
+1139,EPL,Choneros,0
+1140,EPL,Escritório do Crime,0
+1141,EPL,Border Security Colectivo,0
+1142,EPL,Cartel of the Suns,1
+1143,EPL,The Meleán,0
+1144,EPL,Fuerza Anti-Unión,0
+1145,EPL,La Unión Tepito,0
+1146,EPL,Rotela Clan,0
+1147,EPL,Second Marquetalia,0
+1148,EPL,Chapitos,0
+1149,EPL,Tren de Aragua,0
+1150,EPL,Family of the North,0
+1151,EPL,Monos,0
+1152,EPL,Caparros,1
+1153,EPL,Jalisco Cartel New Generation,1
+1154,EPL,Amigos dos Amigos,0
+1155,EPL,1st Front,2
+1156,EPL,Knights Templar,0
+1157,EPL,Juarez Cartel,1
+1158,EPL,Tijuana Cartel,0
+1159,EPL,Gulf Cartel,2
+1160,EPL,Familia Michoacana,0
+1161,EPL,Cachiros,0
+1162,EPL,Perrones Cartel,0
+1163,EPL,Barrio 18,0
+1164,EPL,Texis Cartel,0
+1165,EPL,MS13,0
+1166,EPL,FARC,17
+1167,EPL,Rastrojos,8
+1168,EPL,ELN,16
+1169,EPL,Norte del Valle Cartel,1
+1170,EPL,Red Command,0
+1171,EPL,First Capital Command,0
+1172,EPL,Tren del Llano,0
+1173,EPL,Atlantic Cartel,0
+1174,EPL,Calor Calor,0
+1175,EPL,Guerreros Unidos,1
+1176,EPL,Pure Third Command,0
+1177,EPL,Valles,0
+1178,EPL,Beltrán Leyva Organization,0
+1179,EPL,EPR,0
+1180,EPL,Juárez Cartel,0
+1181,EPL,Gulf Clan,4
+1182,EPL,Barrio Azteca,0
+1183,EPL,FBL,0
+1184,EPL,Tarzanes,0
+1185,EPL,Reñazcos,0
+1186,EPL,Zetas,0
+1187,EPL,Perrones,0
+1188,EPL,Autodefensas Unidas de Colombia,4
+1189,EPL,Mendozas,0
+1190,EPL,Leones,0
+1191,EPL,Lorenzanas,0
+1192,EPL,Águilas Negras,0
+1193,EPL,Paisas,1
+1194,EPL,Oficina de Envigado,0
+1195,EPL,CIACS,0
+1196,EPL,ERPAC,1
+1197,Choneros,Escritório do Crime,0
+1198,Choneros,Border Security Colectivo,0
+1199,Choneros,Cartel of the Suns,0
+1200,Choneros,The Meleán,0
+1201,Choneros,Fuerza Anti-Unión,0
+1202,Choneros,La Unión Tepito,0
+1203,Choneros,Rotela Clan,0
+1204,Choneros,Second Marquetalia,1
+1205,Choneros,Chapitos,0
+1206,Choneros,Tren de Aragua,0
+1207,Choneros,Family of the North,0
+1208,Choneros,Monos,0
+1209,Choneros,Caparros,0
+1210,Choneros,Jalisco Cartel New Generation,4
+1211,Choneros,Amigos dos Amigos,0
+1212,Choneros,1st Front,0
+1213,Choneros,Knights Templar,0
+1214,Choneros,Juarez Cartel,0
+1215,Choneros,Tijuana Cartel,0
+1216,Choneros,Gulf Cartel,0
+1217,Choneros,Familia Michoacana,0
+1218,Choneros,Cachiros,0
+1219,Choneros,Perrones Cartel,0
+1220,Choneros,Barrio 18,0
+1221,Choneros,Texis Cartel,0
+1222,Choneros,MS13,0
+1223,Choneros,FARC,3
+1224,Choneros,Rastrojos,0
+1225,Choneros,ELN,0
+1226,Choneros,Norte del Valle Cartel,0
+1227,Choneros,Red Command,0
+1228,Choneros,First Capital Command,0
+1229,Choneros,Tren del Llano,0
+1230,Choneros,Atlantic Cartel,0
+1231,Choneros,Calor Calor,0
+1232,Choneros,Guerreros Unidos,0
+1233,Choneros,Pure Third Command,0
+1234,Choneros,Valles,0
+1235,Choneros,Beltrán Leyva Organization,0
+1236,Choneros,EPR,0
+1237,Choneros,Juárez Cartel,0
+1238,Choneros,Gulf Clan,0
+1239,Choneros,Barrio Azteca,0
+1240,Choneros,FBL,0
+1241,Choneros,Tarzanes,0
+1242,Choneros,Reñazcos,0
+1243,Choneros,Zetas,0
+1244,Choneros,Perrones,0
+1245,Choneros,Autodefensas Unidas de Colombia,0
+1246,Choneros,Mendozas,0
+1247,Choneros,Leones,0
+1248,Choneros,Lorenzanas,0
+1249,Choneros,Águilas Negras,0
+1250,Choneros,Paisas,0
+1251,Choneros,Oficina de Envigado,0
+1252,Choneros,CIACS,0
+1253,Choneros,ERPAC,0
+1254,Escritório do Crime,Border Security Colectivo,0
+1255,Escritório do Crime,Cartel of the Suns,0
+1256,Escritório do Crime,The Meleán,0
+1257,Escritório do Crime,Fuerza Anti-Unión,0
+1258,Escritório do Crime,La Unión Tepito,0
+1259,Escritório do Crime,Rotela Clan,0
+1260,Escritório do Crime,Second Marquetalia,0
+1261,Escritório do Crime,Chapitos,0
+1262,Escritório do Crime,Tren de Aragua,0
+1263,Escritório do Crime,Family of the North,0
+1264,Escritório do Crime,Monos,0
+1265,Escritório do Crime,Caparros,0
+1266,Escritório do Crime,Jalisco Cartel New Generation,0
+1267,Escritório do Crime,Amigos dos Amigos,0
+1268,Escritório do Crime,1st Front,0
+1269,Escritório do Crime,Knights Templar,0
+1270,Escritório do Crime,Juarez Cartel,0
+1271,Escritório do Crime,Tijuana Cartel,0
+1272,Escritório do Crime,Gulf Cartel,0
+1273,Escritório do Crime,Familia Michoacana,0
+1274,Escritório do Crime,Cachiros,0
+1275,Escritório do Crime,Perrones Cartel,0
+1276,Escritório do Crime,Barrio 18,0
+1277,Escritório do Crime,Texis Cartel,0
+1278,Escritório do Crime,MS13,0
+1279,Escritório do Crime,FARC,0
+1280,Escritório do Crime,Rastrojos,0
+1281,Escritório do Crime,ELN,0
+1282,Escritório do Crime,Norte del Valle Cartel,0
+1283,Escritório do Crime,Red Command,0
+1284,Escritório do Crime,First Capital Command,0
+1285,Escritório do Crime,Tren del Llano,0
+1286,Escritório do Crime,Atlantic Cartel,0
+1287,Escritório do Crime,Calor Calor,0
+1288,Escritório do Crime,Guerreros Unidos,0
+1289,Escritório do Crime,Pure Third Command,0
+1290,Escritório do Crime,Valles,0
+1291,Escritório do Crime,Beltrán Leyva Organization,0
+1292,Escritório do Crime,EPR,0
+1293,Escritório do Crime,Juárez Cartel,0
+1294,Escritório do Crime,Gulf Clan,0
+1295,Escritório do Crime,Barrio Azteca,0
+1296,Escritório do Crime,FBL,0
+1297,Escritório do Crime,Tarzanes,0
+1298,Escritório do Crime,Reñazcos,0
+1299,Escritório do Crime,Zetas,0
+1300,Escritório do Crime,Perrones,0
+1301,Escritório do Crime,Autodefensas Unidas de Colombia,0
+1302,Escritório do Crime,Mendozas,0
+1303,Escritório do Crime,Leones,0
+1304,Escritório do Crime,Lorenzanas,0
+1305,Escritório do Crime,Águilas Negras,0
+1306,Escritório do Crime,Paisas,0
+1307,Escritório do Crime,Oficina de Envigado,0
+1308,Escritório do Crime,CIACS,0
+1309,Escritório do Crime,ERPAC,0
+1310,Border Security Colectivo,Cartel of the Suns,0
+1311,Border Security Colectivo,The Meleán,0
+1312,Border Security Colectivo,Fuerza Anti-Unión,0
+1313,Border Security Colectivo,La Unión Tepito,0
+1314,Border Security Colectivo,Rotela Clan,0
+1315,Border Security Colectivo,Second Marquetalia,0
+1316,Border Security Colectivo,Chapitos,0
+1317,Border Security Colectivo,Tren de Aragua,1
+1318,Border Security Colectivo,Family of the North,0
+1319,Border Security Colectivo,Monos,0
+1320,Border Security Colectivo,Caparros,0
+1321,Border Security Colectivo,Jalisco Cartel New Generation,0
+1322,Border Security Colectivo,Amigos dos Amigos,0
+1323,Border Security Colectivo,1st Front,0
+1324,Border Security Colectivo,Knights Templar,0
+1325,Border Security Colectivo,Juarez Cartel,0
+1326,Border Security Colectivo,Tijuana Cartel,0
+1327,Border Security Colectivo,Gulf Cartel,0
+1328,Border Security Colectivo,Familia Michoacana,0
+1329,Border Security Colectivo,Cachiros,0
+1330,Border Security Colectivo,Perrones Cartel,0
+1331,Border Security Colectivo,Barrio 18,0
+1332,Border Security Colectivo,Texis Cartel,0
+1333,Border Security Colectivo,MS13,0
+1334,Border Security Colectivo,FARC,2
+1335,Border Security Colectivo,Rastrojos,1
+1336,Border Security Colectivo,ELN,2
+1337,Border Security Colectivo,Norte del Valle Cartel,0
+1338,Border Security Colectivo,Red Command,0
+1339,Border Security Colectivo,First Capital Command,0
+1340,Border Security Colectivo,Tren del Llano,0
+1341,Border Security Colectivo,Atlantic Cartel,0
+1342,Border Security Colectivo,Calor Calor,0
+1343,Border Security Colectivo,Guerreros Unidos,0
+1344,Border Security Colectivo,Pure Third Command,0
+1345,Border Security Colectivo,Valles,0
+1346,Border Security Colectivo,Beltrán Leyva Organization,0
+1347,Border Security Colectivo,EPR,0
+1348,Border Security Colectivo,Juárez Cartel,0
+1349,Border Security Colectivo,Gulf Clan,0
+1350,Border Security Colectivo,Barrio Azteca,0
+1351,Border Security Colectivo,FBL,0
+1352,Border Security Colectivo,Tarzanes,0
+1353,Border Security Colectivo,Reñazcos,0
+1354,Border Security Colectivo,Zetas,0
+1355,Border Security Colectivo,Perrones,0
+1356,Border Security Colectivo,Autodefensas Unidas de Colombia,0
+1357,Border Security Colectivo,Mendozas,0
+1358,Border Security Colectivo,Leones,0
+1359,Border Security Colectivo,Lorenzanas,0
+1360,Border Security Colectivo,Águilas Negras,0
+1361,Border Security Colectivo,Paisas,0
+1362,Border Security Colectivo,Oficina de Envigado,0
+1363,Border Security Colectivo,CIACS,0
+1364,Border Security Colectivo,ERPAC,0
+1365,Cartel of the Suns,The Meleán,0
+1366,Cartel of the Suns,Fuerza Anti-Unión,0
+1367,Cartel of the Suns,La Unión Tepito,0
+1368,Cartel of the Suns,Rotela Clan,0
+1369,Cartel of the Suns,Second Marquetalia,0
+1370,Cartel of the Suns,Chapitos,0
+1371,Cartel of the Suns,Tren de Aragua,0
+1372,Cartel of the Suns,Family of the North,0
+1373,Cartel of the Suns,Monos,0
+1374,Cartel of the Suns,Caparros,0
+1375,Cartel of the Suns,Jalisco Cartel New Generation,0
+1376,Cartel of the Suns,Amigos dos Amigos,0
+1377,Cartel of the Suns,1st Front,0
+1378,Cartel of the Suns,Knights Templar,0
+1379,Cartel of the Suns,Juarez Cartel,0
+1380,Cartel of the Suns,Tijuana Cartel,0
+1381,Cartel of the Suns,Gulf Cartel,1
+1382,Cartel of the Suns,Familia Michoacana,1
+1383,Cartel of the Suns,Cachiros,0
+1384,Cartel of the Suns,Perrones Cartel,0
+1385,Cartel of the Suns,Barrio 18,0
+1386,Cartel of the Suns,Texis Cartel,0
+1387,Cartel of the Suns,MS13,0
+1388,Cartel of the Suns,FARC,11
+1389,Cartel of the Suns,Rastrojos,3
+1390,Cartel of the Suns,ELN,5
+1391,Cartel of the Suns,Norte del Valle Cartel,1
+1392,Cartel of the Suns,Red Command,0
+1393,Cartel of the Suns,First Capital Command,0
+1394,Cartel of the Suns,Tren del Llano,0
+1395,Cartel of the Suns,Atlantic Cartel,0
+1396,Cartel of the Suns,Calor Calor,0
+1397,Cartel of the Suns,Guerreros Unidos,0
+1398,Cartel of the Suns,Pure Third Command,0
+1399,Cartel of the Suns,Valles,0
+1400,Cartel of the Suns,Beltrán Leyva Organization,0
+1401,Cartel of the Suns,EPR,0
+1402,Cartel of the Suns,Juárez Cartel,0
+1403,Cartel of the Suns,Gulf Clan,0
+1404,Cartel of the Suns,Barrio Azteca,0
+1405,Cartel of the Suns,FBL,1
+1406,Cartel of the Suns,Tarzanes,0
+1407,Cartel of the Suns,Reñazcos,0
+1408,Cartel of the Suns,Zetas,2
+1409,Cartel of the Suns,Perrones,0
+1410,Cartel of the Suns,Autodefensas Unidas de Colombia,0
+1411,Cartel of the Suns,Mendozas,0
+1412,Cartel of the Suns,Leones,0
+1413,Cartel of the Suns,Lorenzanas,0
+1414,Cartel of the Suns,Águilas Negras,0
+1415,Cartel of the Suns,Paisas,1
+1416,Cartel of the Suns,Oficina de Envigado,1
+1417,Cartel of the Suns,CIACS,0
+1418,Cartel of the Suns,ERPAC,0
+1419,The Meleán,Fuerza Anti-Unión,0
+1420,The Meleán,La Unión Tepito,0
+1421,The Meleán,Rotela Clan,0
+1422,The Meleán,Second Marquetalia,0
+1423,The Meleán,Chapitos,0
+1424,The Meleán,Tren de Aragua,0
+1425,The Meleán,Family of the North,0
+1426,The Meleán,Monos,0
+1427,The Meleán,Caparros,0
+1428,The Meleán,Jalisco Cartel New Generation,0
+1429,The Meleán,Amigos dos Amigos,0
+1430,The Meleán,1st Front,0
+1431,The Meleán,Knights Templar,0
+1432,The Meleán,Juarez Cartel,0
+1433,The Meleán,Tijuana Cartel,0
+1434,The Meleán,Gulf Cartel,0
+1435,The Meleán,Familia Michoacana,0
+1436,The Meleán,Cachiros,0
+1437,The Meleán,Perrones Cartel,0
+1438,The Meleán,Barrio 18,0
+1439,The Meleán,Texis Cartel,0
+1440,The Meleán,MS13,0
+1441,The Meleán,FARC,0
+1442,The Meleán,Rastrojos,0
+1443,The Meleán,ELN,0
+1444,The Meleán,Norte del Valle Cartel,0
+1445,The Meleán,Red Command,0
+1446,The Meleán,First Capital Command,0
+1447,The Meleán,Tren del Llano,0
+1448,The Meleán,Atlantic Cartel,0
+1449,The Meleán,Calor Calor,0
+1450,The Meleán,Guerreros Unidos,0
+1451,The Meleán,Pure Third Command,0
+1452,The Meleán,Valles,0
+1453,The Meleán,Beltrán Leyva Organization,0
+1454,The Meleán,EPR,0
+1455,The Meleán,Juárez Cartel,0
+1456,The Meleán,Gulf Clan,0
+1457,The Meleán,Barrio Azteca,0
+1458,The Meleán,FBL,0
+1459,The Meleán,Tarzanes,0
+1460,The Meleán,Reñazcos,0
+1461,The Meleán,Zetas,0
+1462,The Meleán,Perrones,0
+1463,The Meleán,Autodefensas Unidas de Colombia,0
+1464,The Meleán,Mendozas,0
+1465,The Meleán,Leones,0
+1466,The Meleán,Lorenzanas,0
+1467,The Meleán,Águilas Negras,0
+1468,The Meleán,Paisas,0
+1469,The Meleán,Oficina de Envigado,0
+1470,The Meleán,CIACS,0
+1471,The Meleán,ERPAC,0
+1472,Fuerza Anti-Unión,La Unión Tepito,1
+1473,Fuerza Anti-Unión,Rotela Clan,0
+1474,Fuerza Anti-Unión,Second Marquetalia,0
+1475,Fuerza Anti-Unión,Chapitos,0
+1476,Fuerza Anti-Unión,Tren de Aragua,0
+1477,Fuerza Anti-Unión,Family of the North,0
+1478,Fuerza Anti-Unión,Monos,0
+1479,Fuerza Anti-Unión,Caparros,0
+1480,Fuerza Anti-Unión,Jalisco Cartel New Generation,2
+1481,Fuerza Anti-Unión,Amigos dos Amigos,0
+1482,Fuerza Anti-Unión,1st Front,0
+1483,Fuerza Anti-Unión,Knights Templar,1
+1484,Fuerza Anti-Unión,Juarez Cartel,0
+1485,Fuerza Anti-Unión,Tijuana Cartel,2
+1486,Fuerza Anti-Unión,Gulf Cartel,1
+1487,Fuerza Anti-Unión,Familia Michoacana,1
+1488,Fuerza Anti-Unión,Cachiros,0
+1489,Fuerza Anti-Unión,Perrones Cartel,0
+1490,Fuerza Anti-Unión,Barrio 18,0
+1491,Fuerza Anti-Unión,Texis Cartel,0
+1492,Fuerza Anti-Unión,MS13,0
+1493,Fuerza Anti-Unión,FARC,0
+1494,Fuerza Anti-Unión,Rastrojos,0
+1495,Fuerza Anti-Unión,ELN,0
+1496,Fuerza Anti-Unión,Norte del Valle Cartel,0
+1497,Fuerza Anti-Unión,Red Command,0
+1498,Fuerza Anti-Unión,First Capital Command,0
+1499,Fuerza Anti-Unión,Tren del Llano,0
+1500,Fuerza Anti-Unión,Atlantic Cartel,0
+1501,Fuerza Anti-Unión,Calor Calor,0
+1502,Fuerza Anti-Unión,Guerreros Unidos,0
+1503,Fuerza Anti-Unión,Pure Third Command,0
+1504,Fuerza Anti-Unión,Valles,0
+1505,Fuerza Anti-Unión,Beltrán Leyva Organization,0
+1506,Fuerza Anti-Unión,EPR,0
+1507,Fuerza Anti-Unión,Juárez Cartel,1
+1508,Fuerza Anti-Unión,Gulf Clan,0
+1509,Fuerza Anti-Unión,Barrio Azteca,0
+1510,Fuerza Anti-Unión,FBL,0
+1511,Fuerza Anti-Unión,Tarzanes,0
+1512,Fuerza Anti-Unión,Reñazcos,0
+1513,Fuerza Anti-Unión,Zetas,1
+1514,Fuerza Anti-Unión,Perrones,0
+1515,Fuerza Anti-Unión,Autodefensas Unidas de Colombia,0
+1516,Fuerza Anti-Unión,Mendozas,0
+1517,Fuerza Anti-Unión,Leones,0
+1518,Fuerza Anti-Unión,Lorenzanas,0
+1519,Fuerza Anti-Unión,Águilas Negras,0
+1520,Fuerza Anti-Unión,Paisas,0
+1521,Fuerza Anti-Unión,Oficina de Envigado,0
+1522,Fuerza Anti-Unión,CIACS,0
+1523,Fuerza Anti-Unión,ERPAC,0
+1524,La Unión Tepito,Rotela Clan,0
+1525,La Unión Tepito,Second Marquetalia,0
+1526,La Unión Tepito,Chapitos,0
+1527,La Unión Tepito,Tren de Aragua,0
+1528,La Unión Tepito,Family of the North,0
+1529,La Unión Tepito,Monos,0
+1530,La Unión Tepito,Caparros,0
+1531,La Unión Tepito,Jalisco Cartel New Generation,3
+1532,La Unión Tepito,Amigos dos Amigos,0
+1533,La Unión Tepito,1st Front,0
+1534,La Unión Tepito,Knights Templar,0
+1535,La Unión Tepito,Juarez Cartel,0
+1536,La Unión Tepito,Tijuana Cartel,1
+1537,La Unión Tepito,Gulf Cartel,1
+1538,La Unión Tepito,Familia Michoacana,0
+1539,La Unión Tepito,Cachiros,0
+1540,La Unión Tepito,Perrones Cartel,0
+1541,La Unión Tepito,Barrio 18,0
+1542,La Unión Tepito,Texis Cartel,0
+1543,La Unión Tepito,MS13,1
+1544,La Unión Tepito,FARC,0
+1545,La Unión Tepito,Rastrojos,0
+1546,La Unión Tepito,ELN,1
+1547,La Unión Tepito,Norte del Valle Cartel,0
+1548,La Unión Tepito,Red Command,0
+1549,La Unión Tepito,First Capital Command,1
+1550,La Unión Tepito,Tren del Llano,0
+1551,La Unión Tepito,Atlantic Cartel,0
+1552,La Unión Tepito,Calor Calor,0
+1553,La Unión Tepito,Guerreros Unidos,0
+1554,La Unión Tepito,Pure Third Command,0
+1555,La Unión Tepito,Valles,0
+1556,La Unión Tepito,Beltrán Leyva Organization,0
+1557,La Unión Tepito,EPR,0
+1558,La Unión Tepito,Juárez Cartel,0
+1559,La Unión Tepito,Gulf Clan,0
+1560,La Unión Tepito,Barrio Azteca,0
+1561,La Unión Tepito,FBL,0
+1562,La Unión Tepito,Tarzanes,0
+1563,La Unión Tepito,Reñazcos,0
+1564,La Unión Tepito,Zetas,0
+1565,La Unión Tepito,Perrones,0
+1566,La Unión Tepito,Autodefensas Unidas de Colombia,0
+1567,La Unión Tepito,Mendozas,0
+1568,La Unión Tepito,Leones,0
+1569,La Unión Tepito,Lorenzanas,0
+1570,La Unión Tepito,Águilas Negras,0
+1571,La Unión Tepito,Paisas,0
+1572,La Unión Tepito,Oficina de Envigado,0
+1573,La Unión Tepito,CIACS,0
+1574,La Unión Tepito,ERPAC,0
+1575,Rotela Clan,Second Marquetalia,0
+1576,Rotela Clan,Chapitos,0
+1577,Rotela Clan,Tren de Aragua,0
+1578,Rotela Clan,Family of the North,0
+1579,Rotela Clan,Monos,0
+1580,Rotela Clan,Caparros,0
+1581,Rotela Clan,Jalisco Cartel New Generation,0
+1582,Rotela Clan,Amigos dos Amigos,0
+1583,Rotela Clan,1st Front,0
+1584,Rotela Clan,Knights Templar,0
+1585,Rotela Clan,Juarez Cartel,0
+1586,Rotela Clan,Tijuana Cartel,0
+1587,Rotela Clan,Gulf Cartel,0
+1588,Rotela Clan,Familia Michoacana,0
+1589,Rotela Clan,Cachiros,0
+1590,Rotela Clan,Perrones Cartel,0
+1591,Rotela Clan,Barrio 18,0
+1592,Rotela Clan,Texis Cartel,0
+1593,Rotela Clan,MS13,0
+1594,Rotela Clan,FARC,0
+1595,Rotela Clan,Rastrojos,0
+1596,Rotela Clan,ELN,0
+1597,Rotela Clan,Norte del Valle Cartel,0
+1598,Rotela Clan,Red Command,0
+1599,Rotela Clan,First Capital Command,0
+1600,Rotela Clan,Tren del Llano,0
+1601,Rotela Clan,Atlantic Cartel,0
+1602,Rotela Clan,Calor Calor,0
+1603,Rotela Clan,Guerreros Unidos,0
+1604,Rotela Clan,Pure Third Command,0
+1605,Rotela Clan,Valles,0
+1606,Rotela Clan,Beltrán Leyva Organization,0
+1607,Rotela Clan,EPR,0
+1608,Rotela Clan,Juárez Cartel,0
+1609,Rotela Clan,Gulf Clan,0
+1610,Rotela Clan,Barrio Azteca,0
+1611,Rotela Clan,FBL,0
+1612,Rotela Clan,Tarzanes,0
+1613,Rotela Clan,Reñazcos,0
+1614,Rotela Clan,Zetas,0
+1615,Rotela Clan,Perrones,0
+1616,Rotela Clan,Autodefensas Unidas de Colombia,0
+1617,Rotela Clan,Mendozas,0
+1618,Rotela Clan,Leones,0
+1619,Rotela Clan,Lorenzanas,0
+1620,Rotela Clan,Águilas Negras,0
+1621,Rotela Clan,Paisas,0
+1622,Rotela Clan,Oficina de Envigado,0
+1623,Rotela Clan,CIACS,0
+1624,Rotela Clan,ERPAC,0
+1625,Second Marquetalia,Chapitos,0
+1626,Second Marquetalia,Tren de Aragua,1
+1627,Second Marquetalia,Family of the North,0
+1628,Second Marquetalia,Monos,0
+1629,Second Marquetalia,Caparros,0
+1630,Second Marquetalia,Jalisco Cartel New Generation,1
+1631,Second Marquetalia,Amigos dos Amigos,0
+1632,Second Marquetalia,1st Front,1
+1633,Second Marquetalia,Knights Templar,0
+1634,Second Marquetalia,Juarez Cartel,0
+1635,Second Marquetalia,Tijuana Cartel,0
+1636,Second Marquetalia,Gulf Cartel,0
+1637,Second Marquetalia,Familia Michoacana,0
+1638,Second Marquetalia,Cachiros,0
+1639,Second Marquetalia,Perrones Cartel,0
+1640,Second Marquetalia,Barrio 18,0
+1641,Second Marquetalia,Texis Cartel,0
+1642,Second Marquetalia,MS13,0
+1643,Second Marquetalia,FARC,5
+1644,Second Marquetalia,Rastrojos,1
+1645,Second Marquetalia,ELN,2
+1646,Second Marquetalia,Norte del Valle Cartel,0
+1647,Second Marquetalia,Red Command,0
+1648,Second Marquetalia,First Capital Command,0
+1649,Second Marquetalia,Tren del Llano,0
+1650,Second Marquetalia,Atlantic Cartel,0
+1651,Second Marquetalia,Calor Calor,0
+1652,Second Marquetalia,Guerreros Unidos,0
+1653,Second Marquetalia,Pure Third Command,0
+1654,Second Marquetalia,Valles,0
+1655,Second Marquetalia,Beltrán Leyva Organization,0
+1656,Second Marquetalia,EPR,0
+1657,Second Marquetalia,Juárez Cartel,0
+1658,Second Marquetalia,Gulf Clan,0
+1659,Second Marquetalia,Barrio Azteca,0
+1660,Second Marquetalia,FBL,0
+1661,Second Marquetalia,Tarzanes,0
+1662,Second Marquetalia,Reñazcos,0
+1663,Second Marquetalia,Zetas,0
+1664,Second Marquetalia,Perrones,0
+1665,Second Marquetalia,Autodefensas Unidas de Colombia,0
+1666,Second Marquetalia,Mendozas,0
+1667,Second Marquetalia,Leones,0
+1668,Second Marquetalia,Lorenzanas,0
+1669,Second Marquetalia,Águilas Negras,0
+1670,Second Marquetalia,Paisas,0
+1671,Second Marquetalia,Oficina de Envigado,0
+1672,Second Marquetalia,CIACS,0
+1673,Second Marquetalia,ERPAC,0
+1674,Chapitos,Tren de Aragua,1
+1675,Chapitos,Family of the North,0
+1676,Chapitos,Monos,0
+1677,Chapitos,Caparros,0
+1678,Chapitos,Jalisco Cartel New Generation,3
+1679,Chapitos,Amigos dos Amigos,0
+1680,Chapitos,1st Front,0
+1681,Chapitos,Knights Templar,1
+1682,Chapitos,Juarez Cartel,0
+1683,Chapitos,Tijuana Cartel,0
+1684,Chapitos,Gulf Cartel,1
+1685,Chapitos,Familia Michoacana,1
+1686,Chapitos,Cachiros,0
+1687,Chapitos,Perrones Cartel,0
+1688,Chapitos,Barrio 18,0
+1689,Chapitos,Texis Cartel,0
+1690,Chapitos,MS13,1
+1691,Chapitos,FARC,1
+1692,Chapitos,Rastrojos,0
+1693,Chapitos,ELN,1
+1694,Chapitos,Norte del Valle Cartel,1
+1695,Chapitos,Red Command,0
+1696,Chapitos,First Capital Command,1
+1697,Chapitos,Tren del Llano,0
+1698,Chapitos,Atlantic Cartel,0
+1699,Chapitos,Calor Calor,0
+1700,Chapitos,Guerreros Unidos,1
+1701,Chapitos,Pure Third Command,0
+1702,Chapitos,Valles,0
+1703,Chapitos,Beltrán Leyva Organization,1
+1704,Chapitos,EPR,0
+1705,Chapitos,Juárez Cartel,0
+1706,Chapitos,Gulf Clan,0
+1707,Chapitos,Barrio Azteca,0
+1708,Chapitos,FBL,0
+1709,Chapitos,Tarzanes,0
+1710,Chapitos,Reñazcos,0
+1711,Chapitos,Zetas,3
+1712,Chapitos,Perrones,0
+1713,Chapitos,Autodefensas Unidas de Colombia,0
+1714,Chapitos,Mendozas,0
+1715,Chapitos,Leones,0
+1716,Chapitos,Lorenzanas,0
+1717,Chapitos,Águilas Negras,0
+1718,Chapitos,Paisas,0
+1719,Chapitos,Oficina de Envigado,1
+1720,Chapitos,CIACS,0
+1721,Chapitos,ERPAC,0
+1722,Tren de Aragua,Family of the North,0
+1723,Tren de Aragua,Monos,0
+1724,Tren de Aragua,Caparros,0
+1725,Tren de Aragua,Jalisco Cartel New Generation,1
+1726,Tren de Aragua,Amigos dos Amigos,0
+1727,Tren de Aragua,1st Front,1
+1728,Tren de Aragua,Knights Templar,0
+1729,Tren de Aragua,Juarez Cartel,0
+1730,Tren de Aragua,Tijuana Cartel,0
+1731,Tren de Aragua,Gulf Cartel,0
+1732,Tren de Aragua,Familia Michoacana,0
+1733,Tren de Aragua,Cachiros,0
+1734,Tren de Aragua,Perrones Cartel,0
+1735,Tren de Aragua,Barrio 18,0
+1736,Tren de Aragua,Texis Cartel,0
+1737,Tren de Aragua,MS13,2
+1738,Tren de Aragua,FARC,6
+1739,Tren de Aragua,Rastrojos,4
+1740,Tren de Aragua,ELN,7
+1741,Tren de Aragua,Norte del Valle Cartel,0
+1742,Tren de Aragua,Red Command,0
+1743,Tren de Aragua,First Capital Command,1
+1744,Tren de Aragua,Tren del Llano,2
+1745,Tren de Aragua,Atlantic Cartel,0
+1746,Tren de Aragua,Calor Calor,0
+1747,Tren de Aragua,Guerreros Unidos,0
+1748,Tren de Aragua,Pure Third Command,0
+1749,Tren de Aragua,Valles,2
+1750,Tren de Aragua,Beltrán Leyva Organization,0
+1751,Tren de Aragua,EPR,0
+1752,Tren de Aragua,Juárez Cartel,0
+1753,Tren de Aragua,Gulf Clan,0
+1754,Tren de Aragua,Barrio Azteca,0
+1755,Tren de Aragua,FBL,1
+1756,Tren de Aragua,Tarzanes,0
+1757,Tren de Aragua,Reñazcos,0
+1758,Tren de Aragua,Zetas,0
+1759,Tren de Aragua,Perrones,0
+1760,Tren de Aragua,Autodefensas Unidas de Colombia,0
+1761,Tren de Aragua,Mendozas,0
+1762,Tren de Aragua,Leones,0
+1763,Tren de Aragua,Lorenzanas,0
+1764,Tren de Aragua,Águilas Negras,0
+1765,Tren de Aragua,Paisas,0
+1766,Tren de Aragua,Oficina de Envigado,0
+1767,Tren de Aragua,CIACS,0
+1768,Tren de Aragua,ERPAC,0
+1769,Family of the North,Monos,0
+1770,Family of the North,Caparros,0
+1771,Family of the North,Jalisco Cartel New Generation,1
+1772,Family of the North,Amigos dos Amigos,0
+1773,Family of the North,1st Front,1
+1774,Family of the North,Knights Templar,0
+1775,Family of the North,Juarez Cartel,0
+1776,Family of the North,Tijuana Cartel,0
+1777,Family of the North,Gulf Cartel,0
+1778,Family of the North,Familia Michoacana,0
+1779,Family of the North,Cachiros,0
+1780,Family of the North,Perrones Cartel,0
+1781,Family of the North,Barrio 18,0
+1782,Family of the North,Texis Cartel,0
+1783,Family of the North,MS13,1
+1784,Family of the North,FARC,2
+1785,Family of the North,Rastrojos,0
+1786,Family of the North,ELN,2
+1787,Family of the North,Norte del Valle Cartel,0
+1788,Family of the North,Red Command,8
+1789,Family of the North,First Capital Command,7
+1790,Family of the North,Tren del Llano,0
+1791,Family of the North,Atlantic Cartel,0
+1792,Family of the North,Calor Calor,0
+1793,Family of the North,Guerreros Unidos,0
+1794,Family of the North,Pure Third Command,0
+1795,Family of the North,Valles,0
+1796,Family of the North,Beltrán Leyva Organization,0
+1797,Family of the North,EPR,0
+1798,Family of the North,Juárez Cartel,0
+1799,Family of the North,Gulf Clan,0
+1800,Family of the North,Barrio Azteca,0
+1801,Family of the North,FBL,0
+1802,Family of the North,Tarzanes,0
+1803,Family of the North,Reñazcos,0
+1804,Family of the North,Zetas,0
+1805,Family of the North,Perrones,0
+1806,Family of the North,Autodefensas Unidas de Colombia,0
+1807,Family of the North,Mendozas,0
+1808,Family of the North,Leones,0
+1809,Family of the North,Lorenzanas,0
+1810,Family of the North,Águilas Negras,0
+1811,Family of the North,Paisas,0
+1812,Family of the North,Oficina de Envigado,0
+1813,Family of the North,CIACS,0
+1814,Family of the North,ERPAC,0
+1815,Monos,Caparros,0
+1816,Monos,Jalisco Cartel New Generation,0
+1817,Monos,Amigos dos Amigos,0
+1818,Monos,1st Front,0
+1819,Monos,Knights Templar,0
+1820,Monos,Juarez Cartel,0
+1821,Monos,Tijuana Cartel,0
+1822,Monos,Gulf Cartel,0
+1823,Monos,Familia Michoacana,0
+1824,Monos,Cachiros,1
+1825,Monos,Perrones Cartel,0
+1826,Monos,Barrio 18,1
+1827,Monos,Texis Cartel,0
+1828,Monos,MS13,1
+1829,Monos,FARC,0
+1830,Monos,Rastrojos,1
+1831,Monos,ELN,0
+1832,Monos,Norte del Valle Cartel,0
+1833,Monos,Red Command,0
+1834,Monos,First Capital Command,0
+1835,Monos,Tren del Llano,0
+1836,Monos,Atlantic Cartel,0
+1837,Monos,Calor Calor,0
+1838,Monos,Guerreros Unidos,0
+1839,Monos,Pure Third Command,0
+1840,Monos,Valles,0
+1841,Monos,Beltrán Leyva Organization,0
+1842,Monos,EPR,0
+1843,Monos,Juárez Cartel,0
+1844,Monos,Gulf Clan,0
+1845,Monos,Barrio Azteca,0
+1846,Monos,FBL,0
+1847,Monos,Tarzanes,0
+1848,Monos,Reñazcos,0
+1849,Monos,Zetas,0
+1850,Monos,Perrones,0
+1851,Monos,Autodefensas Unidas de Colombia,0
+1852,Monos,Mendozas,0
+1853,Monos,Leones,0
+1854,Monos,Lorenzanas,0
+1855,Monos,Águilas Negras,0
+1856,Monos,Paisas,0
+1857,Monos,Oficina de Envigado,0
+1858,Monos,CIACS,0
+1859,Monos,ERPAC,0
+1860,Caparros,Jalisco Cartel New Generation,0
+1861,Caparros,Amigos dos Amigos,0
+1862,Caparros,1st Front,0
+1863,Caparros,Knights Templar,0
+1864,Caparros,Juarez Cartel,0
+1865,Caparros,Tijuana Cartel,0
+1866,Caparros,Gulf Cartel,0
+1867,Caparros,Familia Michoacana,0
+1868,Caparros,Cachiros,0
+1869,Caparros,Perrones Cartel,0
+1870,Caparros,Barrio 18,0
+1871,Caparros,Texis Cartel,0
+1872,Caparros,MS13,0
+1873,Caparros,FARC,1
+1874,Caparros,Rastrojos,1
+1875,Caparros,ELN,1
+1876,Caparros,Norte del Valle Cartel,0
+1877,Caparros,Red Command,0
+1878,Caparros,First Capital Command,0
+1879,Caparros,Tren del Llano,0
+1880,Caparros,Atlantic Cartel,0
+1881,Caparros,Calor Calor,0
+1882,Caparros,Guerreros Unidos,0
+1883,Caparros,Pure Third Command,0
+1884,Caparros,Valles,0
+1885,Caparros,Beltrán Leyva Organization,0
+1886,Caparros,EPR,0
+1887,Caparros,Juárez Cartel,0
+1888,Caparros,Gulf Clan,0
+1889,Caparros,Barrio Azteca,0
+1890,Caparros,FBL,0
+1891,Caparros,Tarzanes,0
+1892,Caparros,Reñazcos,0
+1893,Caparros,Zetas,0
+1894,Caparros,Perrones,0
+1895,Caparros,Autodefensas Unidas de Colombia,1
+1896,Caparros,Mendozas,0
+1897,Caparros,Leones,0
+1898,Caparros,Lorenzanas,0
+1899,Caparros,Águilas Negras,0
+1900,Caparros,Paisas,0
+1901,Caparros,Oficina de Envigado,0
+1902,Caparros,CIACS,0
+1903,Caparros,ERPAC,0
+1904,Jalisco Cartel New Generation,Amigos dos Amigos,0
+1905,Jalisco Cartel New Generation,1st Front,0
+1906,Jalisco Cartel New Generation,Knights Templar,5
+1907,Jalisco Cartel New Generation,Juarez Cartel,1
+1908,Jalisco Cartel New Generation,Tijuana Cartel,5
+1909,Jalisco Cartel New Generation,Gulf Cartel,10
+1910,Jalisco Cartel New Generation,Familia Michoacana,8
+1911,Jalisco Cartel New Generation,Cachiros,0
+1912,Jalisco Cartel New Generation,Perrones Cartel,0
+1913,Jalisco Cartel New Generation,Barrio 18,1
+1914,Jalisco Cartel New Generation,Texis Cartel,0
+1915,Jalisco Cartel New Generation,MS13,4
+1916,Jalisco Cartel New Generation,FARC,11
+1917,Jalisco Cartel New Generation,Rastrojos,0
+1918,Jalisco Cartel New Generation,ELN,7
+1919,Jalisco Cartel New Generation,Norte del Valle Cartel,1
+1920,Jalisco Cartel New Generation,Red Command,3
+1921,Jalisco Cartel New Generation,First Capital Command,6
+1922,Jalisco Cartel New Generation,Tren del Llano,0
+1923,Jalisco Cartel New Generation,Atlantic Cartel,0
+1924,Jalisco Cartel New Generation,Calor Calor,0
+1925,Jalisco Cartel New Generation,Guerreros Unidos,3
+1926,Jalisco Cartel New Generation,Pure Third Command,0
+1927,Jalisco Cartel New Generation,Valles,0
+1928,Jalisco Cartel New Generation,Beltrán Leyva Organization,3
+1929,Jalisco Cartel New Generation,EPR,0
+1930,Jalisco Cartel New Generation,Juárez Cartel,3
+1931,Jalisco Cartel New Generation,Gulf Clan,0
+1932,Jalisco Cartel New Generation,Barrio Azteca,0
+1933,Jalisco Cartel New Generation,FBL,0
+1934,Jalisco Cartel New Generation,Tarzanes,0
+1935,Jalisco Cartel New Generation,Reñazcos,0
+1936,Jalisco Cartel New Generation,Zetas,22
+1937,Jalisco Cartel New Generation,Perrones,0
+1938,Jalisco Cartel New Generation,Autodefensas Unidas de Colombia,0
+1939,Jalisco Cartel New Generation,Mendozas,0
+1940,Jalisco Cartel New Generation,Leones,1
+1941,Jalisco Cartel New Generation,Lorenzanas,0
+1942,Jalisco Cartel New Generation,Águilas Negras,0
+1943,Jalisco Cartel New Generation,Paisas,0
+1944,Jalisco Cartel New Generation,Oficina de Envigado,2
+1945,Jalisco Cartel New Generation,CIACS,0
+1946,Jalisco Cartel New Generation,ERPAC,0
+1947,Amigos dos Amigos,1st Front,0
+1948,Amigos dos Amigos,Knights Templar,0
+1949,Amigos dos Amigos,Juarez Cartel,0
+1950,Amigos dos Amigos,Tijuana Cartel,0
+1951,Amigos dos Amigos,Gulf Cartel,0
+1952,Amigos dos Amigos,Familia Michoacana,0
+1953,Amigos dos Amigos,Cachiros,0
+1954,Amigos dos Amigos,Perrones Cartel,0
+1955,Amigos dos Amigos,Barrio 18,0
+1956,Amigos dos Amigos,Texis Cartel,0
+1957,Amigos dos Amigos,MS13,0
+1958,Amigos dos Amigos,FARC,0
+1959,Amigos dos Amigos,Rastrojos,0
+1960,Amigos dos Amigos,ELN,0
+1961,Amigos dos Amigos,Norte del Valle Cartel,0
+1962,Amigos dos Amigos,Red Command,4
+1963,Amigos dos Amigos,First Capital Command,4
+1964,Amigos dos Amigos,Tren del Llano,0
+1965,Amigos dos Amigos,Atlantic Cartel,0
+1966,Amigos dos Amigos,Calor Calor,0
+1967,Amigos dos Amigos,Guerreros Unidos,0
+1968,Amigos dos Amigos,Pure Third Command,1
+1969,Amigos dos Amigos,Valles,0
+1970,Amigos dos Amigos,Beltrán Leyva Organization,0
+1971,Amigos dos Amigos,EPR,0
+1972,Amigos dos Amigos,Juárez Cartel,0
+1973,Amigos dos Amigos,Gulf Clan,0
+1974,Amigos dos Amigos,Barrio Azteca,0
+1975,Amigos dos Amigos,FBL,0
+1976,Amigos dos Amigos,Tarzanes,0
+1977,Amigos dos Amigos,Reñazcos,0
+1978,Amigos dos Amigos,Zetas,0
+1979,Amigos dos Amigos,Perrones,0
+1980,Amigos dos Amigos,Autodefensas Unidas de Colombia,0
+1981,Amigos dos Amigos,Mendozas,0
+1982,Amigos dos Amigos,Leones,0
+1983,Amigos dos Amigos,Lorenzanas,0
+1984,Amigos dos Amigos,Águilas Negras,0
+1985,Amigos dos Amigos,Paisas,0
+1986,Amigos dos Amigos,Oficina de Envigado,0
+1987,Amigos dos Amigos,CIACS,0
+1988,Amigos dos Amigos,ERPAC,0
+1989,1st Front,Knights Templar,0
+1990,1st Front,Juarez Cartel,0
+1991,1st Front,Tijuana Cartel,0
+1992,1st Front,Gulf Cartel,0
+1993,1st Front,Familia Michoacana,0
+1994,1st Front,Cachiros,0
+1995,1st Front,Perrones Cartel,0
+1996,1st Front,Barrio 18,0
+1997,1st Front,Texis Cartel,0
+1998,1st Front,MS13,0
+1999,1st Front,FARC,8
+2000,1st Front,Rastrojos,1
+2001,1st Front,ELN,5
+2002,1st Front,Norte del Valle Cartel,1
+2003,1st Front,Red Command,1
+2004,1st Front,First Capital Command,0
+2005,1st Front,Tren del Llano,0
+2006,1st Front,Atlantic Cartel,0
+2007,1st Front,Calor Calor,0
+2008,1st Front,Guerreros Unidos,0
+2009,1st Front,Pure Third Command,0
+2010,1st Front,Valles,0
+2011,1st Front,Beltrán Leyva Organization,0
+2012,1st Front,EPR,0
+2013,1st Front,Juárez Cartel,0
+2014,1st Front,Gulf Clan,0
+2015,1st Front,Barrio Azteca,0
+2016,1st Front,FBL,0
+2017,1st Front,Tarzanes,0
+2018,1st Front,Reñazcos,0
+2019,1st Front,Zetas,0
+2020,1st Front,Perrones,0
+2021,1st Front,Autodefensas Unidas de Colombia,0
+2022,1st Front,Mendozas,0
+2023,1st Front,Leones,0
+2024,1st Front,Lorenzanas,0
+2025,1st Front,Águilas Negras,0
+2026,1st Front,Paisas,0
+2027,1st Front,Oficina de Envigado,0
+2028,1st Front,CIACS,0
+2029,1st Front,ERPAC,1
+2030,Knights Templar,Juarez Cartel,6
+2031,Knights Templar,Tijuana Cartel,4
+2032,Knights Templar,Gulf Cartel,16
+2033,Knights Templar,Familia Michoacana,16
+2034,Knights Templar,Cachiros,0
+2035,Knights Templar,Perrones Cartel,0
+2036,Knights Templar,Barrio 18,2
+2037,Knights Templar,Texis Cartel,0
+2038,Knights Templar,MS13,2
+2039,Knights Templar,FARC,2
+2040,Knights Templar,Rastrojos,0
+2041,Knights Templar,ELN,2
+2042,Knights Templar,Norte del Valle Cartel,1
+2043,Knights Templar,Red Command,1
+2044,Knights Templar,First Capital Command,1
+2045,Knights Templar,Tren del Llano,0
+2046,Knights Templar,Atlantic Cartel,0
+2047,Knights Templar,Calor Calor,0
+2048,Knights Templar,Guerreros Unidos,4
+2049,Knights Templar,Pure Third Command,0
+2050,Knights Templar,Valles,0
+2051,Knights Templar,Beltrán Leyva Organization,1
+2052,Knights Templar,EPR,0
+2053,Knights Templar,Juárez Cartel,2
+2054,Knights Templar,Gulf Clan,0
+2055,Knights Templar,Barrio Azteca,1
+2056,Knights Templar,FBL,0
+2057,Knights Templar,Tarzanes,0
+2058,Knights Templar,Reñazcos,0
+2059,Knights Templar,Zetas,24
+2060,Knights Templar,Perrones,0
+2061,Knights Templar,Autodefensas Unidas de Colombia,0
+2062,Knights Templar,Mendozas,0
+2063,Knights Templar,Leones,0
+2064,Knights Templar,Lorenzanas,0
+2065,Knights Templar,Águilas Negras,0
+2066,Knights Templar,Paisas,0
+2067,Knights Templar,Oficina de Envigado,0
+2068,Knights Templar,CIACS,0
+2069,Knights Templar,ERPAC,0
+2070,Juarez Cartel,Tijuana Cartel,5
+2071,Juarez Cartel,Gulf Cartel,14
+2072,Juarez Cartel,Familia Michoacana,8
+2073,Juarez Cartel,Cachiros,0
+2074,Juarez Cartel,Perrones Cartel,0
+2075,Juarez Cartel,Barrio 18,2
+2076,Juarez Cartel,Texis Cartel,0
+2077,Juarez Cartel,MS13,2
+2078,Juarez Cartel,FARC,3
+2079,Juarez Cartel,Rastrojos,0
+2080,Juarez Cartel,ELN,3
+2081,Juarez Cartel,Norte del Valle Cartel,0
+2082,Juarez Cartel,Red Command,1
+2083,Juarez Cartel,First Capital Command,1
+2084,Juarez Cartel,Tren del Llano,0
+2085,Juarez Cartel,Atlantic Cartel,0
+2086,Juarez Cartel,Calor Calor,0
+2087,Juarez Cartel,Guerreros Unidos,4
+2088,Juarez Cartel,Pure Third Command,0
+2089,Juarez Cartel,Valles,0
+2090,Juarez Cartel,Beltrán Leyva Organization,0
+2091,Juarez Cartel,EPR,0
+2092,Juarez Cartel,Juárez Cartel,0
+2093,Juarez Cartel,Gulf Clan,0
+2094,Juarez Cartel,Barrio Azteca,3
+2095,Juarez Cartel,FBL,0
+2096,Juarez Cartel,Tarzanes,0
+2097,Juarez Cartel,Reñazcos,0
+2098,Juarez Cartel,Zetas,29
+2099,Juarez Cartel,Perrones,0
+2100,Juarez Cartel,Autodefensas Unidas de Colombia,1
+2101,Juarez Cartel,Mendozas,0
+2102,Juarez Cartel,Leones,0
+2103,Juarez Cartel,Lorenzanas,0
+2104,Juarez Cartel,Águilas Negras,0
+2105,Juarez Cartel,Paisas,1
+2106,Juarez Cartel,Oficina de Envigado,1
+2107,Juarez Cartel,CIACS,0
+2108,Juarez Cartel,ERPAC,1
+2109,Tijuana Cartel,Gulf Cartel,11
+2110,Tijuana Cartel,Familia Michoacana,9
+2111,Tijuana Cartel,Cachiros,0
+2112,Tijuana Cartel,Perrones Cartel,0
+2113,Tijuana Cartel,Barrio 18,0
+2114,Tijuana Cartel,Texis Cartel,0
+2115,Tijuana Cartel,MS13,0
+2116,Tijuana Cartel,FARC,1
+2117,Tijuana Cartel,Rastrojos,0
+2118,Tijuana Cartel,ELN,0
+2119,Tijuana Cartel,Norte del Valle Cartel,2
+2120,Tijuana Cartel,Red Command,0
+2121,Tijuana Cartel,First Capital Command,0
+2122,Tijuana Cartel,Tren del Llano,0
+2123,Tijuana Cartel,Atlantic Cartel,0
+2124,Tijuana Cartel,Calor Calor,0
+2125,Tijuana Cartel,Guerreros Unidos,2
+2126,Tijuana Cartel,Pure Third Command,0
+2127,Tijuana Cartel,Valles,0
+2128,Tijuana Cartel,Beltrán Leyva Organization,4
+2129,Tijuana Cartel,EPR,0
+2130,Tijuana Cartel,Juárez Cartel,3
+2131,Tijuana Cartel,Gulf Clan,0
+2132,Tijuana Cartel,Barrio Azteca,0
+2133,Tijuana Cartel,FBL,0
+2134,Tijuana Cartel,Tarzanes,0
+2135,Tijuana Cartel,Reñazcos,0
+2136,Tijuana Cartel,Zetas,19
+2137,Tijuana Cartel,Perrones,0
+2138,Tijuana Cartel,Autodefensas Unidas de Colombia,0
+2139,Tijuana Cartel,Mendozas,0
+2140,Tijuana Cartel,Leones,0
+2141,Tijuana Cartel,Lorenzanas,0
+2142,Tijuana Cartel,Águilas Negras,0
+2143,Tijuana Cartel,Paisas,0
+2144,Tijuana Cartel,Oficina de Envigado,0
+2145,Tijuana Cartel,CIACS,0
+2146,Tijuana Cartel,ERPAC,0
+2147,Gulf Cartel,Familia Michoacana,30
+2148,Gulf Cartel,Cachiros,1
+2149,Gulf Cartel,Perrones Cartel,0
+2150,Gulf Cartel,Barrio 18,5
+2151,Gulf Cartel,Texis Cartel,2
+2152,Gulf Cartel,MS13,3
+2153,Gulf Cartel,FARC,8
+2154,Gulf Cartel,Rastrojos,3
+2155,Gulf Cartel,ELN,5
+2156,Gulf Cartel,Norte del Valle Cartel,0
+2157,Gulf Cartel,Red Command,0
+2158,Gulf Cartel,First Capital Command,2
+2159,Gulf Cartel,Tren del Llano,0
+2160,Gulf Cartel,Atlantic Cartel,0
+2161,Gulf Cartel,Calor Calor,0
+2162,Gulf Cartel,Guerreros Unidos,4
+2163,Gulf Cartel,Pure Third Command,0
+2164,Gulf Cartel,Valles,0
+2165,Gulf Cartel,Beltrán Leyva Organization,4
+2166,Gulf Cartel,EPR,1
+2167,Gulf Cartel,Juárez Cartel,3
+2168,Gulf Cartel,Gulf Clan,1
+2169,Gulf Cartel,Barrio Azteca,1
+2170,Gulf Cartel,FBL,0
+2171,Gulf Cartel,Tarzanes,0
+2172,Gulf Cartel,Reñazcos,0
+2173,Gulf Cartel,Zetas,95
+2174,Gulf Cartel,Perrones,3
+2175,Gulf Cartel,Autodefensas Unidas de Colombia,1
+2176,Gulf Cartel,Mendozas,1
+2177,Gulf Cartel,Leones,2
+2178,Gulf Cartel,Lorenzanas,1
+2179,Gulf Cartel,Águilas Negras,0
+2180,Gulf Cartel,Paisas,2
+2181,Gulf Cartel,Oficina de Envigado,3
+2182,Gulf Cartel,CIACS,0
+2183,Gulf Cartel,ERPAC,1
+2184,Familia Michoacana,Cachiros,0
+2185,Familia Michoacana,Perrones Cartel,0
+2186,Familia Michoacana,Barrio 18,1
+2187,Familia Michoacana,Texis Cartel,1
+2188,Familia Michoacana,MS13,1
+2189,Familia Michoacana,FARC,3
+2190,Familia Michoacana,Rastrojos,2
+2191,Familia Michoacana,ELN,2
+2192,Familia Michoacana,Norte del Valle Cartel,1
+2193,Familia Michoacana,Red Command,1
+2194,Familia Michoacana,First Capital Command,0
+2195,Familia Michoacana,Tren del Llano,0
+2196,Familia Michoacana,Atlantic Cartel,0
+2197,Familia Michoacana,Calor Calor,0
+2198,Familia Michoacana,Guerreros Unidos,4
+2199,Familia Michoacana,Pure Third Command,0
+2200,Familia Michoacana,Valles,0
+2201,Familia Michoacana,Beltrán Leyva Organization,4
+2202,Familia Michoacana,EPR,0
+2203,Familia Michoacana,Juárez Cartel,5
+2204,Familia Michoacana,Gulf Clan,0
+2205,Familia Michoacana,Barrio Azteca,1
+2206,Familia Michoacana,FBL,0
+2207,Familia Michoacana,Tarzanes,0
+2208,Familia Michoacana,Reñazcos,0
+2209,Familia Michoacana,Zetas,44
+2210,Familia Michoacana,Perrones,0
+2211,Familia Michoacana,Autodefensas Unidas de Colombia,1
+2212,Familia Michoacana,Mendozas,0
+2213,Familia Michoacana,Leones,0
+2214,Familia Michoacana,Lorenzanas,0
+2215,Familia Michoacana,Águilas Negras,0
+2216,Familia Michoacana,Paisas,2
+2217,Familia Michoacana,Oficina de Envigado,2
+2218,Familia Michoacana,CIACS,0
+2219,Familia Michoacana,ERPAC,1
+2220,Cachiros,Perrones Cartel,0
+2221,Cachiros,Barrio 18,4
+2222,Cachiros,Texis Cartel,3
+2223,Cachiros,MS13,4
+2224,Cachiros,FARC,2
+2225,Cachiros,Rastrojos,1
+2226,Cachiros,ELN,0
+2227,Cachiros,Norte del Valle Cartel,0
+2228,Cachiros,Red Command,1
+2229,Cachiros,First Capital Command,1
+2230,Cachiros,Tren del Llano,0
+2231,Cachiros,Atlantic Cartel,7
+2232,Cachiros,Calor Calor,0
+2233,Cachiros,Guerreros Unidos,0
+2234,Cachiros,Pure Third Command,0
+2235,Cachiros,Valles,12
+2236,Cachiros,Beltrán Leyva Organization,0
+2237,Cachiros,EPR,0
+2238,Cachiros,Juárez Cartel,0
+2239,Cachiros,Gulf Clan,0
+2240,Cachiros,Barrio Azteca,0
+2241,Cachiros,FBL,0
+2242,Cachiros,Tarzanes,0
+2243,Cachiros,Reñazcos,0
+2244,Cachiros,Zetas,2
+2245,Cachiros,Perrones,0
+2246,Cachiros,Autodefensas Unidas de Colombia,0
+2247,Cachiros,Mendozas,1
+2248,Cachiros,Leones,0
+2249,Cachiros,Lorenzanas,1
+2250,Cachiros,Águilas Negras,0
+2251,Cachiros,Paisas,0
+2252,Cachiros,Oficina de Envigado,0
+2253,Cachiros,CIACS,0
+2254,Cachiros,ERPAC,0
+2255,Perrones Cartel,Barrio 18,0
+2256,Perrones Cartel,Texis Cartel,0
+2257,Perrones Cartel,MS13,0
+2258,Perrones Cartel,FARC,0
+2259,Perrones Cartel,Rastrojos,0
+2260,Perrones Cartel,ELN,0
+2261,Perrones Cartel,Norte del Valle Cartel,0
+2262,Perrones Cartel,Red Command,0
+2263,Perrones Cartel,First Capital Command,0
+2264,Perrones Cartel,Tren del Llano,0
+2265,Perrones Cartel,Atlantic Cartel,0
+2266,Perrones Cartel,Calor Calor,0
+2267,Perrones Cartel,Guerreros Unidos,0
+2268,Perrones Cartel,Pure Third Command,0
+2269,Perrones Cartel,Valles,0
+2270,Perrones Cartel,Beltrán Leyva Organization,0
+2271,Perrones Cartel,EPR,0
+2272,Perrones Cartel,Juárez Cartel,0
+2273,Perrones Cartel,Gulf Clan,0
+2274,Perrones Cartel,Barrio Azteca,0
+2275,Perrones Cartel,FBL,0
+2276,Perrones Cartel,Tarzanes,0
+2277,Perrones Cartel,Reñazcos,0
+2278,Perrones Cartel,Zetas,0
+2279,Perrones Cartel,Perrones,1
+2280,Perrones Cartel,Autodefensas Unidas de Colombia,0
+2281,Perrones Cartel,Mendozas,0
+2282,Perrones Cartel,Leones,0
+2283,Perrones Cartel,Lorenzanas,0
+2284,Perrones Cartel,Águilas Negras,0
+2285,Perrones Cartel,Paisas,0
+2286,Perrones Cartel,Oficina de Envigado,0
+2287,Perrones Cartel,CIACS,0
+2288,Perrones Cartel,ERPAC,0
+2289,Barrio 18,Texis Cartel,6
+2290,Barrio 18,MS13,72
+2291,Barrio 18,FARC,5
+2292,Barrio 18,Rastrojos,1
+2293,Barrio 18,ELN,2
+2294,Barrio 18,Norte del Valle Cartel,0
+2295,Barrio 18,Red Command,2
+2296,Barrio 18,First Capital Command,3
+2297,Barrio 18,Tren del Llano,0
+2298,Barrio 18,Atlantic Cartel,0
+2299,Barrio 18,Calor Calor,0
+2300,Barrio 18,Guerreros Unidos,0
+2301,Barrio 18,Pure Third Command,0
+2302,Barrio 18,Valles,1
+2303,Barrio 18,Beltrán Leyva Organization,0
+2304,Barrio 18,EPR,1
+2305,Barrio 18,Juárez Cartel,0
+2306,Barrio 18,Gulf Clan,0
+2307,Barrio 18,Barrio Azteca,1
+2308,Barrio 18,FBL,0
+2309,Barrio 18,Tarzanes,0
+2310,Barrio 18,Reñazcos,0
+2311,Barrio 18,Zetas,15
+2312,Barrio 18,Perrones,4
+2313,Barrio 18,Autodefensas Unidas de Colombia,1
+2314,Barrio 18,Mendozas,0
+2315,Barrio 18,Leones,0
+2316,Barrio 18,Lorenzanas,0
+2317,Barrio 18,Águilas Negras,0
+2318,Barrio 18,Paisas,0
+2319,Barrio 18,Oficina de Envigado,1
+2320,Barrio 18,CIACS,0
+2321,Barrio 18,ERPAC,0
+2322,Texis Cartel,MS13,5
+2323,Texis Cartel,FARC,2
+2324,Texis Cartel,Rastrojos,0
+2325,Texis Cartel,ELN,0
+2326,Texis Cartel,Norte del Valle Cartel,0
+2327,Texis Cartel,Red Command,1
+2328,Texis Cartel,First Capital Command,1
+2329,Texis Cartel,Tren del Llano,0
+2330,Texis Cartel,Atlantic Cartel,0
+2331,Texis Cartel,Calor Calor,0
+2332,Texis Cartel,Guerreros Unidos,0
+2333,Texis Cartel,Pure Third Command,0
+2334,Texis Cartel,Valles,0
+2335,Texis Cartel,Beltrán Leyva Organization,0
+2336,Texis Cartel,EPR,0
+2337,Texis Cartel,Juárez Cartel,0
+2338,Texis Cartel,Gulf Clan,0
+2339,Texis Cartel,Barrio Azteca,0
+2340,Texis Cartel,FBL,0
+2341,Texis Cartel,Tarzanes,0
+2342,Texis Cartel,Reñazcos,0
+2343,Texis Cartel,Zetas,5
+2344,Texis Cartel,Perrones,7
+2345,Texis Cartel,Autodefensas Unidas de Colombia,0
+2346,Texis Cartel,Mendozas,1
+2347,Texis Cartel,Leones,0
+2348,Texis Cartel,Lorenzanas,0
+2349,Texis Cartel,Águilas Negras,0
+2350,Texis Cartel,Paisas,0
+2351,Texis Cartel,Oficina de Envigado,1
+2352,Texis Cartel,CIACS,0
+2353,Texis Cartel,ERPAC,0
+2354,MS13,FARC,9
+2355,MS13,Rastrojos,1
+2356,MS13,ELN,5
+2357,MS13,Norte del Valle Cartel,0
+2358,MS13,Red Command,3
+2359,MS13,First Capital Command,5
+2360,MS13,Tren del Llano,0
+2361,MS13,Atlantic Cartel,0
+2362,MS13,Calor Calor,0
+2363,MS13,Guerreros Unidos,0
+2364,MS13,Pure Third Command,0
+2365,MS13,Valles,1
+2366,MS13,Beltrán Leyva Organization,0
+2367,MS13,EPR,0
+2368,MS13,Juárez Cartel,0
+2369,MS13,Gulf Clan,0
+2370,MS13,Barrio Azteca,1
+2371,MS13,FBL,0
+2372,MS13,Tarzanes,0
+2373,MS13,Reñazcos,0
+2374,MS13,Zetas,13
+2375,MS13,Perrones,4
+2376,MS13,Autodefensas Unidas de Colombia,1
+2377,MS13,Mendozas,0
+2378,MS13,Leones,0
+2379,MS13,Lorenzanas,0
+2380,MS13,Águilas Negras,0
+2381,MS13,Paisas,0
+2382,MS13,Oficina de Envigado,1
+2383,MS13,CIACS,1
+2384,MS13,ERPAC,0
+2385,FARC,Rastrojos,60
+2386,FARC,ELN,103
+2387,FARC,Norte del Valle Cartel,14
+2388,FARC,Red Command,6
+2389,FARC,First Capital Command,9
+2390,FARC,Tren del Llano,1
+2391,FARC,Atlantic Cartel,1
+2392,FARC,Calor Calor,1
+2393,FARC,Guerreros Unidos,1
+2394,FARC,Pure Third Command,0
+2395,FARC,Valles,2
+2396,FARC,Beltrán Leyva Organization,1
+2397,FARC,EPR,0
+2398,FARC,Juárez Cartel,0
+2399,FARC,Gulf Clan,11
+2400,FARC,Barrio Azteca,0
+2401,FARC,FBL,3
+2402,FARC,Tarzanes,0
+2403,FARC,Reñazcos,0
+2404,FARC,Zetas,23
+2405,FARC,Perrones,1
+2406,FARC,Autodefensas Unidas de Colombia,19
+2407,FARC,Mendozas,0
+2408,FARC,Leones,0
+2409,FARC,Lorenzanas,0
+2410,FARC,Águilas Negras,0
+2411,FARC,Paisas,8
+2412,FARC,Oficina de Envigado,12
+2413,FARC,CIACS,0
+2414,FARC,ERPAC,19
+2415,Rastrojos,ELN,38
+2416,Rastrojos,Norte del Valle Cartel,14
+2417,Rastrojos,Red Command,0
+2418,Rastrojos,First Capital Command,1
+2419,Rastrojos,Tren del Llano,1
+2420,Rastrojos,Atlantic Cartel,0
+2421,Rastrojos,Calor Calor,0
+2422,Rastrojos,Guerreros Unidos,0
+2423,Rastrojos,Pure Third Command,0
+2424,Rastrojos,Valles,0
+2425,Rastrojos,Beltrán Leyva Organization,0
+2426,Rastrojos,EPR,0
+2427,Rastrojos,Juárez Cartel,0
+2428,Rastrojos,Gulf Clan,5
+2429,Rastrojos,Barrio Azteca,0
+2430,Rastrojos,FBL,0
+2431,Rastrojos,Tarzanes,0
+2432,Rastrojos,Reñazcos,0
+2433,Rastrojos,Zetas,8
+2434,Rastrojos,Perrones,0
+2435,Rastrojos,Autodefensas Unidas de Colombia,6
+2436,Rastrojos,Mendozas,0
+2437,Rastrojos,Leones,0
+2438,Rastrojos,Lorenzanas,1
+2439,Rastrojos,Águilas Negras,0
+2440,Rastrojos,Paisas,7
+2441,Rastrojos,Oficina de Envigado,11
+2442,Rastrojos,CIACS,0
+2443,Rastrojos,ERPAC,13
+2444,ELN,Norte del Valle Cartel,8
+2445,ELN,Red Command,5
+2446,ELN,First Capital Command,7
+2447,ELN,Tren del Llano,1
+2448,ELN,Atlantic Cartel,0
+2449,ELN,Calor Calor,0
+2450,ELN,Guerreros Unidos,1
+2451,ELN,Pure Third Command,0
+2452,ELN,Valles,1
+2453,ELN,Beltrán Leyva Organization,0
+2454,ELN,EPR,0
+2455,ELN,Juárez Cartel,0
+2456,ELN,Gulf Clan,5
+2457,ELN,Barrio Azteca,0
+2458,ELN,FBL,4
+2459,ELN,Tarzanes,0
+2460,ELN,Reñazcos,0
+2461,ELN,Zetas,8
+2462,ELN,Perrones,0
+2463,ELN,Autodefensas Unidas de Colombia,12
+2464,ELN,Mendozas,0
+2465,ELN,Leones,0
+2466,ELN,Lorenzanas,0
+2467,ELN,Águilas Negras,0
+2468,ELN,Paisas,6
+2469,ELN,Oficina de Envigado,6
+2470,ELN,CIACS,0
+2471,ELN,ERPAC,6
+2472,Norte del Valle Cartel,Red Command,1
+2473,Norte del Valle Cartel,First Capital Command,1
+2474,Norte del Valle Cartel,Tren del Llano,0
+2475,Norte del Valle Cartel,Atlantic Cartel,0
+2476,Norte del Valle Cartel,Calor Calor,0
+2477,Norte del Valle Cartel,Guerreros Unidos,0
+2478,Norte del Valle Cartel,Pure Third Command,0
+2479,Norte del Valle Cartel,Valles,0
+2480,Norte del Valle Cartel,Beltrán Leyva Organization,1
+2481,Norte del Valle Cartel,EPR,0
+2482,Norte del Valle Cartel,Juárez Cartel,1
+2483,Norte del Valle Cartel,Gulf Clan,1
+2484,Norte del Valle Cartel,Barrio Azteca,0
+2485,Norte del Valle Cartel,FBL,0
+2486,Norte del Valle Cartel,Tarzanes,0
+2487,Norte del Valle Cartel,Reñazcos,0
+2488,Norte del Valle Cartel,Zetas,4
+2489,Norte del Valle Cartel,Perrones,0
+2490,Norte del Valle Cartel,Autodefensas Unidas de Colombia,2
+2491,Norte del Valle Cartel,Mendozas,0
+2492,Norte del Valle Cartel,Leones,0
+2493,Norte del Valle Cartel,Lorenzanas,0
+2494,Norte del Valle Cartel,Águilas Negras,0
+2495,Norte del Valle Cartel,Paisas,0
+2496,Norte del Valle Cartel,Oficina de Envigado,3
+2497,Norte del Valle Cartel,CIACS,0
+2498,Norte del Valle Cartel,ERPAC,0
+2499,Red Command,First Capital Command,35
+2500,Red Command,Tren del Llano,0
+2501,Red Command,Atlantic Cartel,0
+2502,Red Command,Calor Calor,0
+2503,Red Command,Guerreros Unidos,0
+2504,Red Command,Pure Third Command,1
+2505,Red Command,Valles,1
+2506,Red Command,Beltrán Leyva Organization,0
+2507,Red Command,EPR,0
+2508,Red Command,Juárez Cartel,0
+2509,Red Command,Gulf Clan,0
+2510,Red Command,Barrio Azteca,0
+2511,Red Command,FBL,0
+2512,Red Command,Tarzanes,0
+2513,Red Command,Reñazcos,0
+2514,Red Command,Zetas,3
+2515,Red Command,Perrones,0
+2516,Red Command,Autodefensas Unidas de Colombia,2
+2517,Red Command,Mendozas,0
+2518,Red Command,Leones,0
+2519,Red Command,Lorenzanas,0
+2520,Red Command,Águilas Negras,0
+2521,Red Command,Paisas,0
+2522,Red Command,Oficina de Envigado,0
+2523,Red Command,CIACS,0
+2524,Red Command,ERPAC,0
+2525,First Capital Command,Tren del Llano,0
+2526,First Capital Command,Atlantic Cartel,0
+2527,First Capital Command,Calor Calor,0
+2528,First Capital Command,Guerreros Unidos,0
+2529,First Capital Command,Pure Third Command,1
+2530,First Capital Command,Valles,1
+2531,First Capital Command,Beltrán Leyva Organization,0
+2532,First Capital Command,EPR,0
+2533,First Capital Command,Juárez Cartel,0
+2534,First Capital Command,Gulf Clan,1
+2535,First Capital Command,Barrio Azteca,0
+2536,First Capital Command,FBL,0
+2537,First Capital Command,Tarzanes,0
+2538,First Capital Command,Reñazcos,0
+2539,First Capital Command,Zetas,3
+2540,First Capital Command,Perrones,0
+2541,First Capital Command,Autodefensas Unidas de Colombia,2
+2542,First Capital Command,Mendozas,0
+2543,First Capital Command,Leones,0
+2544,First Capital Command,Lorenzanas,0
+2545,First Capital Command,Águilas Negras,0
+2546,First Capital Command,Paisas,0
+2547,First Capital Command,Oficina de Envigado,1
+2548,First Capital Command,CIACS,0
+2549,First Capital Command,ERPAC,0
+2550,Tren del Llano,Atlantic Cartel,0
+2551,Tren del Llano,Calor Calor,0
+2552,Tren del Llano,Guerreros Unidos,0
+2553,Tren del Llano,Pure Third Command,0
+2554,Tren del Llano,Valles,1
+2555,Tren del Llano,Beltrán Leyva Organization,0
+2556,Tren del Llano,EPR,0
+2557,Tren del Llano,Juárez Cartel,0
+2558,Tren del Llano,Gulf Clan,0
+2559,Tren del Llano,Barrio Azteca,0
+2560,Tren del Llano,FBL,0
+2561,Tren del Llano,Tarzanes,0
+2562,Tren del Llano,Reñazcos,0
+2563,Tren del Llano,Zetas,0
+2564,Tren del Llano,Perrones,0
+2565,Tren del Llano,Autodefensas Unidas de Colombia,0
+2566,Tren del Llano,Mendozas,0
+2567,Tren del Llano,Leones,0
+2568,Tren del Llano,Lorenzanas,0
+2569,Tren del Llano,Águilas Negras,0
+2570,Tren del Llano,Paisas,0
+2571,Tren del Llano,Oficina de Envigado,0
+2572,Tren del Llano,CIACS,0
+2573,Tren del Llano,ERPAC,0
+2574,Atlantic Cartel,Calor Calor,0
+2575,Atlantic Cartel,Guerreros Unidos,0
+2576,Atlantic Cartel,Pure Third Command,0
+2577,Atlantic Cartel,Valles,5
+2578,Atlantic Cartel,Beltrán Leyva Organization,0
+2579,Atlantic Cartel,EPR,0
+2580,Atlantic Cartel,Juárez Cartel,0
+2581,Atlantic Cartel,Gulf Clan,0
+2582,Atlantic Cartel,Barrio Azteca,0
+2583,Atlantic Cartel,FBL,0
+2584,Atlantic Cartel,Tarzanes,0
+2585,Atlantic Cartel,Reñazcos,0
+2586,Atlantic Cartel,Zetas,0
+2587,Atlantic Cartel,Perrones,0
+2588,Atlantic Cartel,Autodefensas Unidas de Colombia,0
+2589,Atlantic Cartel,Mendozas,0
+2590,Atlantic Cartel,Leones,0
+2591,Atlantic Cartel,Lorenzanas,0
+2592,Atlantic Cartel,Águilas Negras,0
+2593,Atlantic Cartel,Paisas,0
+2594,Atlantic Cartel,Oficina de Envigado,0
+2595,Atlantic Cartel,CIACS,1
+2596,Atlantic Cartel,ERPAC,0
+2597,Calor Calor,Guerreros Unidos,0
+2598,Calor Calor,Pure Third Command,0
+2599,Calor Calor,Valles,0
+2600,Calor Calor,Beltrán Leyva Organization,0
+2601,Calor Calor,EPR,0
+2602,Calor Calor,Juárez Cartel,0
+2603,Calor Calor,Gulf Clan,0
+2604,Calor Calor,Barrio Azteca,0
+2605,Calor Calor,FBL,0
+2606,Calor Calor,Tarzanes,0
+2607,Calor Calor,Reñazcos,0
+2608,Calor Calor,Zetas,0
+2609,Calor Calor,Perrones,0
+2610,Calor Calor,Autodefensas Unidas de Colombia,0
+2611,Calor Calor,Mendozas,0
+2612,Calor Calor,Leones,0
+2613,Calor Calor,Lorenzanas,0
+2614,Calor Calor,Águilas Negras,0
+2615,Calor Calor,Paisas,0
+2616,Calor Calor,Oficina de Envigado,0
+2617,Calor Calor,CIACS,0
+2618,Calor Calor,ERPAC,0
+2619,Guerreros Unidos,Pure Third Command,0
+2620,Guerreros Unidos,Valles,0
+2621,Guerreros Unidos,Beltrán Leyva Organization,3
+2622,Guerreros Unidos,EPR,0
+2623,Guerreros Unidos,Juárez Cartel,2
+2624,Guerreros Unidos,Gulf Clan,0
+2625,Guerreros Unidos,Barrio Azteca,0
+2626,Guerreros Unidos,FBL,0
+2627,Guerreros Unidos,Tarzanes,0
+2628,Guerreros Unidos,Reñazcos,0
+2629,Guerreros Unidos,Zetas,7
+2630,Guerreros Unidos,Perrones,0
+2631,Guerreros Unidos,Autodefensas Unidas de Colombia,0
+2632,Guerreros Unidos,Mendozas,0
+2633,Guerreros Unidos,Leones,0
+2634,Guerreros Unidos,Lorenzanas,0
+2635,Guerreros Unidos,Águilas Negras,0
+2636,Guerreros Unidos,Paisas,0
+2637,Guerreros Unidos,Oficina de Envigado,0
+2638,Guerreros Unidos,CIACS,0
+2639,Guerreros Unidos,ERPAC,0
+2640,Pure Third Command,Valles,0
+2641,Pure Third Command,Beltrán Leyva Organization,0
+2642,Pure Third Command,EPR,0
+2643,Pure Third Command,Juárez Cartel,0
+2644,Pure Third Command,Gulf Clan,0
+2645,Pure Third Command,Barrio Azteca,0
+2646,Pure Third Command,FBL,0
+2647,Pure Third Command,Tarzanes,0
+2648,Pure Third Command,Reñazcos,0
+2649,Pure Third Command,Zetas,0
+2650,Pure Third Command,Perrones,0
+2651,Pure Third Command,Autodefensas Unidas de Colombia,0
+2652,Pure Third Command,Mendozas,0
+2653,Pure Third Command,Leones,0
+2654,Pure Third Command,Lorenzanas,0
+2655,Pure Third Command,Águilas Negras,0
+2656,Pure Third Command,Paisas,0
+2657,Pure Third Command,Oficina de Envigado,0
+2658,Pure Third Command,CIACS,0
+2659,Pure Third Command,ERPAC,0
+2660,Valles,Beltrán Leyva Organization,0
+2661,Valles,EPR,0
+2662,Valles,Juárez Cartel,0
+2663,Valles,Gulf Clan,0
+2664,Valles,Barrio Azteca,0
+2665,Valles,FBL,1
+2666,Valles,Tarzanes,0
+2667,Valles,Reñazcos,0
+2668,Valles,Zetas,1
+2669,Valles,Perrones,0
+2670,Valles,Autodefensas Unidas de Colombia,0
+2671,Valles,Mendozas,0
+2672,Valles,Leones,0
+2673,Valles,Lorenzanas,2
+2674,Valles,Águilas Negras,0
+2675,Valles,Paisas,0
+2676,Valles,Oficina de Envigado,0
+2677,Valles,CIACS,0
+2678,Valles,ERPAC,0
+2679,Beltrán Leyva Organization,EPR,0
+2680,Beltrán Leyva Organization,Juárez Cartel,3
+2681,Beltrán Leyva Organization,Gulf Clan,0
+2682,Beltrán Leyva Organization,Barrio Azteca,0
+2683,Beltrán Leyva Organization,FBL,0
+2684,Beltrán Leyva Organization,Tarzanes,0
+2685,Beltrán Leyva Organization,Reñazcos,0
+2686,Beltrán Leyva Organization,Zetas,10
+2687,Beltrán Leyva Organization,Perrones,0
+2688,Beltrán Leyva Organization,Autodefensas Unidas de Colombia,0
+2689,Beltrán Leyva Organization,Mendozas,0
+2690,Beltrán Leyva Organization,Leones,0
+2691,Beltrán Leyva Organization,Lorenzanas,0
+2692,Beltrán Leyva Organization,Águilas Negras,0
+2693,Beltrán Leyva Organization,Paisas,0
+2694,Beltrán Leyva Organization,Oficina de Envigado,0
+2695,Beltrán Leyva Organization,CIACS,0
+2696,Beltrán Leyva Organization,ERPAC,0
+2697,EPR,Juárez Cartel,0
+2698,EPR,Gulf Clan,0
+2699,EPR,Barrio Azteca,0
+2700,EPR,FBL,0
+2701,EPR,Tarzanes,0
+2702,EPR,Reñazcos,0
+2703,EPR,Zetas,1
+2704,EPR,Perrones,0
+2705,EPR,Autodefensas Unidas de Colombia,0
+2706,EPR,Mendozas,0
+2707,EPR,Leones,0
+2708,EPR,Lorenzanas,0
+2709,EPR,Águilas Negras,0
+2710,EPR,Paisas,0
+2711,EPR,Oficina de Envigado,0
+2712,EPR,CIACS,0
+2713,EPR,ERPAC,0
+2714,Juárez Cartel,Gulf Clan,0
+2715,Juárez Cartel,Barrio Azteca,0
+2716,Juárez Cartel,FBL,0
+2717,Juárez Cartel,Tarzanes,0
+2718,Juárez Cartel,Reñazcos,0
+2719,Juárez Cartel,Zetas,7
+2720,Juárez Cartel,Perrones,0
+2721,Juárez Cartel,Autodefensas Unidas de Colombia,0
+2722,Juárez Cartel,Mendozas,0
+2723,Juárez Cartel,Leones,0
+2724,Juárez Cartel,Lorenzanas,0
+2725,Juárez Cartel,Águilas Negras,0
+2726,Juárez Cartel,Paisas,0
+2727,Juárez Cartel,Oficina de Envigado,0
+2728,Juárez Cartel,CIACS,0
+2729,Juárez Cartel,ERPAC,0
+2730,Gulf Clan,Barrio Azteca,0
+2731,Gulf Clan,FBL,0
+2732,Gulf Clan,Tarzanes,0
+2733,Gulf Clan,Reñazcos,0
+2734,Gulf Clan,Zetas,0
+2735,Gulf Clan,Perrones,0
+2736,Gulf Clan,Autodefensas Unidas de Colombia,5
+2737,Gulf Clan,Mendozas,0
+2738,Gulf Clan,Leones,0
+2739,Gulf Clan,Lorenzanas,0
+2740,Gulf Clan,Águilas Negras,0
+2741,Gulf Clan,Paisas,1
+2742,Gulf Clan,Oficina de Envigado,2
+2743,Gulf Clan,CIACS,0
+2744,Gulf Clan,ERPAC,1
+2745,Barrio Azteca,FBL,0
+2746,Barrio Azteca,Tarzanes,0
+2747,Barrio Azteca,Reñazcos,0
+2748,Barrio Azteca,Zetas,2
+2749,Barrio Azteca,Perrones,0
+2750,Barrio Azteca,Autodefensas Unidas de Colombia,0
+2751,Barrio Azteca,Mendozas,0
+2752,Barrio Azteca,Leones,0
+2753,Barrio Azteca,Lorenzanas,0
+2754,Barrio Azteca,Águilas Negras,0
+2755,Barrio Azteca,Paisas,0
+2756,Barrio Azteca,Oficina de Envigado,0
+2757,Barrio Azteca,CIACS,0
+2758,Barrio Azteca,ERPAC,0
+2759,FBL,Tarzanes,0
+2760,FBL,Reñazcos,0
+2761,FBL,Zetas,0
+2762,FBL,Perrones,0
+2763,FBL,Autodefensas Unidas de Colombia,1
+2764,FBL,Mendozas,0
+2765,FBL,Leones,0
+2766,FBL,Lorenzanas,0
+2767,FBL,Águilas Negras,0
+2768,FBL,Paisas,0
+2769,FBL,Oficina de Envigado,0
+2770,FBL,CIACS,0
+2771,FBL,ERPAC,0
+2772,Tarzanes,Reñazcos,1
+2773,Tarzanes,Zetas,0
+2774,Tarzanes,Perrones,0
+2775,Tarzanes,Autodefensas Unidas de Colombia,0
+2776,Tarzanes,Mendozas,0
+2777,Tarzanes,Leones,0
+2778,Tarzanes,Lorenzanas,0
+2779,Tarzanes,Águilas Negras,0
+2780,Tarzanes,Paisas,0
+2781,Tarzanes,Oficina de Envigado,0
+2782,Tarzanes,CIACS,0
+2783,Tarzanes,ERPAC,0
+2784,Reñazcos,Zetas,0
+2785,Reñazcos,Perrones,0
+2786,Reñazcos,Autodefensas Unidas de Colombia,0
+2787,Reñazcos,Mendozas,0
+2788,Reñazcos,Leones,0
+2789,Reñazcos,Lorenzanas,0
+2790,Reñazcos,Águilas Negras,0
+2791,Reñazcos,Paisas,0
+2792,Reñazcos,Oficina de Envigado,0
+2793,Reñazcos,CIACS,0
+2794,Reñazcos,ERPAC,0
+2795,Zetas,Perrones,3
+2796,Zetas,Autodefensas Unidas de Colombia,3
+2797,Zetas,Mendozas,5
+2798,Zetas,Leones,5
+2799,Zetas,Lorenzanas,9
+2800,Zetas,Águilas Negras,0
+2801,Zetas,Paisas,3
+2802,Zetas,Oficina de Envigado,8
+2803,Zetas,CIACS,0
+2804,Zetas,ERPAC,3
+2805,Perrones,Autodefensas Unidas de Colombia,0
+2806,Perrones,Mendozas,0
+2807,Perrones,Leones,0
+2808,Perrones,Lorenzanas,0
+2809,Perrones,Águilas Negras,0
+2810,Perrones,Paisas,0
+2811,Perrones,Oficina de Envigado,1
+2812,Perrones,CIACS,0
+2813,Perrones,ERPAC,0
+2814,Autodefensas Unidas de Colombia,Mendozas,0
+2815,Autodefensas Unidas de Colombia,Leones,0
+2816,Autodefensas Unidas de Colombia,Lorenzanas,0
+2817,Autodefensas Unidas de Colombia,Águilas Negras,0
+2818,Autodefensas Unidas de Colombia,Paisas,1
+2819,Autodefensas Unidas de Colombia,Oficina de Envigado,5
+2820,Autodefensas Unidas de Colombia,CIACS,0
+2821,Autodefensas Unidas de Colombia,ERPAC,0
+2822,Mendozas,Leones,3
+2823,Mendozas,Lorenzanas,4
+2824,Mendozas,Águilas Negras,0
+2825,Mendozas,Paisas,0
+2826,Mendozas,Oficina de Envigado,0
+2827,Mendozas,CIACS,0
+2828,Mendozas,ERPAC,0
+2829,Leones,Lorenzanas,3
+2830,Leones,Águilas Negras,0
+2831,Leones,Paisas,0
+2832,Leones,Oficina de Envigado,0
+2833,Leones,CIACS,0
+2834,Leones,ERPAC,0
+2835,Lorenzanas,Águilas Negras,0
+2836,Lorenzanas,Paisas,0
+2837,Lorenzanas,Oficina de Envigado,0
+2838,Lorenzanas,CIACS,0
+2839,Lorenzanas,ERPAC,0
+2840,Águilas Negras,Paisas,0
+2841,Águilas Negras,Oficina de Envigado,0
+2842,Águilas Negras,CIACS,0
+2843,Águilas Negras,ERPAC,0
+2844,Paisas,Oficina de Envigado,4
+2845,Paisas,CIACS,0
+2846,Paisas,ERPAC,6
+2847,Oficina de Envigado,CIACS,0
+2848,Oficina de Envigado,ERPAC,3
+2849,CIACS,ERPAC,0

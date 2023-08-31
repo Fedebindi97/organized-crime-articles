@@ -1,77 +1,77 @@
-,name,alias,super_group
-0,Central General Staff,,Ex-FARC Mafia
-1,Acacio Medina Front,,Ex-FARC Mafia
-2,Las Claritas Sindicato,,
-3,Carlos Capa Gang,,
-4,The R Organization,,
-5,Tren de Guayana,,
-6,Lobos,,
-7,10th Front,,Ex-FARC Mafia
-8,Pachenca,,
-9,Bala na Cara,,
-10,Border Command,,
-11,Lagartos,,
-12,Cárteles Unidos,,
-13,Shining Path,,
-14,Sinaloa Cartel,,
-15,Bagdad,,
-16,Libertadores del Vichada,,
-17,EPL,,
-18,Choneros,,
-19,Escritório do Crime,,
-20,Border Security Colectivo,,
-21,Cartel of the Suns,,
-22,The Meleán,,
-23,Fuerza Anti-Unión,,
-24,La Unión Tepito,,
-25,Rotela Clan,,
-26,Second Marquetalia,,
-27,Chapitos,,
-28,Tren de Aragua,,
-29,Family of the North,FDN,
-30,Monos,,
-31,Caparros,,
-32,Jalisco Cartel New Generation,CJNG,
-33,Amigos dos Amigos,,
-34,1st Front,,Ex-FARC Mafia
-35,Knights Templar,,
-36,Juarez Cartel,,
-37,Tijuana Cartel,,
-38,Gulf Cartel,,
-39,Familia Michoacana,,
-40,Cachiros,,
-41,Perrones Cartel,,
-42,Barrio 18,,
-43,Texis Cartel,,
-44,MS13,,
-45,FARC,,
-46,Rastrojos,,
-47,ELN,,
-48,Norte del Valle Cartel,,
-49,Red Command,,
-50,First Capital Command,PCC,
-51,Tren del Llano,,
-52,Atlantic Cartel,,
-53,Calor Calor,,
-54,Guerreros Unidos,,
-55,Pure Third Command,,
-56,Valles,,
-57,Beltrán Leyva Organization,,
-58,EPR,,
-59,Juárez Cartel,,
-60,Gulf Clan,AGC,
-61,Barrio Azteca,,
-62,FBL,FPLN,
-63,Tarzanes,,
-64,Reñazcos,,
-65,Zetas,,
-66,Perrones,,
-67,Autodefensas Unidas de Colombia,AUC,
-68,Mendozas,,
-69,Leones,,
-70,Lorenzanas,,
-71,Águilas Negras,,
-72,Paisas,,
-73,Oficina de Envigado,,
-74,CIACS,,
-75,ERPAC,,
+,name,alias,super_group,search_term
+0,Central General Staff,,Ex-FARC Mafia,Central General Staff
+1,Acacio Medina Front,,Ex-FARC Mafia,Acacio Medina Front
+2,Las Claritas Sindicato,,,Las Claritas Sindicato
+3,Carlos Capa Gang,,,Carlos Capa Gang
+4,The R Organization,,,The R Organization
+5,Tren de Guayana,,,Tren de Guayana
+6,Lobos,,,Lobos
+7,10th Front,,Ex-FARC Mafia,10th Front
+8,Pachenca,,,Pachenca
+9,Bala na Cara,,,Bala na Cara
+10,Border Command,,,Border Command
+11,Lagartos,,,Lagartos
+12,Cárteles Unidos,,,Cárteles Unidos
+13,Shining Path,,,Shining Path
+14,Sinaloa Cartel,,,Sinaloa Cartel
+15,Bagdad,,,Bagdad
+16,Libertadores del Vichada,,,Libertadores del Vichada
+17,EPL,,,EPL
+18,Choneros,,,Choneros
+19,Escritório do Crime,,,Escritório do Crime
+20,Border Security Colectivo,,,Border Security Colectivo
+21,Cartel of the Suns,,,Cartel of the Suns
+22,The Meleán,,,The Meleán
+23,Fuerza Anti-Unión,,,Fuerza Anti-Unión
+24,La Unión Tepito,,,La Unión Tepito
+25,Rotela Clan,,,Rotela Clan
+26,Second Marquetalia,,,Second Marquetalia
+27,Chapitos,,,Chapitos
+28,Tren de Aragua,,,Tren de Aragua
+29,Family of the North,FDN,,Family of the North
+30,Monos,,,Monos
+31,Caparros,,,Caparros
+32,Jalisco Cartel New Generation,CJNG,,Jalisco Cartel New Generation
+33,Amigos dos Amigos,,,Amigos dos Amigos
+34,1st Front,,Ex-FARC Mafia,1st Front
+35,Knights Templar,,,Knights Templar
+36,Juarez Cartel,,,Juarez Cartel
+37,Tijuana Cartel,,,Tijuana Cartel
+38,Gulf Cartel,,,Gulf Cartel
+39,Familia Michoacana,,,Familia Michoacana
+40,Cachiros,,,Cachiros
+41,Perrones Cartel,,,Perrones Cartel
+42,Barrio 18,,,Barrio 18
+43,Texis Cartel,,,Texis Cartel
+44,MS13,,,MS13
+45,FARC,,,FARC
+46,Rastrojos,,,Rastrojos
+47,ELN,,,ELN
+48,Norte del Valle Cartel,,,Norte del Valle Cartel
+49,Red Command,,,Red Command
+50,First Capital Command,PCC,,First Capital Command
+51,Tren del Llano,,,Tren del Llano
+52,Atlantic Cartel,,,Atlantic Cartel
+53,Calor Calor,,,Calor Calor
+54,Guerreros Unidos,,,Guerreros Unidos
+55,Pure Third Command,,,Pure Third Command
+56,Valles,,,Valles
+57,Beltrán Leyva Organization,,,Beltrán Leyva Organization
+58,EPR,,,EPR
+59,Juárez Cartel,,,Juárez Cartel
+60,Gulf Clan,AGC,,Gulf Clan
+61,Barrio Azteca,,,Barrio Azteca
+62,FBL,FPLN,,FBL
+63,Tarzanes,,,Tarzanes
+64,Reñazcos,,,Reñazcos
+65,Zetas,,,Zetas
+66,Perrones,,,Perrones
+67,Autodefensas Unidas de Colombia,AUC,,Autodefensas Unidas de Colombia
+68,Mendozas,,,Mendozas
+69,Leones,,,Leones
+70,Lorenzanas,,,Lorenzanas
+71,Águilas Negras,,,Águilas Negras
+72,Paisas,,,Paisas
+73,Oficina de Envigado,,,Oficina de Envigado
+74,CIACS,,,CIACS
+75,ERPAC,,,ERPAC
